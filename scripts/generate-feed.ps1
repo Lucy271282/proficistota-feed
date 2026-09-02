@@ -187,7 +187,7 @@ foreach ($p in $products) {
         continue
     }
 
-    $code = $p.CODE
+    $code = "-PC$($p.CODE)"
     $ean = $p.EAN
     $unit = $p.UNIT
     $stockRaw = 0
@@ -268,12 +268,12 @@ foreach ($p in $products) {
 
     if ($rel.Count -gt 0) {
         $xw.WriteStartElement("RELATED_PRODUCTS")
-        foreach ($rc in $rel) { $xw.WriteElementString("CODE", $rc) }
+        foreach ($rc in $rel) { $xw.WriteElementString("CODE", "-PC$rc") }
         $xw.WriteEndElement()
     }
     if ($alt.Count -gt 0) {
         $xw.WriteStartElement("ALTERNATIVE_PRODUCTS")
-        foreach ($ac in $alt) { $xw.WriteElementString("CODE", $ac) }
+        foreach ($ac in $alt) { $xw.WriteElementString("CODE", "-PC$ac") }
         $xw.WriteEndElement()
     }
 
