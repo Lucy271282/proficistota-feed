@@ -77,7 +77,7 @@ $keywordRules = [ordered]@{
     'abraz|cistiac. pasta|čistiac. pasta|prasok|prášok' = 'KW_ABRAZIVA'
     'osviezovac|osviežovač|difuzer|difuzér'       = 'KW_OSVIEZOVACE'
     'repelent|hmyz|komar|komár|proti much'        = 'KW_HMYZ'
-    'riad\b|umyvanie riadu|umývanie riadu'        = 'KW_RIAD'
+    'riad|umyvanie riadu|umývanie riadu'          = 'KW_RIAD'
     'univerzaln. cistic|univerzáln. čistič'       = 'KW_UNIVERZALNE'
     'praci|prací|pracie|na pranie|gel na pranie|gél na pranie' = 'KW_PRACIE'
     'aviva|avivaž|škvŕn|skvrn'                    = 'KW_AVIVAZ'
@@ -93,10 +93,63 @@ $keywordRules = [ordered]@{
     'plet\b|seru\b|séru\b'                        = 'KW_PLET'
 }
 
+$diacriticMap = @{
+    [char]0x00E1='a'; [char]0x00E4='a'; [char]0x010D='c'; [char]0x010F='d'
+    [char]0x00E9='e'; [char]0x00ED='i'; [char]0x013E='l'; [char]0x013A='l'
+    [char]0x0148='n'; [char]0x00F3='o'; [char]0x00F4='o'; [char]0x0155='r'
+    [char]0x0161='s'; [char]0x0165='t'; [char]0x00FA='u'; [char]0x00FD='y'
+    [char]0x017E='z'
+    [char]0x00C1='A'; [char]0x00C4='A'; [char]0x010C='C'; [char]0x010E='D'
+    [char]0x00C9='E'; [char]0x00CD='I'; [char]0x013D='L'; [char]0x0139='L'
+    [char]0x0147='N'; [char]0x00D3='O'; [char]0x00D4='O'; [char]0x0154='R'
+    [char]0x0160='S'; [char]0x0164='T'; [char]0x00DA='U'; [char]0x00DD='Y'
+    [char]0x017D='Z'
+}
+function Remove-Diacritics($s) {
+    if (-not $s) { return $s }
+    $sb = New-Object System.Text.StringBuilder
+    foreach ($ch in $s.ToCharArray()) {
+        if ($diacriticMap.ContainsKey($ch)) { [void]$sb.Append($diacriticMap[$ch]) }
+        else { [void]$sb.Append($ch) }
+    }
+    return $sb.ToString()
+}
+
+# extra ASCII-only stems added after auditing the "Ostatné" residual list
+$keywordRulesExtra = [ordered]@{
+    'pletov|vrask|micelarn|obocie'          = 'KW_PLET'
+    'kondicioner|\bmaska\b'                 = 'KW_VLASY'
+    'zubn'                                   = 'KW_ZUBNA'
+    'corega|ustna voda'                      = 'KW_ZUBNA'
+    'holen'                                   = 'KW_HOLENIE'
+    'umyvack|sol do umyvac'                 = 'KW_RIAD'
+    'glade|\bwick\b|sviecka|vonna'          = 'KW_OSVIEZOVACE'
+    '\bbiolit\b|\btrap\b'                   = 'KW_HMYZ'
+    '\bcoccolino\b|\bbeckmann\b|\blenor\b'  = 'KW_AVIVAZ'
+    '\blibresse\b'                          = 'KW_DAMSKA_HYGIENA'
+    'umyvacia pena|mliek. opal|balzam|\bkrem\b|\bmast\b' = 'KW_TELO'
+    'vodn. kamen|odvapnovac'                = 'KW_ODMASTOVACE'
+    '\bdeo\b|\bstr8\b|\bezo\b'              = 'KW_DEZODORANT'
+    'tuzidlo|wellaflex|melir'               = 'KW_VLASY'
+    'cistic|cistiac|prostriedok na povrchy' = 'KW_UNIVERZALNE'
+    'mys\b|potkan|\bmol\b|molam|osiam|srsn|mucholapk|na muchy|proti muc|hmy\b|postipan|\braid\b|odparovac' = 'KW_HMYZ'
+    'naplast|kompres steril|tehotensky test' = 'KW_TELO'
+    'odlicov|tonikum|pod oci|tvarov. seru|vankusiky pod' = 'KW_PLET'
+    'pena do kupela|umyvacia emulzia|gel na nohy|francovka|intim gel' = 'KW_TELO'
+    'dratenk'                                = 'KW_HUBKY'
+    'tekuty piesok'                          = 'KW_ABRAZIVA'
+    'vona do pradla'                         = 'KW_AVIVAZ'
+    'gillette|\brazor\b'                     = 'KW_HOLENIE'
+}
+
 function Get-KeywordCategory($title) {
     if (-not $title) { return $kwMap['KW_OSTATNE'] }
+    $plain = Remove-Diacritics $title
     foreach ($k in $keywordRules.Keys) {
-        if ($title -match $k) { return $kwMap[$keywordRules[$k]] }
+        if ($plain -match $k) { return $kwMap[$keywordRules[$k]] }
+    }
+    foreach ($k in $keywordRulesExtra.Keys) {
+        if ($plain -match $k) { return $kwMap[$keywordRulesExtra[$k]] }
     }
     return $kwMap['KW_OSTATNE']
 }
