@@ -86,6 +86,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/y/y6928490b6e620-254210007647-0.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>24</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -172,71 +178,11 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4808</VALUE>
+          <VALUE>4688</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>HP Domestos Čistiaci a dezinfekčný prostriedok Ultra White White &amp; Shine 750 ml</NAME>
-    <SHORT_DESCRIPTION>Domestos Ultra White White &amp; Shine, 750 ml. Hustý dezinfekčný prostriedok, ktorý priľne k stenám misy a odstráni nečistoty aj usadeniny. Navyše zosvetľuje a vracia povrchom bielu farbu.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Domestos Ultra White White &amp;amp; Shine je hustý tekutý čistiaci a dezinfekčný prostriedok v objeme 750 ml. Vďaka hustej konzistencii priľne k stenám toaletnej misy a pôsobí dlhšie než riedke čističe.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Čistenie a dezinfekcia&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Odstraňuje organické nečistoty a usadeniny a zároveň povrch dezinfikuje. Obsah bieliacich zložiek navyše zosvetľuje zažltnuté povrchy.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kde ho použijete&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Na toaletnú misu, pisoár, odpady, umývadlá a sanitu. Naneste pod okraj misy, nechajte pôsobiť a spláchnite. Vhodný do domácnosti aj do prevádzky.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Objem 750 ml&lt;/li&gt;
-&lt;li&gt;Hustá konzistencia — priľne k povrchu a nesteká&lt;/li&gt;
-&lt;li&gt;Čistí a dezinfikuje&lt;/li&gt;
-&lt;li&gt;Bieliaci účinok&lt;/li&gt;
-&lt;li&gt;Pre domácnosti aj prevádzky&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Objem:&lt;/strong&gt; 750 ml&lt;br&gt;&lt;strong&gt;Variant:&lt;/strong&gt; Ultra White White &amp;amp; Shine&lt;br&gt;&lt;strong&gt;Typ:&lt;/strong&gt; čistiaci a dezinfekčný prostriedok&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Domestos</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC495508818</CODE>
-    <EAN>8712561346597,8712561346603</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; WC, kúpeľňa a sanita</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/c/c6928490cda5ab-2542100010164-0.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023131738</CODE>
-      <CODE>-PC49540280023141883</CODE>
-      <CODE>-PC495402800231111</CODE>
-      <CODE>-PC49640280023131731</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49540280023131647</CODE>
-      <CODE>-PC49540280023131648</CODE>
-      <CODE>-PC49540280023131649</CODE>
-      <CODE>-PC49540280023132074</CODE>
-      <CODE>-PC49540280023132146</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>1.43</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>HP Jar tekutý prostriedok na umývanie riadu Lemon 2 x 900 ml</NAME>
@@ -392,6 +338,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/i/i6936ecb61d099-14393-snimka-obrazovky-2025-09-09-223544.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>13</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -512,6 +464,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/e/e6a2458d01fd78-hf-20260606-172732-2b1dd0f8-eeb0-4d8c-a271-fc764f3d0398.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>240</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131512</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -570,6 +528,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/2/26a357de6a6977-cis1734.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>21</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -596,7 +560,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2594</VALUE>
+          <VALUE>2489</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -628,6 +592,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/q/q6936ecb6dd8e4-hy000830-18338-1739068034.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>80</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132100</CODE>
@@ -1212,6 +1182,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x69ccc8b937927-hf-20260401-072429-f8f67649-9093-46e0-8c19-77611aed77ad.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>24</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -1984,6 +1960,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/0/06957b6b3afd41-2139-800x800.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>170</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132175</CODE>
       <CODE>-PC49540280023133281</CODE>
@@ -2151,6 +2133,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/f/f6936ecbc24aaa-64-1-expo-10-100.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -2208,6 +2196,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/p/p6a673e054a05a-hf-20260727-111121-4b7e0876-185d-4fb3-b6ba-0946f3c0c5b3.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>24</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -2264,6 +2258,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/q/q6a673ede170cf-hf-20260727-111535-dd1ee70a-a2bc-44f2-9f20-8cfc78be3f16.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>24</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -2320,6 +2320,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/2/26a673de83448b-hf-20260727-110314-c84649ce-3a5b-498f-83e9-94a8b505912a.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>24</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -2376,6 +2382,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/h/h6a673e177985a-hf-20260727-111135-c3fc338b-ec24-4cb3-b278-0e9d607cc98f.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>24</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -2548,6 +2560,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/i/i6a37ada389940-hf-20260621-091624-6bc1a56c-a847-4b6b-a879-ac53580639f9.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023131669</CODE>
@@ -2665,7 +2683,7 @@
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
         <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>12</VALUE>
+        <VALUE>10</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -2730,7 +2748,7 @@
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
         <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>12</VALUE>
+        <VALUE>10</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -2909,6 +2927,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/9/96957b712b6184-1026-800x800.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -2934,7 +2958,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>504</VALUE>
+          <VALUE>494</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2967,6 +2991,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/j/j699cc183aed75-lintu-white-10kg.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131619</CODE>
       <CODE>-PC49540280023132103</CODE>
@@ -3082,6 +3112,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/y/y6936ecbfa8e04-6667-800x800.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -3134,6 +3170,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/5/56a6755d817903-hf-20260727-125429-58c73185-871c-47c3-affc-f98e7be2bc4a.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -3192,6 +3234,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/u/u6936ecc0a13c6-grl8585003910836-w800-h600-flags1-watermark.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>18</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -3625,6 +3673,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/66936ecc134a08-hy000829-18253-1739068034.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>80</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132100</CODE>
@@ -3738,6 +3792,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/3/36a48e65b30b94-hf-20260704-104930-584552ea-88a7-4a1a-be17-250afe694696.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -3796,6 +3856,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/a/a6a48caa9f170b-hf-20260704-085334-ae39c705-7e10-489c-8bb4-bfa6d7016dba.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>240</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -3854,6 +3920,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/h/h6a48ca8c14e36-hf-20260704-085316-04cfe099-e99e-4789-8e83-e6b6adc67252.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>240</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -3911,6 +3983,12 @@
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/2/26a6767af2925c-hf-cervena-modra-so-sivym.png</IMAGE>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/o/o6a675913c9b58-hf-20260727-130233-380474de-76c6-4129-9eec-d1bc9bcf6b96.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -3969,6 +4047,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/2/26a48e66bac4e1-hf-20260704-105259-ec31670b-9a70-482c-85f6-d15fef8760ef.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -4027,6 +4111,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/e/e6a48e67c5c0e5-hf-20260704-105341-791ecb52-55e8-4e1e-8059-35aa25f8d944.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -4117,7 +4207,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>7477</VALUE>
+          <VALUE>7465</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -4150,6 +4240,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/t/t6a48e8825e092-hf-20260704-110131-a7bf576b-7a12-4585-9aa2-0ee9e1225ff9.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -4392,6 +4488,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/5/56a48eb685e6ac-hf-20260704-111308-0ecd25d9-40ea-4514-85b6-7d8489e297d1.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -4450,6 +4552,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6a48c9b765968-hf-20260704-081944-93da73af-beb1-418c-bc3b-2bd35c77f16a.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>240</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -4509,6 +4617,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/7/76a6a216d0dd6f-254170003585-0.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -4567,6 +4681,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/a/a6957b6f523755-2055-800x800.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131619</CODE>
       <CODE>-PC49540280023132103</CODE>
@@ -4738,6 +4858,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/f/f69dcbf7d911ab-tatrachema-luxon-rychlorozpustac-vodneho-kamena-100-g.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>20</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -5081,6 +5207,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/q/q6936ecc5ad1f0-68-406-1.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>24</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -5204,6 +5336,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/l/l6a48e874ef1f4-hf-20260704-105832-9d2ab15e-f6ed-45ba-a3ae-508c2f6e491d.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -5351,7 +5489,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4048</VALUE>
+          <VALUE>4043</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -5382,6 +5520,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/66a67433fe522c-hf-20260727-113318-bc4cd110-0540-4311-9c74-d571ac3fa6c7.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>24</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -5498,6 +5642,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/a/a6a1beb8022a0c-hf-20260531-080302-8d17fbe4-d9d2-4942-88b5-e5bbc09aeab4.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131738</CODE>
       <CODE>-PC49540280023131649</CODE>
@@ -5610,6 +5760,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/m/m6936ecc7dc879-zoom1285.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>100</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -5668,6 +5824,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/f/f6a1beb0dbf52b-hf-20260531-080032-53c71187-6089-4a55-8c50-ddb6874a288a.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131738</CODE>
       <CODE>-PC49540280023131649</CODE>
@@ -7442,6 +7604,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a2ffcb7a59ef-hf-20260615-130633-276a7c77-6221-4cdb-ad06-3ad2492b9e1b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -7500,6 +7668,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a2ffcb7a59ef-hf-20260615-130633-276a7c77-6221-4cdb-ad06-3ad2492b9e1b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -7558,6 +7732,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/7/769591d1b3c148-mikrofasermopp-professional.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>70</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -7616,6 +7796,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/2/269db48168b9da-mikrofasermopp-premium.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -7674,6 +7860,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/7/769591c0b14c19-mikrofasermopp-speed.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -7732,6 +7924,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/u/u695915496065b-baumwollmopp-professional.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>60</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -7790,6 +7988,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/u/u695915496065b-baumwollmopp-professional.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>60</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -7964,6 +8168,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/f/f6a34428c10086-hf-20260618-190329-e16fd5d9-3680-43dd-a72d-73d2426ce96b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -8080,6 +8290,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/f/f6a34428c10086-hf-20260618-190329-e16fd5d9-3680-43dd-a72d-73d2426ce96b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -8139,6 +8355,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a36443114763-mopphalter-magnet.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023131669</CODE>
@@ -8198,6 +8420,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a36443114763-mopphalter-magnet.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023131669</CODE>
@@ -8257,6 +8485,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/j/j6928490c9fe4d-254210007624-0.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132058</CODE>
       <CODE>-PC49540280023132046</CODE>
@@ -8311,6 +8545,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/66957c3185fc1e-6746-800x800.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -8370,6 +8610,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/u/u6957c4d524ffe-lyn-12153.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -8429,6 +8675,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/8/86928490cac286-254210007666-0.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>30</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49640280023131687</CODE>
       <CODE>-PC49540280023131619</CODE>
@@ -8487,6 +8739,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/8/86a6a00433ba7e-cis2346.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>30</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49640280023131687</CODE>
       <CODE>-PC49540280023131619</CODE>
@@ -8890,7 +9148,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1519</VALUE>
+          <VALUE>1513</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -8956,7 +9214,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>93</VALUE>
+          <VALUE>89</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9017,118 +9275,6 @@
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>HP Toaletný papier BigSoft Plus 2vr, 160 útržkov, 24 ks</NAME>
-    <SHORT_DESCRIPTION>Toaletný papier BigSoft Plus, dvojvrstvový, 160 útržkov, balenie 24 ks. Na každodenné použitie.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Toaletný papier BigSoft Plus 2vr 160 útržkov 24ks je dvojvrstvový toaletný papier, v balení 24 ks. Klasické rolky do domácnosti aj do menších prevádzok. Balenie 24 ks vystačí na dlhšie obdobie.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vrstvy a komfort&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Dvojvrstvové prevedenie je overeným štandardom, ktorý spája dostatočnú pevnosť s priaznivou cenou.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Praktické informácie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Balenie 24 ks znižuje cenu za rolku a vystačí na dlhšie obdobie, takže nemusíte nakupovať tak často. Každá rolka má 160 útržkov.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;2-vrstvový&lt;/li&gt;
-&lt;li&gt;160 útržkov&lt;/li&gt;
-&lt;li&gt;Balenie 24 ks&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Vrstvy:&lt;/strong&gt; 2-vrstvový&lt;br&gt;&lt;strong&gt;Útržky:&lt;/strong&gt; 160 útržkov&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 24 ks&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49640280023131826</CODE>
-    <EAN>8594042233998</EAN>
-    <CATEGORIES>
-      <CATEGORY>Papierový program &gt; Toaletný papier</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/l/l696865b825935-obrazok1.jpg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023131716</CODE>
-      <CODE>-PC49540280023131649</CODE>
-      <CODE>-PC49540280023131850</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49640280023131825</CODE>
-      <CODE>-PC49640280023131827</CODE>
-      <CODE>-PC49640280023131869</CODE>
-      <CODE>-PC49640280023131731</CODE>
-      <CODE>-PC49640280023131732</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>6.09</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>HP Toaletný papier BigSoft Clean 3vr, 150 útržkov, 8 ks</NAME>
-    <SHORT_DESCRIPTION>Toaletný papier BigSoft Clean, trojvrstvový, 150 útržkov, balenie 8 ks. Mimoriadne jemný k pokožke.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Toaletný papier BigSoft Clean 3vr 150 útržkov 8ks je trojvrstvový toaletný papier, v balení 8 ks. Klasické rolky do domácnosti aj do menších prevádzok. Balenie 8 ks vystačí na dlhšie obdobie.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vrstvy a komfort&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Trojvrstvové prevedenie zaisťuje mäkkosť aj pevnosť — papier sa pri použití neroztrhne.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Praktické informácie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Balenie 8 ks znižuje cenu za rolku a vystačí na dlhšie obdobie, takže nemusíte nakupovať tak často. Každá rolka má 150 útržkov.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;3-vrstvový&lt;/li&gt;
-&lt;li&gt;150 útržkov&lt;/li&gt;
-&lt;li&gt;Balenie 8 ks&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Vrstvy:&lt;/strong&gt; 3-vrstvový&lt;br&gt;&lt;strong&gt;Útržky:&lt;/strong&gt; 150 útržkov&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 8 ks&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49640280023131827</CODE>
-    <EAN>8594042234018</EAN>
-    <CATEGORIES>
-      <CATEGORY>Papierový program &gt; Toaletný papier</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/z/z6957bc4a57605-obrazok15.png</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023131716</CODE>
-      <CODE>-PC49540280023131649</CODE>
-      <CODE>-PC49540280023131850</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49640280023131869</CODE>
-      <CODE>-PC49640280023131825</CODE>
-      <CODE>-PC49640280023131826</CODE>
-      <CODE>-PC49640280023131731</CODE>
-      <CODE>-PC49640280023131732</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>2.13</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>HP Kuchynské utierky BigSoft Classic 2vr, 51 útržkov, 2 ks</NAME>
@@ -9419,7 +9565,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>8835</VALUE>
+          <VALUE>8830</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9885,6 +10031,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/d/d6a305b43aecbe-hf-20260615-195644-0b5ccecf-f34d-4b3c-895f-80618f7df716.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>70</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -9944,6 +10096,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/d/d6a305b43aecbe-hf-20260615-195644-0b5ccecf-f34d-4b3c-895f-80618f7df716.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>70</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -10120,6 +10278,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/1/16a48ddea49128-hf-20260704-101256-855fd114-dd11-477f-9d65-06522e9f109b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -10177,6 +10341,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/7/76a48ddcd927f5-hf-20260704-101607-4a4d68fb-aeeb-43e3-94df-b0b509d10695.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -10234,6 +10404,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/4/46a48dddbade07-hf-20260704-101637-732e9aae-550e-474e-873d-5299570a049f.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -10292,6 +10468,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/l/l6a48ca9b2737b-hf-20260704-085357-7fd3654a-637a-4ff0-8505-695bcb603824.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>240</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -10467,6 +10649,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/5/56a48eb685e6ac-hf-20260704-111308-0ecd25d9-40ea-4514-85b6-7d8489e297d1.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -10524,6 +10712,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/m/m6a48ec9a1285f-hf-20260704-111932-8caeb979-2ad6-48f8-a48f-40076f7800f3.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -10583,6 +10777,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/q/q6a6a2270762fa-cis300.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -10708,6 +10908,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/c/c696af85136ef0-71pi2mr5nxl-ac-sl1500.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -10768,6 +10974,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/1/16981f5866f5c4-cif-spray-greenactive-anticalcare-universale.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -10828,6 +11040,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/u/u6969d57359e11-sgrasciftri6ca.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -10887,6 +11105,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/5/56969d5b694523-sgrasciftri6cal.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -10946,6 +11170,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/u/u696af7158f1b0-sgrasciftri6gli.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -11005,6 +11235,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/q/q6969d60237ee7-sgrasciftri6gcr.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -11064,6 +11300,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/4/46982415475110-cif-crema-spray-green-active-sgrassatore-al-limone.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -11121,6 +11363,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/u/u695915496065b-baumwollmopp-professional.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>60</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -11179,6 +11427,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/u/u695915496065b-baumwollmopp-professional.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>60</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -11237,6 +11491,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/o/o6a305a15e136b-hf-20260615-195602-768a5fca-ecff-449a-a3bd-6df679110ba3.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>60</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -11295,6 +11555,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/o/o6a305a15e136b-hf-20260615-195602-768a5fca-ecff-449a-a3bd-6df679110ba3.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>60</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -11353,6 +11619,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/7/769591d1b3c148-mikrofasermopp-professional.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>70</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -11379,7 +11651,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>197</VALUE>
+          <VALUE>187</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -11411,6 +11683,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/7/769591c0b14c19-mikrofasermopp-speed.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -12743,6 +13021,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/7/76990e04a12d22-fre-pro-mango-bowl-clip.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -12833,7 +13117,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5948</VALUE>
+          <VALUE>5943</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -12866,6 +13150,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/c/c69a8af2707282-grilpur-500-ml-s-rozprasovacom.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -13387,6 +13677,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/j/j6a2e6ab405023-hf-20260121-063538-5fc0cec9-560f-4492-81c5-8176562f3a48-1.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131512</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -13444,6 +13740,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/z/z6a2e6a88d0a1e-hf-20260614-083916-19e6fcaf-e036-49b8-8b40-30231b9608e2.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131512</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -13559,6 +13861,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/8/8698de6b5d485d-domestos-zero.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131738</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -13796,6 +14104,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/m/m698ddfb11d4fe-fre-pro-cotton-blossom.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131738</CODE>
       <CODE>-PC49540280023131649</CODE>
@@ -13854,6 +14168,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/w/w698ddf22aab90-fre-pro-cucumber-melon.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131738</CODE>
       <CODE>-PC49540280023131649</CODE>
@@ -13911,6 +14231,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/e/e698dde5865885-fre-pro-hantag-noney-suckle-1.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131738</CODE>
       <CODE>-PC49540280023131649</CODE>
@@ -13969,6 +14295,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/t/t698dd45727905-fre-pro-bowl-clip-cucumber-melon-new.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -14027,6 +14359,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/l/l698dd4e1cde1f-1046-800x800-1.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -14085,6 +14423,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x698dd18049958-fre-pro-cucumber-melon-slant.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -14143,6 +14487,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x698dd08b07e55-fre-pro-levander-slant.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -14201,6 +14551,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/e/e6a243eb4a8d09-hy155248-n.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>100</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -14259,6 +14615,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/m/m69c119db85f3e-spiced-apple.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>100</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -14317,6 +14679,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/66a2440409724d-hf-20260606-152950-f9731c2c-aa9d-4bbf-aa53-cfd5c7437900-m.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>100</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -14375,6 +14743,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/m/m6a2458589f03e-hf-20260606-172517-166b2767-90c0-40e7-b967-696634b8afa7.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -14433,6 +14807,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/a/a6a2457a578396-hf-20260606-172127-b77cfc0d-1e08-449e-929a-c234cf9a23b7.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -14491,6 +14871,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/u/u6a2455899e0a3-hf-20260606-171307-4d51b7f0-bc89-4026-ac2b-eaef3cc07e9c.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -14577,72 +14963,6 @@
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>HP Ajax univerzálny čistiaci prostriedok Ultra Lavender 1 l</NAME>
-    <SHORT_DESCRIPTION>Univerzálny čistiaci prostriedok Ajax Ultra Lavender na podlahy a umývateľné povrchy. Odstraňuje nečistoty aj mastnotu, nezanecháva šmuhy a netreba ho oplachovať. Vôňa levandule. Objem 1 l.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Univerzálny čistiaci prostriedok Ajax Ultra Lavender na podlahy a všetky umývateľné povrchy. Účinne odstraňuje bežné nečistoty aj mastnotu a zanecháva povrchy čisté, bez šmúh a s vôňou levandule.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vôňa a účinok&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Upokojujúca vôňa levandule, ktorá sa hodí do kúpeľne, spálne aj do obytných priestorov.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Použitie a dávkovanie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Na bežné upratovanie stačí pridať približne jeden uzáver do 5 litrov vody. Na odolnejšie nečistoty naneste prostriedok neriedený na navlhčenú handru alebo špongiu a povrch utrite. Povrchy nie je potrebné oplachovať.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Univerzálny — podlahy, obklady, dvere aj umývateľný nábytok&lt;/li&gt;
-&lt;li&gt;Čistí bez šmúh a nevyžaduje oplachovanie&lt;/li&gt;
-&lt;li&gt;Koncentrovaný — na vedro vody stačí malé množstvo&lt;/li&gt;
-&lt;li&gt;Vôňa levandule, ktorá v miestnosti vydrží aj po upratovaní&lt;/li&gt;
-&lt;li&gt;Vhodný do domácnosti, kancelárie aj do prevádzky&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Objem:&lt;/strong&gt; 1 l&lt;br&gt;&lt;strong&gt;Typ:&lt;/strong&gt; univerzálny čistiaci prostriedok&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 1 ks&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Ajax</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49540280023132245</CODE>
-    <EAN>8718951691988,08718951691971</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Univerzálne čističe</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/3/3698de12db11ad-ajax-levander-3.webp</IMAGE>
-    </IMAGES>
-    <TEXT_PROPERTIES>
-      <TEXT_PROPERTY>
-        <NAME>Počet kusov na palete</NAME>
-        <VALUE>600</VALUE>
-      </TEXT_PROPERTY>
-    </TEXT_PROPERTIES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023132058</CODE>
-      <CODE>-PC49540280023141883</CODE>
-      <CODE>-PC49540280023132225</CODE>
-      <CODE>-PC49540280023132175</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49540280023132246</CODE>
-      <CODE>-PC49540280023131824</CODE>
-      <CODE>-PC49540280023131825</CODE>
-      <CODE>-PC49540280023131826</CODE>
-      <CODE>-PC49540280023131827</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>2.09</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>HP Ajax univerzálny čistiaci prostriedok Ultra Fresh 1 l</NAME>
@@ -14804,6 +15124,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/q/q6a4142f9ef130-25425000186-0.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131738</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -14919,6 +15245,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/66a675c8798ece-hf-20260727-132030-2065c469-917a-4c4c-92bc-ff774b2daba2.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>25</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -15086,6 +15418,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a1d531461cea-hf-20260601-093727-7cf2e590-264b-4860-a985-f1e6baee03a5.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>18</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -15143,6 +15481,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/1/16a3ce81ea5060-hf-20260625-082838-4e493f09-011e-4955-a0fb-21e797481ce6.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132175</CODE>
       <CODE>-PC49540280023133281</CODE>
@@ -15201,6 +15545,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/1/16a3ce81ea5060-hf-20260625-082838-4e493f09-011e-4955-a0fb-21e797481ce6.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132175</CODE>
       <CODE>-PC49540280023133281</CODE>
@@ -15259,6 +15609,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/1/16a3ce81ea5060-hf-20260625-082838-4e493f09-011e-4955-a0fb-21e797481ce6.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132175</CODE>
       <CODE>-PC49540280023133281</CODE>
@@ -15317,6 +15673,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/1/16a3ce81ea5060-hf-20260625-082838-4e493f09-011e-4955-a0fb-21e797481ce6.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132175</CODE>
       <CODE>-PC49540280023133281</CODE>
@@ -15374,6 +15736,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/7/76a3ae3562cd5d-hf-20260623-193852-34d2adfc-78d1-436a-8c3c-b106226cf95a.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132175</CODE>
       <CODE>-PC49540280023133281</CODE>
@@ -15431,6 +15799,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/7/76a3ae3562cd5d-hf-20260623-193852-34d2adfc-78d1-436a-8c3c-b106226cf95a.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132175</CODE>
       <CODE>-PC49540280023133281</CODE>
@@ -15488,6 +15862,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/o/o6a3ae1c085834-hf-20260623-193410-22550e8c-33f7-4cbd-9358-74dcb5d316b3-1.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132175</CODE>
       <CODE>-PC49540280023133281</CODE>
@@ -15545,6 +15925,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/o/o6a3ae1c085834-hf-20260623-193410-22550e8c-33f7-4cbd-9358-74dcb5d316b3-1.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132175</CODE>
       <CODE>-PC49540280023133281</CODE>
@@ -15602,6 +15988,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/o/o6a3ae1c085834-hf-20260623-193410-22550e8c-33f7-4cbd-9358-74dcb5d316b3-1.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132175</CODE>
       <CODE>-PC49540280023133281</CODE>
@@ -15659,6 +16051,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/o/o6a3ae1c085834-hf-20260623-193410-22550e8c-33f7-4cbd-9358-74dcb5d316b3-1.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132175</CODE>
       <CODE>-PC49540280023133281</CODE>
@@ -16530,6 +16928,12 @@
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/4/46a2d1993f2ebc-hf-20260613-084640-de808472-329e-4ccf-bcde-10153aa9c679.png</IMAGE>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/5/5699db88c869b6-250g.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>60</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -16764,6 +17168,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/d/d699cbff8eb34f-green-line-strong-10-kg.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131619</CODE>
       <CODE>-PC49540280023132103</CODE>
@@ -16789,7 +17199,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>766</VALUE>
+          <VALUE>744</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -16822,6 +17232,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/6699cc273d5a6e-lintu-color-10kg.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131619</CODE>
       <CODE>-PC49540280023132103</CODE>
@@ -16940,6 +17356,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/d/d6a6a215856f4e-254170003584-0.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -17116,6 +17538,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/a/a6a414311cf92a-254240004034-0.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131738</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -18431,62 +18859,6 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP Toaletný papier BigSoft Clean 3vr, 150 útržkov, 24 ks</NAME>
-    <SHORT_DESCRIPTION>Toaletný papier BigSoft Clean, trojvrstvový, 150 útržkov, balenie 24 ks. Mimoriadne jemný k pokožke.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Toaletný papier BigSoft Clean 3vr 150 útržkov 24ks je trojvrstvový toaletný papier, v balení 24 ks. Klasické rolky do domácnosti aj do menších prevádzok. Balenie 24 ks vystačí na dlhšie obdobie.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vrstvy a komfort&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Trojvrstvové prevedenie zaisťuje mäkkosť aj pevnosť — papier sa pri použití neroztrhne.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Praktické informácie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Balenie 24 ks znižuje cenu za rolku a vystačí na dlhšie obdobie, takže nemusíte nakupovať tak často. Každá rolka má 150 útržkov.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;3-vrstvový&lt;/li&gt;
-&lt;li&gt;150 útržkov&lt;/li&gt;
-&lt;li&gt;Balenie 24 ks&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Vrstvy:&lt;/strong&gt; 3-vrstvový&lt;br&gt;&lt;strong&gt;Útržky:&lt;/strong&gt; 150 útržkov&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 24 ks&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49640280023131869</CODE>
-    <EAN>8594042234230</EAN>
-    <CATEGORIES>
-      <CATEGORY>Papierový program &gt; Toaletný papier</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/e/e699ed4bb0b68d-big-soft-clean-toaletny-papier.jpg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023131716</CODE>
-      <CODE>-PC49540280023131649</CODE>
-      <CODE>-PC49540280023131850</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49640280023131827</CODE>
-      <CODE>-PC49640280023131825</CODE>
-      <CODE>-PC49640280023131826</CODE>
-      <CODE>-PC49640280023131731</CODE>
-      <CODE>-PC49640280023131732</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>7.02</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>HP Toaletný papier Velvet jemne biely 3vr, 150 útržkov, 24 ks</NAME>
     <SHORT_DESCRIPTION>Toaletný papier Velvet jemne biely, trojvrstvový, 150 útržkov, balenie 24 ks. Mimoriadne jemný k pokožke.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Toaletný papier Velvet jemne biely 3vr 150 útržkov 24ks je trojvrstvový toaletný papier, v balení 24 ks. Klasické rolky do domácnosti aj do menších prevádzok. Balenie 24 ks vystačí na dlhšie obdobie.&lt;/p&gt;
@@ -18569,6 +18941,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/r/r699cc0f649fdf-green-line-color-10kg.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131619</CODE>
       <CODE>-PC49540280023132103</CODE>
@@ -18627,6 +19005,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/2/2699cbb273ad3c-green-line-strong-600g.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131619</CODE>
       <CODE>-PC49540280023132103</CODE>
@@ -18685,6 +19069,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/a/a699cbd6e17fa4-green-line-color-600g.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131619</CODE>
       <CODE>-PC49540280023132103</CODE>
@@ -18801,6 +19191,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/d/d6a69ff047975d-cis2348.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -18855,6 +19251,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/l/l69a8b15611db9-luxon-perkarbonat-sodny-100-g.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>20</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -18911,6 +19313,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/v/v69a8b09aafc17-diava-octovy-cistic-9920-ml.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -18970,6 +19378,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/v/v6a266ca68170f-large-velvana-glacidet-letna-napln-do-ostrekovacov-melon-5l.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>3</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132058</CODE>
       <CODE>-PC49540280023133268</CODE>
@@ -19024,6 +19438,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/y/y6a26813aaa551-hf-20260316-094024-b8ab4fb7-422d-4a98-a68e-b092c5d4e907.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131619</CODE>
       <CODE>-PC49540280023132103</CODE>
@@ -19082,6 +19502,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/5/56a4916066ccd5-hf-20260704-141316-2396eeda-38dd-40fe-984d-164c576c1a33.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -19140,6 +19566,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/66a4915c202dae-hf-20260704-141514-43b5e5c3-d5ad-4e82-a255-e11b4aa59128.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -19198,6 +19630,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/t/t6a491754aa521-hf-20260704-141705-84665432-e6a3-42b8-bacd-ae0e01ad6d08.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -19255,6 +19693,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a48e1759d831-hf-20260704-102713-17760fef-a3b5-4536-9fc9-fce347397e7b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -19313,6 +19757,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a48e1759d831-hf-20260704-102713-17760fef-a3b5-4536-9fc9-fce347397e7b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -19371,6 +19821,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a48e1759d831-hf-20260704-102713-17760fef-a3b5-4536-9fc9-fce347397e7b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -19428,6 +19884,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a48e1759d831-hf-20260704-102713-17760fef-a3b5-4536-9fc9-fce347397e7b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -20002,6 +20464,12 @@
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/h/h6a2451aa5a696-hf-20260606-165652-15f03c54-337e-49b1-9054-75a602cceb6a.png</IMAGE>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/f/f6a24534ae08ea-hf-20260606-170356-8474e3d9-7985-4df0-b308-0be10dd2553b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131512</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -20059,6 +20527,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/f/f6a05999ee063d-q69ce25bf997d2-hf-20260401-083554-783a2251-1cbb-44e0-a185-25e9a900c2d4-copy-uprava-velkosti.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>60</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131512</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -20116,6 +20590,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/q/q69ce25bf997d2-hf-20260401-083554-783a2251-1cbb-44e0-a185-25e9a900c2d4.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>60</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131512</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -20174,6 +20654,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/z/z6a245762b7d95-hf-20260606-172000-83378067-f8dd-4f6b-86f2-0fe31b613408.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>24</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131512</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -20230,6 +20716,12 @@
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/f/f6a2a7a6fadc70-hf-20260611-085449-cdfb705f-88e6-42b8-95a5-29b9063ae0e7.png</IMAGE>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/v/v69ce35de106c0-hf-20260402-084826-23aa16b3-8ac5-4f90-a931-36323088a1b6.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>30</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -20286,6 +20778,12 @@
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/z/z6a2a7a450e8a6-hf-20260611-084940-c4202e5a-b09e-409f-8f48-96f007905d95.png</IMAGE>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/r/r6a2a78276595e-hf-20260611-085308-b5a233a0-1abc-4c5f-9bf6-1076112641fe.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>30</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -20717,7 +21215,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>36236</VALUE>
+          <VALUE>36235</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21096,6 +21594,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/k/k6a2e65faa8f13-hf-20260614-082056-6b729c6d-3f47-1.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>200</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -21265,6 +21769,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/t/t6a2444c2f2aa4-hf-20260606-155959-fe250b2d-4295-4902-922f-f56055414aa3.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131738</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -21323,6 +21833,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/k/k6a244adbe1657-hf-20260606-160742-5c0396ff-0b82-4a4b-8b8c-efbba0fb76c0.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131738</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -21436,6 +21952,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/k/k6a491bbbd3065-hf-20260704-144031-ec6d2e73-036b-4435-b205-157bdaff6c23.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -21494,6 +22016,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/r/r6a491b7e5e814-hf-20260704-142846-7c8e238a-900e-4963-9a6f-c5552bbca32a.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -21647,7 +22175,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1672</VALUE>
+          <VALUE>1654</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21797,6 +22325,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/l/l69c64de76c2f4-domestos-1.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131738</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -21856,6 +22390,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/y/y6a2534c719444-hf-20260607-085108-ffc54859-b211-4c44-bde2.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -22958,6 +23498,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/v/v69b27d69c2aeb-my-hero-multi-50.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>8</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131751</CODE>
       <CODE>-PC49540280023132046</CODE>
@@ -23016,6 +23562,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/r/r69b2806af29e0-fur-50.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>8</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131751</CODE>
       <CODE>-PC49540280023132046</CODE>
@@ -23074,6 +23626,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/9/969b2810d2a3ad-lav-50.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>8</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131751</CODE>
       <CODE>-PC49540280023132046</CODE>
@@ -23132,6 +23690,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/v/v69d77382ea710-myheromultisurfacecleaner.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131751</CODE>
       <CODE>-PC49540280023132046</CODE>
@@ -23190,6 +23754,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/r/r69d773a347398-myheromultisurfacecleanervinegar.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131751</CODE>
       <CODE>-PC49540280023132046</CODE>
@@ -23997,6 +24567,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/j/j6a493f7e40547-hf-20260704-171122-787b0114-9ed4-41b7-a171-d4a7d74dd872.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -24055,6 +24631,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/s/s6a4939bfb56d0-hf-20260704-164732-d8a1aad9-73cf-4af4-be1e-14ac86a64051.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -24113,6 +24695,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/r/r6a493f5b8c8b5-hf-20260704-171105-d21070f9-c417-402f-bfb0-071fada5b4a5-1.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -24171,6 +24759,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/o/o6a4939e7864ed-hf-20260704-164740-ed12ce5d-718b-46bf-9f51-28f76d96d441.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -24229,6 +24823,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/w/w6a493995492ec-hf-20260704-164748-216e7b8d-5193-48c6-9326-f52d73e2e05c.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -24261,64 +24861,6 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP Nitrilové jednorazové rukavice SD modré L, 100 ks</NAME>
-    <SHORT_DESCRIPTION>Nitrilové jednorazové rukavice modrá, veľkosť L, balenie 100 ks. Chránia pokožku pri práci s chémiou, potravinami aj pri upratovaní. Na jedno použitie — po ukončení práce sa vyhodia.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Nitrilové jednorazové rukavice SD modré L, 100 ks sú jednorazové rukavice v balení 100 ks, veľkosť L. Chránia pokožku rúk pred chémiou, nečistotami a mikroorganizmami.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti materiálu&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Nitril je odolný voči olejom, tukom a mnohým chemikáliám a na rozdiel od latexu nespôsobuje alergiu na latexové proteíny.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kde ich využijete&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Vhodné do gastro prevádzok, pri upratovaní, v zdravotníctve, kozmetike aj v domácnosti.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Materiál: nitrilové&lt;/li&gt;
-&lt;li&gt;Veľkosť L&lt;/li&gt;
-&lt;li&gt;Farba modrá&lt;/li&gt;
-&lt;li&gt;Balenie 100 ks&lt;/li&gt;
-&lt;li&gt;Na jedno použitie&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Veľkosť:&lt;/strong&gt; L&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 100 ks&lt;br&gt;&lt;strong&gt;Farba:&lt;/strong&gt; modrá&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49540280023132375</CODE>
-    <EAN>0662169324818</EAN>
-    <CATEGORIES>
-      <CATEGORY>Upratovacie pomôcky &gt; Rukavice</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/b/b6a491bdb4b05d-hf-20260704-144038-384f3859-3f2b-4b18-99fb-2d5db495a572.png</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023132225</CODE>
-      <CODE>-PC49540280023132058</CODE>
-      <CODE>-PC495402800231111</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49540280023132316</CODE>
-      <CODE>-PC49540280023132317</CODE>
-      <CODE>-PC49540280023132318</CODE>
-      <CODE>-PC49540280023132359</CODE>
-      <CODE>-PC49540280023132360</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>7.75</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>HP Nitrilové jednorazové rukavice SD modré XL, 100 ks</NAME>
     <SHORT_DESCRIPTION>Nitrilové jednorazové rukavice modrá, veľkosť XL, balenie 100 ks. Chránia pokožku pri práci s chémiou, potravinami aj pri upratovaní. Na jedno použitie — po ukončení práce sa vyhodia.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Nitrilové jednorazové rukavice SD modré XL, 100 ks sú jednorazové rukavice v balení 100 ks, veľkosť XL. Chránia pokožku rúk pred chémiou, nečistotami a mikroorganizmami.&lt;/p&gt;
@@ -24345,6 +24887,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/h/h6a491bc9dea1c-hf-20260704-144045-00ceccba-eef7-4ebc-86a4-71d6504d27f3.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -24403,6 +24951,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/d/d6a4939d579f29-hf-20260704-163729-6be88f64-e586-410d-a49d-d978b7426350.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -24459,6 +25013,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/1/16a343f1b27dd8-hf-20260618-185051-71e900de-fdbc-4d9e-8050-2f86febdd782.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -25088,6 +25648,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/c/c69e22c92d7a53-pla0043.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>48</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -25144,6 +25710,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/a/a6a675ce5114ed-hf-20260727-132430-03d38dc2-bbc7-4451-af80-439a82ef4276.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -25200,6 +25772,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/8/86a675c5c2197a-hf-20260727-131509-bfdbefca-db0f-4f49-b670-63948cedf5f2.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -25256,6 +25834,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/5/56a67637de5e95-hf-20260727-135222-b3c62364-e14e-4710-8cbf-806278f08713.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -25367,6 +25951,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/m/m6a6754730cc54-hf-20260727-114829-d39605c4-ae87-4990-b1db-47c8609cc0db-1.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -25641,64 +26231,6 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Sanytol dezinfekčný čistič na podlahy a plochy Lemon, 1 l</NAME>
-    <SHORT_DESCRIPTION>Dezinfekčný čistiaci prostriedok, balenie 1 l. Čistí a zároveň znižuje počet mikroorganizmov na ošetrenom povrchu.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Sanytol dezinfekčný čistič na podlahy a plochy Lemon, 1 l je dezinfekčný čistiaci prostriedok v balení 1 l. Čistí a zároveň znižuje počet mikroorganizmov na ošetrenom povrchu.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Použitie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Riaďte sa dávkovaním a dobou pôsobenia uvedenou na obale.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Balenie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Balenie je určené na bežnú spotrebu v domácnosti aj v menšej prevádzke.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Balenie 1 l&lt;/li&gt;
-&lt;li&gt;Dezinfekčný čistiaci prostriedok&lt;/li&gt;
-&lt;li&gt;Pre domácnosti aj prevádzky&lt;/li&gt;
-&lt;li&gt;Pred použitím si prečítajte etiketu a informácie o výrobku&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Objem:&lt;/strong&gt; 1 l&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Sanytol</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49540280023133256</CODE>
-    <EAN>3045206312226</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Čističe podláh</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/3/369ea776b054a4-47752-screenshot-2025-11-28-at-11-01-16-3810-2-dezinfekcni-univerzalni-cistic-sanytol-citron-jpg-jpeg-obrazek-1024-768-bodu.webp</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023141883</CODE>
-      <CODE>-PC49540280023132058</CODE>
-      <CODE>-PC49540280023132046</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC495402800231111</CODE>
-      <CODE>-PC49540280023525</CODE>
-      <CODE>-PC49540280023131578</CODE>
-      <CODE>-PC49540280023131623</CODE>
-      <CODE>-PC49540280023131800</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>3.10</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>HP Nitrilové jednorazové rukavice DeltaPlus čierne 10/11 2XL, 100 ks</NAME>
     <SHORT_DESCRIPTION>Nitrilové jednorazové rukavice čierna, veľkosť 2XL, balenie 100 ks. Chránia pokožku pri práci s chémiou, potravinami aj pri upratovaní. Na jedno použitie — po ukončení práce sa vyhodia.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Nitrilové jednorazové rukavice DeltaPlus čierne 10/11 2XL, 100 ks sú jednorazové rukavice v balení 100 ks, veľkosť 2XL. Chránia pokožku rúk pred chémiou, nečistotami a mikroorganizmami.&lt;/p&gt;
@@ -25725,6 +26257,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/p/p6a490e3756648-hf-20260704-134214-d02b5503-5fe1-47ec-a731-791e8457a8c6.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -25783,6 +26321,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/4/46a490e270526e-hf-20260704-134208-8f8823b7-f6f8-4588-b772-9b9187443a1e.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -25841,6 +26385,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/m/m6a490d60a08ef-hf-20260704-133739-5f77b548-5c64-4891-98fd-775b860919d1.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -25899,6 +26449,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a490a4fa9db4-hf-20260704-132430-0ae64d7b-1b55-4ac0-9fec-8c16c55eddff.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -25957,6 +26513,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/p/p6a4909f83e2c6-hf-20260704-132423-142705b6-c053-44cd-94cd-a62668466402.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -26015,6 +26577,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/0/06a490aa8100af-hf-20260704-130603-82225b74-9641-4a46-b64f-af6de8a1d8bd.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -26073,6 +26641,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/i/i6a490a0997c92-hf-20260704-132416-b69daabf-3692-444a-a780-df78c965e1f2.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -26131,6 +26705,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/n/n6a490a3f27c88-hf-20260704-132407-b82cf45f-1d74-4ad2-ae18-0d0c8b92dce4.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -26187,6 +26767,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/0/06a67545d259b3-hf-20260727-120408-997d06c5-5763-4798-bfef-41d68c0dbd68.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -26245,6 +26831,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/q/q69f1185573997-spiced-apple.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131738</CODE>
       <CODE>-PC49540280023131649</CODE>
@@ -26303,6 +26895,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/l/l69f1186351fbd-mango.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131738</CODE>
       <CODE>-PC49540280023131649</CODE>
@@ -26474,6 +27072,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/1/16a6a20e380fa2-254240004033-0.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -26588,6 +27192,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/v/v69f1ee5725560-hf-20260429-113848-bcfac351-e568-4a30-b3cc-9d64abaa066a.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>24</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131512</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -26646,6 +27256,12 @@
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6a245107a40b3-hf-20260606-165333-0b34fa77-b17d-450a-99e1-e62adf353ff3.png</IMAGE>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/w/w6a2450b113ca2-hf-20260606-165146-50b80725-9d54-4b26-b706-b0c9e33f8231.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>24</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131512</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -26702,6 +27318,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6a3aef5b36f6c-hf-20260623-203111-0088ab16-c1a1-4e19-9806-3162b8604972.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>500</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132175</CODE>
       <CODE>-PC49540280023133281</CODE>
@@ -26759,6 +27381,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6a3aef5b36f6c-hf-20260623-203111-0088ab16-c1a1-4e19-9806-3162b8604972.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>500</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132175</CODE>
       <CODE>-PC49540280023133281</CODE>
@@ -26816,6 +27444,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6a3aef5b36f6c-hf-20260623-203111-0088ab16-c1a1-4e19-9806-3162b8604972.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>500</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132175</CODE>
       <CODE>-PC49540280023133281</CODE>
@@ -26873,6 +27507,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6a3aef5b36f6c-hf-20260623-203111-0088ab16-c1a1-4e19-9806-3162b8604972.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>500</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132175</CODE>
       <CODE>-PC49540280023133281</CODE>
@@ -26932,6 +27572,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/66a24409f63a17-hy155253.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -28668,6 +29314,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/s/s6a37ba0fef87a-hf-20260621-101422-ab227e17-8f38-4ab8-86f3-b39e5d5c88c9.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>48</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133268</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -28726,6 +29378,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/66a37b995bdec0-hf-20260621-100939-bb5adf8d-76e6-4c1a-a91c-39b6e078fa31-1.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>48</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133268</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -28909,7 +29567,7 @@
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
         <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>20</VALUE>
+        <VALUE>30</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -30088,6 +30746,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/f/f6a1beaf7ebd24-hf-20260531-080045-3cb0faa8-1d3c-435f-8b1a-5d227a6c8070.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131738</CODE>
       <CODE>-PC49540280023131649</CODE>
@@ -30146,6 +30810,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/b/b6a1bedf54b67e-hf-20260531-081246-e8c1edc3-fbf4-4575-82be-e708c76c55f5.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -30201,6 +30871,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/9/96a490e1204229-hf-20260704-134127-b226dc17-3ae4-486e-809b-038bb7b97ffb.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -30259,6 +30935,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/u/u6a1bed9ce5afa-hf-20260531-080928-718e62dc-57cb-4ebc-9b95-bb60a594a8e1.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -30314,6 +30996,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/4/46a1beccc3bb03-hf-20260531-080837-ddcd135d-a52d-483c-9c28-61fe8136a3c2.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -47540,53 +48228,6 @@ Ideálny na každodenné sprchovanie, vhodný pre všetky typy pokožky, najmä 
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>DIXI Vlasové tonikum proti vypadávaniu vlasov Arvit v ampulkách 7 x 10 ml</NAME>
-    <SHORT_DESCRIPTION>Dixi ampuľky Arvit obsahujú 7 kusov. Obsahujú vitamín B5 pre podporu zdravia pleti.</SHORT_DESCRIPTION>
-    <DESCRIPTION>DIXI Arvit vlasové tonikum v ampulkách pomáha bojovať proti vypadávaniu vlasov. Obsahuje rastlinné extrakty, provitamín B5, phytantriol, vitamín F a kofeín. Vhodné pre všetky typy vlasov, aj pre vlasy so sklonom k masteniu. Obsahuje 98 % zložiek prírodného pôvodu.</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700122475</CODE>
-    <EAN>8586000087941</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o vlasy</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/8/86a269fcf2b117-f6920b4462cf02-254240001676-0.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700122963</CODE>
-      <CODE>-PC497402700122961</CODE>
-      <CODE>-PC497402700122994</CODE>
-      <CODE>-PC497402700122984</CODE>
-      <CODE>-PC497402700122959</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700122571</CODE>
-      <CODE>-PC497402700121277</CODE>
-      <CODE>-PC497402700122962</CODE>
-      <CODE>-PC497402700122488</CODE>
-      <CODE>-PC497402700122476</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>4.93</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>DIXI Kofeínové vlasové tonikum v ampulkách 7 x 10 ml</NAME>
     <SHORT_DESCRIPTION>Dixi ampuľky obsahujú kofeín, ktorý podporuje rast a vitalitu vlasov. Balenie obsahuje 7 kusov.</SHORT_DESCRIPTION>
     <DESCRIPTION>DIXI kofeínové vlasové tonikum v ampulkách poskytuje vlasom výživu od korienkov, podporuje ich rast a znižuje vypadávanie. Chráni vlasy pred škodlivými vonkajšími vplyvmi a regeneruje ich. Vhodné pre všetky typy vlasov, obsahuje 96 % prírodných zložiek.</DESCRIPTION>
@@ -48221,53 +48862,6 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>DIXI Žihľavový kondicionér 200 ml</NAME>
-    <SHORT_DESCRIPTION>Kondicionér Dixi s extraktem z žihľavy je určený na ošetrenie a regeneráciu vlasov. Pomáha zlepšiť ich vzhľad a zdravie.</SHORT_DESCRIPTION>
-    <DESCRIPTION>DIXI žihľavový kondicionér obsahuje prírodný žihľavový extrakt a je vhodný pre všetky typy vlasov. Poskytuje vlasom potrebnú starostlivosť, uľahčuje rozčesávanie a zanecháva ich lesklé a zdravé.</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700122498</CODE>
-    <EAN>8586000083899</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o vlasy</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a269fd06dc3a-86920b447b4795-254210007705-0.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700122559</CODE>
-      <CODE>-PC497402700110137</CODE>
-      <CODE>-PC497402700122553</CODE>
-      <CODE>-PC497402700122551</CODE>
-      <CODE>-PC497402700122548</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700121280</CODE>
-      <CODE>-PC497402700121281</CODE>
-      <CODE>-PC497402700122495</CODE>
-      <CODE>-PC497402700122496</CODE>
-      <CODE>-PC497402700122497</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>2.18</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>DIXI Olej na svetlé vlasy 60 ml</NAME>
@@ -49411,53 +50005,6 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
     <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>DIXI Žihľavový šampón XXL balenie 750 ml</NAME>
-    <SHORT_DESCRIPTION>Dixi šampón s extraktem z žihľavy je určený na jemné čistenie vlasov. Pomáha posilniť vlasy a zlepšiť ich vzhľad.</SHORT_DESCRIPTION>
-    <DESCRIPTION>DIXI žihľavový šampón s prírodným žihľavovým extraktom je vhodný pre všetky typy vlasov. Pri pravidelnom používaní podporuje rast, posilňuje vlasy a znižuje ich vypadávanie.</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700122553</CODE>
-    <EAN>8586000080690</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o vlasy</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/q/q6a269fd15cdd2-h6920b44d88c08-2542100016682-0.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700122496</CODE>
-      <CODE>-PC497402700122476</CODE>
-      <CODE>-PC497402700122479</CODE>
-      <CODE>-PC497402700110137</CODE>
-      <CODE>-PC497402700122499</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700122535</CODE>
-      <CODE>-PC497402700122539</CODE>
-      <CODE>-PC497402700122542</CODE>
-      <CODE>-PC497402700122543</CODE>
-      <CODE>-PC497402700122544</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>3.36</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>DIXI Svište Šampón a sprchový gél Sviežosť a sila hôr 100 ml</NAME>
     <SHORT_DESCRIPTION>Dixi šampón Svište Boy je určený pre deti. Jemne čistí vlasy a dodáva im sviežosť.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Zloženie: &lt; strong&gt;Aqua, Sodium Coco SulFAte, Cocamidopropyl Betaine, Glycerin, Lauryl Glucoside, Glycereth-7 Caprylate Caprate, Coco Glucoside, Inulin, Sodium Chloride, Sodium Benzoate, Potassium Sorbate, Disodium EDTA, Parfum, Denatonium Benzoate, Citric Acid&lt; p&gt;
@@ -49868,6 +50415,40 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>124</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Domestos WC blok 3v1 náplň Citrus 35 g</NAME>
+    <SHORT_DESCRIPTION>Čistič toaliet s osviežujúcou citrusovou vôňou. Efektívne odstraňuje nečistoty a zanecháva toaletu čistú.</SHORT_DESCRIPTION>
+    <DESCRIPTION>Náhradná náplň Citrus do WC bloku 3v1 udržiava vašu toaletu čistú, bráni tvorbe vodného kameňa a zaisťuje dlhotrvajúcu sviežosť s vôňou oceánu po každom spláchnutí. Je jedinečnou kombináciou troch funkcií: hygiena, prevencia pred vodným kameňom a sviežosť. Tuhý WC blok ľahko doplníte a nastaviteľný úchyt sa dokonale prispôsobí vašej toalete.</DESCRIPTION>
+    <MANUFACTURER>Domestos</MANUFACTURER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC497402700122601</CODE>
+    <EAN>8720182778741,8720181857614</EAN>
+    <CATEGORIES>
+      <CATEGORY>Čistiace prostriedky &gt; WC, kúpeľňa a sanita</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/e/e6a269fd1b2a5f-k6920b4538f0db-254240008476-0.jpeg</IMAGE>
+    </IMAGES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>1.03</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>1084</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -71929,6 +72510,37 @@ Nočná</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>Indulona Profi SOS ochranný krém na ruky 100 ml</NAME>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC497402700124896</CODE>
+    <EAN>8588006397109</EAN>
+    <CATEGORIES>
+      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o telo</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a58e52b38467-j6920b54b6b099-73959-indulona-profi-cervena-100g.png</IMAGE>
+    </IMAGES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>1.77</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>2739</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>Indulona Profi krém na ruky Original 100 ml</NAME>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
@@ -71948,7 +72560,7 @@ Nočná</DESCRIPTION>
     </FLAGS>
     <VISIBILITY>visible</VISIBILITY>
     <CURRENCY>EUR</CURRENCY>
-    <PRICE>2.01</PRICE>
+    <PRICE>1.77</PRICE>
     <STOCK>
       <WAREHOUSES>
         <WAREHOUSE>
@@ -72130,37 +72742,6 @@ Nočná</DESCRIPTION>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>L’Oréal Paris Age Specialist 65+ denný krém proti vráskam 50 ml</NAME>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700126109</CODE>
-    <EAN>3600523408924</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Tvár a pleť</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/u/u6a58e52ce24b5-s6920b57d57657-254210003276-0.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>7.87</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>L’Oréal Paris Magic Retouch sprej na odrasty Tmavá hnedá 75 ml</NAME>
@@ -74868,37 +75449,6 @@ Nočná</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>AZURIT parfum na pranie 45 dávok / 225ml Sky blue</NAME>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700133276</CODE>
-    <EAN>8595025841872</EAN>
-    <CATEGORIES>
-      <CATEGORY>Pracie prostriedky &gt; Pracie prášky a gély</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/8/86a58e564e15de-q69e61c57405a7-d69e61c57402db.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>7.69</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Fenjal Miss sprchový gél 200ml Purple</NAME>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
@@ -74956,6 +75506,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6a4143ef20f67-fc270c1d-b92d-4a4d-92d9-20df0b55e57f.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -75015,6 +75571,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/e/e6a3e36d57fdf2-b3418478-491e-4ce6-b904-1722937de384.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023131649</CODE>
@@ -75071,6 +75633,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/u/u6a4144bb7b768-file-5d258d3ec0245.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023131649</CODE>
@@ -75127,6 +75695,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/j/j6a3f814b5f1a8-2ebdf025-5451-4996-ab1b-19d839151f69.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>16</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -75185,6 +75759,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/1/16a3e344b3e45f-cleol-500.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>20</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -75243,6 +75823,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/e/e6a3f81ff81738-i265-11.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -76099,6 +76685,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/s/s6a32414e5cd44-hf-20260617-063734-9b3395a7-2f84-45d8-b0a2-6f3bf0a1a5b6.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>52</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131512</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -76156,6 +76748,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/o/o6a3240ec4592e-hf-20260617-063635-c2fc64ca-832a-4464-b242-34d6d173e0f3.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>48</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131512</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -76213,6 +76811,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/w/w6a32413f550dd-hf-20260617-063755-076988a2-e4c9-4481-9c18-8f0dd82544b4.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>40</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131512</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -76556,6 +77160,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/c/c6a32acd17c125-hf-20260617-140045-8f244144-4600-495d-90c4-21b8f6940a1f.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132216</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -77230,6 +77840,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/s/s6a32d8b70943c-hf-20260617-135344-9573fed2-32bc-47c1-8a6e-bd5f8c442b6c-1.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132216</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -77287,6 +77903,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/y/y6a32abbf8ed36-hf-20260617-135317-47a02dcd-363f-49e9-88cb-602c9cd96570.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>9</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132216</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -77456,6 +78078,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/s/s6a32d90016804-hf-20260617-143053-5788c3ca-8dee-4e56-ae4d-2f7df328b398.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>8</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132216</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -77569,6 +78197,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/b/b6a32b0e5afc40-hf-20260617-143132-c241b05f-38bc-426c-89d0-9a4a3a0fc076.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>8</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132216</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -77908,6 +78542,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/e/e6a342cc085d23-cleamen-115-nerez-cistic-a-lestic-550-ml.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>14</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -78877,6 +79517,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/r/r6a3430b87e0bf-krystal-5l.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>2</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -78935,6 +79581,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/b/b6a342dcd4545c-5242.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -78992,6 +79644,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/k/k6a342e3319050-1545.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -79050,6 +79708,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a342d87b4c9b-240.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -79108,6 +79772,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/u/u6a342da882978-468bd1d526a55312b43f3333d6ad9c37.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -79166,6 +79836,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/f/f6a342e724984a-13450.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>14</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -79224,6 +79900,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/p/p6a342eb30d638-0002613cleamen100200a550ml.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>14</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -79280,6 +79962,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/2/26a342cf813ee5-13346.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>14</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -79338,6 +80026,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/3/36a342ee60d112-5274.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>2</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -79394,6 +80088,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/a/a6a342e5395277-3733.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>2</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -79450,6 +80150,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/a/a6a589b8788b99-hf-20260716-084808-7265f41b-f77b-4379-8554-5f6cde1da7c6.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -79508,6 +80214,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/0/06a35a54bd4eaa-nolvix-5-l-canister-window-cleaner-arctic.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133305</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -79565,6 +80277,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/p/p6a35a511dee90-nolvix-500-ml-window-cleaner-arctic.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133305</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -79622,6 +80340,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/k/k6a35a45af10db-nolvix-500-ml-liquid-soap-antibacterial.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132100</CODE>
@@ -79679,6 +80403,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/p/p6a35a4bd984f4-nolvix-500-ml-liquid-soap-lotus-flower.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132100</CODE>
@@ -79736,6 +80466,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/i/i6a35a4fbdebf8-nolvix-1-5-l-floor-cleaner-garden-flower.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>8</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -79795,6 +80531,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/z/z6a58a81303bcb-hf-20260716-093114-414ff969-01c9-466e-8c08-0dab53a818571.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>8</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023131649</CODE>
@@ -79851,6 +80593,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/i/i6a58975d62344-fre-pro-wave-3d-vonne-sitko-do-pisoara-kiwi-grapefruit-1ks.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>100</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -79909,6 +80657,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/4/46a58a81da109c-hf-20260716-093100-31ac43a3-5b28-45fb-befa-bfa6429d8ab2.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>8</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -79968,6 +80722,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/e/e6a3d7e4e51eef-nolvix-5-l-canister-liquid-soap-lotus-flower.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132100</CODE>
@@ -80083,6 +80843,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/5/56a3d7f4270427-nolvix-5-l-canister-window-cleaner-spring-freshness.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133305</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -80138,6 +80904,15 @@ Nočná</DESCRIPTION>
     <CATEGORIES>
       <CATEGORY>Papierový program &gt; Potravinová fólia a papier na pečenie</CATEGORY>
     </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/5/56a32d7fc515ce-hf-20260617-171921-634f11e7-e320-40f1-8be3-06b8808e04b01.jpg</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>4</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132216</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -80193,6 +80968,15 @@ Nočná</DESCRIPTION>
     <CATEGORIES>
       <CATEGORY>Papierový program &gt; Potravinová fólia a papier na pečenie</CATEGORY>
     </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/5/56a32d7fc515ce-hf-20260617-171921-634f11e7-e320-40f1-8be3-06b8808e04b01.jpg</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>4</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132216</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -80251,6 +81035,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/h/h6a3e9971e9737-nolvix-5-l-canister-liquid-soap-antibacterial.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132100</CODE>
@@ -80309,6 +81099,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/4/46a3e9992a77bf-nolvix-5-l-canister-floor-cleaner-garden-flower.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023132175</CODE>
@@ -80663,35 +81459,6 @@ Nočná</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>P - Croissant 60g Kakao Grana</NAME>
-    <SHORT_DESCRIPTION>Obl.Croissant 60g Kakao Grana</SHORT_DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49740280023132295</CODE>
-    <EAN>8586017330412</EAN>
-    <CATEGORIES>
-      <CATEGORY>Ostatné</CATEGORY>
-    </CATEGORIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>0.47</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>P - Croissant 7Days single 60g Jahoda</NAME>
     <SHORT_DESCRIPTION>Obl.Croissant 7Days single 60g Jahoda</SHORT_DESCRIPTION>
     <ITEM_TYPE>product</ITEM_TYPE>
@@ -80719,35 +81486,6 @@ Nočná</DESCRIPTION>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>P - Croissant DUO 60g Vanilka-cucoriedka Grana</NAME>
-    <SHORT_DESCRIPTION>Obl.Croissant DUO 60g Vanilka-cucoriedka Grana</SHORT_DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49740280023132297</CODE>
-    <EAN>8586017331631</EAN>
-    <CATEGORIES>
-      <CATEGORY>Ostatné</CATEGORY>
-    </CATEGORIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>0.47</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>P - Horalka 50g IDC</NAME>
@@ -80864,64 +81602,6 @@ Nočná</DESCRIPTION>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>P - Musli Tekmar 30g jahoda v jogurte</NAME>
-    <SHORT_DESCRIPTION>Obl.Musli Tekmar 30g jahoda v jogurte</SHORT_DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49740280023132303</CODE>
-    <EAN>8585004500432</EAN>
-    <CATEGORIES>
-      <CATEGORY>Ostatné</CATEGORY>
-    </CATEGORIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>0.64</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>P - Capri-Sun džús multivitamín 200ml</NAME>
-    <SHORT_DESCRIPTION>Džús Capri Sone 200ml multivitamín</SHORT_DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49740280023132304</CODE>
-    <EAN>4000177407509,4000177407523</EAN>
-    <CATEGORIES>
-      <CATEGORY>Ostatné</CATEGORY>
-    </CATEGORIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>0.64</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>P - Capri-Sun pomaranč 200ml</NAME>
@@ -81066,6 +81746,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/1/16a48bcd1acb41-hf-20260704-075402-676e784e-bbc1-4ee8-bda8-c9212355ccab.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -81124,6 +81810,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a48bd03d96b8-hf-20260704-075615-70c1ad2c-7901-4159-bd0f-611e0fdb8c98.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -81149,7 +81841,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6062</VALUE>
+          <VALUE>5962</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -81182,6 +81874,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/y/y6a48bcf35768a-hf-20260704-075630-d1e9dcde-73bd-4c1e-bfb3-485704b51eb1.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -81207,7 +81905,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4479</VALUE>
+          <VALUE>4399</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -81240,6 +81938,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a48bcc3daf55-hf-20260704-074931-be45a5d1-dbcd-48d6-bb73-b3392b2a5e80.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -81298,6 +82002,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/s/s6a48bee33ee9c-hf-20260704-080347-f3106182-0ef4-4622-bc28-eab9c1415629.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -81356,6 +82066,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/3/36a48bebf5e342-hf-20260704-080405-ecf26393-d74f-4fe3-bf3b-4c3da50ad8df.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -81414,6 +82130,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/r/r6a48becb1f351-hf-20260704-080424-864d5146-1d19-4d6a-8945-745d680a0ee2.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -81472,6 +82194,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/k/k6a48bed7e6e33-hf-20260704-080006-e4aa8597-966c-412e-8eb7-58b2a90e11b6.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -81530,6 +82258,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/b/b6a480e1dd28a9-hf-20260703-192001-b82f71ee-ab79-41a9-a842-effe753f3ed9.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>20</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -81588,6 +82322,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/l/l6a480e00cbcfc-whatsapp-image-2026-07-03-at-20-35-36-1.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>20</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -81646,6 +82386,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/o/o6a480e0e6f280-hf-20260703-192014-a4717cfb-9830-4254-9c5c-066152ed43f3.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>20</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -81704,6 +82450,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/b/b6a480e2dd6b0f-hf-20260703-191932-58814b25-54ef-4e8d-8aa5-5e8d9280fa58.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>20</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -81762,6 +82514,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/v/v6a480dd605a4a-hf-20260703-192135-a963bcf9-191f-4145-a8ff-b81d88029fc7.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>20</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -81820,6 +82578,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a480daa0904b-whatsapp-image-2026-07-03-at-20-35-36.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>20</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -81878,6 +82642,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/f/f6a480dba3c540-hf-20260703-192115-39593cc3-35e4-4860-8db2-6ecf21711a4d.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>20</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -81936,6 +82706,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/e/e6a480de74b5e0-hf-20260703-192125-5c041434-9766-48c9-931d-b582eeade770.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>20</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -81994,6 +82770,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/w/w6a589c157c892-5313-fre-pro-bowl-clip-na-wc-misu-cotton-blossom-1ks.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -82052,6 +82834,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/b/b6a5895737d334-fre-pro-wave-3d-vonne-sitko-do-pisoara-cotton-blossom-1-ks-1.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>100</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -82110,6 +82898,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/66a589631549fa-fre-pro-wave-3d-vonne-sitko-do-pisoara-cucumber-melon-1-ks.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>100</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -82168,6 +82962,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/l/l6a5897ba5a30b-fre-pro-wave-3d-vonne-sitko-do-pisoara-mango-1ks.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>100</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -82225,6 +83025,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/m/m6a59c0396fd55-1015-y.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -82283,6 +83089,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/m/m6a59c06e4cbca-17781-0002961cleamen2345l.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>2</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -82453,6 +83265,12 @@ Nočná</DESCRIPTION>
     <CATEGORIES>
       <CATEGORY>Čistiace prostriedky &gt; Kuchynská chémia a odpady</CATEGORY>
     </CATEGORIES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -82511,6 +83329,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/e/e6a58970009f9f-fre-pro-wave-3d-vonne-sitko-do-pisoara-fabulous-1ks.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>100</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131649</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -82601,6 +83425,66 @@ Nočná</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>HP Savo PF univerzálny prostriedok na podlahy a povrchy Magnolia 5 kg</NAME>
+    <SHORT_DESCRIPTION>Čistiaci prostriedok na podlahy, balenie 5 kg. Odstraňuje bežné nečistoty z podláh a umývateľných plôch bez zanechania šmúh.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Savo Professional univerzálny čistič na podlahy a povrchy Magnolia, 5 kg je čistiaci prostriedok na podlahy v balení 5 kg. Odstraňuje bežné nečistoty z podláh a umývateľných plôch bez zanechania šmúh.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Použitie&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rieďte do vody podľa návodu na obale. Väčšie balenie je určené pre prevádzky.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Balenie&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Veľké zásobové balenie je určené pre prevádzky s vysokou spotrebou — cena za liter je nižšia než pri malých baleniach.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Balenie 5 kg&lt;/li&gt;
+&lt;li&gt;Čistiaci prostriedok na podlahy&lt;/li&gt;
+&lt;li&gt;Veľké zásobové balenie&lt;/li&gt;
+&lt;li&gt;Pre domácnosti aj prevádzky&lt;/li&gt;
+&lt;li&gt;Pred použitím si prečítajte etiketu a informácie o výrobku&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Hmotnosť:&lt;/strong&gt; 5 kg&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Savo</MANUFACTURER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023141907</CODE>
+    <EAN>7615400804122</EAN>
+    <CATEGORIES>
+      <CATEGORY>Čistiace prostriedky &gt; Čističe podláh</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/y/y6aa5090131c4a-101103897-ai118224-inriver.jpg</IMAGE>
+    </IMAGES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC49540280023131669</CODE>
+      <CODE>-PC49540280023132175</CODE>
+      <CODE>-PC49540280023133281</CODE>
+      <CODE>-PC49540280023133274</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC49540280023132103</CODE>
+      <CODE>-PC49540280023133351</CODE>
+      <CODE>-PC49540280023133354</CODE>
+      <CODE>-PC49540280023141851</CODE>
+      <CODE>-PC49540280023141864</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>11.56</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>576</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>HP Cleamen 230 strojné umývanie riadu 24 kg</NAME>
     <SHORT_DESCRIPTION>Cleamen 230 — profesionálny prostriedok na strojné umývanie riadu, balenie 24 kg. Odstraňuje mastnotu a zaschnuté zvyšky jedla, takže riad vychádza z umývačky dokonale čistý.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Cleamen 230 je profesionálny prostriedok na strojné umývanie riadu v balení 24 kg. Patrí do profesionálneho radu Cleamen určeného pre prevádzky, ktoré potrebujú spoľahlivý a ekonomický prostriedok na každý deň.&lt;/p&gt;
@@ -82626,6 +83510,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/i/i6a6063e495d80-cn-vc230240099-pc-ff3230cb.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -82684,6 +83574,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a60641a6d70a-cn-vc235050099-pc-e29058ac.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>2</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -82742,6 +83638,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/4/46a606364c5da4-cn-vc210050099-pc-b16765c2.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>2</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -82917,6 +83819,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/9/96a6462e2200fd-rolka4-par.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>3360</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131512</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -82974,6 +83882,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/c/c6a6462f0b075f-rolka2-par.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>2440</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131512</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -83031,6 +83945,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/b/b6a6462ce0a8bd-rolka1-par.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>990</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131512</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -83088,6 +84008,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/7/76a6462bd40398-rolka5-par.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1080</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131512</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -83145,6 +84071,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/e/e6a64629e5734f-rolka3-par.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1520</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131512</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -83349,35 +84281,6 @@ Nočná</DESCRIPTION>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Gillette razor 1 up Mach3 Turbo 3D/Flexball</NAME>
-    <MANUFACTURER>Gillette</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49740280023132324</CODE>
-    <EAN>8001090443014</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Pánska kozmetika a holenie</CATEGORY>
-    </CATEGORIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>6.65</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Denim Musk deo sprej 150 ml</NAME>
@@ -83788,6 +84691,316 @@ Nočná</DESCRIPTION>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>492</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>HP FRE-PRO WAVE 3D pisoárove sitko Midnight Coast, 1 ks</NAME>
+    <SHORT_DESCRIPTION>HP FRE-PRO WAVE 3D pisoárove sitko Midnight Coast, 1 ks (čierne)</SHORT_DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023231757</CODE>
+    <EAN>8594194892265</EAN>
+    <CATEGORIES>
+      <CATEGORY>Čistiace prostriedky &gt; WC, kúpeľňa a sanita</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/o/o6a7c4689e05e7-175705-1733129219-hy155249-2.png</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>100</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>4.40</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>100</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>HP Toaletný papier BigSoft Camomile 3vr, 150 útržkov, 8 ks</NAME>
+    <SHORT_DESCRIPTION>HP Toaletný papier BigSoft Camomile trojvrstvový, 150 útržkov, 8 ks. Mimoriadne jemný k pokožke.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Toaletný papier BigSoft Camomile 3vr 150 útržkov 8ks je trojvrstvový toaletný papier s jemnou vôňou harmančeka, v balení 8 ks. Klasické rolky do domácnosti aj do menších prevádzok. Balenie 8 ks vystačí na dlhšie obdobie.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vrstvy a komfort&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trojvrstvové prevedenie zaisťuje mäkkosť aj pevnosť — papier sa pri použití neroztrhne. Jemná harmančeková vôňa dodá kúpeľni príjemnú sviežosť.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Praktické informácie&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Balenie 8 ks znižuje cenu za rolku a vystačí na dlhšie obdobie, takže nemusíte nakupovať tak často. Každá rolka má 150 útržkov.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3-vrstvový&lt;/li&gt;
+&lt;li&gt;Vôňa harmančeka&lt;/li&gt;
+&lt;li&gt;150 útržkov&lt;/li&gt;
+&lt;li&gt;Balenie 8 ks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Vrstvy:&lt;/strong&gt; 3-vrstvový, s vôňou harmanček&lt;br&gt;&lt;strong&gt;Útržky:&lt;/strong&gt; 150 útržkov&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 8 ks&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49640280023141899</CODE>
+    <EAN>8594042232380</EAN>
+    <CATEGORIES>
+      <CATEGORY>Papierový program &gt; Toaletný papier</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/0/06a9e785328a28-8d3f913d318b08f519ea3f6110d1-331-cs-1280-1024-0-9-fit.jpg</IMAGE>
+    </IMAGES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>2.15</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>1315</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>HP Savo PF univerzálny prostriedok na podlahy a povrchy Lemongrass 5 kg</NAME>
+    <SHORT_DESCRIPTION>Čistiaci prostriedok na podlahy s vôňou citrónovej trávy, balenie 5 kg. Odstraňuje bežné nečistoty z podláh a umývateľných plôch bez zanechania šmúh.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p dir="ltr"&gt;Savo Professional univerzálny čistič na podlahy a povrchy Lemongrass, 5 kg je čistiaci prostriedok na podlahy v balení 5 kg. Odstraňuje mastnotu a bežné nečistoty z podláh, dlaždíc a umývateľných plôch bez zanechania šmúh a zanecháva dlhotrvajúcu sviežu vôňu citrónovej trávy.&lt;br&gt;Použitie&lt;br&gt;Rieďte 50 ml na 5 l vody. Pri silnom znečistení zvýšte koncentráciu alebo naneste neriedený a opláchnite. Väčšie balenie je určené pre prevádzky.&lt;br&gt;Balenie&lt;br&gt;Veľké zásobové balenie je určené pre prevádzky s vysokou spotrebou — cena za liter je nižšia než pri malých baleniach.&lt;br&gt;Vlastnosti:&lt;/p&gt;
+&lt;ul dir="ltr"&gt;
+&lt;li&gt;Balenie 5 kg&lt;/li&gt;
+&lt;li&gt;Čistiaci prostriedok na podlahy a povrchy&lt;/li&gt;
+&lt;li&gt;Vôňa citrónovej trávy&lt;/li&gt;
+&lt;li&gt;Veľké zásobové balenie&lt;/li&gt;
+&lt;li&gt;Pre domácnosti aj prevádzky&lt;/li&gt;
+&lt;li&gt;Pred použitím si prečítajte etiketu a informácie o výrobku&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;Hmotnosť: 5 kg&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Savo</MANUFACTURER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023231770</CODE>
+    <EAN>7615400801961</EAN>
+    <CATEGORIES>
+      <CATEGORY>Čistiace prostriedky &gt; Čističe podláh</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6aa508c5b2674-101103619-ai118372-inriver.jpg</IMAGE>
+    </IMAGES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>11.56</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>576</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>HP Savo PF Na riad 5 kg</NAME>
+    <SHORT_DESCRIPTION>Prostriedok na ručné umývanie riadu s citrusovou vôňou, balenie 5 kg. Odstraňuje mastnotu a zvyšky jedla, riad zanecháva lesklý a bez šmúh.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p dir="ltr"&gt;Savo Professional prostriedok na ručné umývanie riadu, 5 kg je koncentrovaný saponát na ručné umývanie riadu, príborov, skla, hrncov a panvíc v balení 5 kg. Účinne odstraňuje mastnotu a zaschnuté zvyšky jedla, pení aj v studenej vode a riad zanecháva lesklý a bez šmúh. Má príjemnú citrusovú vôňu a pH šetrné k pokožke.&lt;br&gt;Použitie&lt;br&gt;Dávkujte 10–20 ml na 5 l vody podľa stupňa znečistenia. Väčšie balenie je určené pre prevádzky.&lt;br&gt;Balenie&lt;br&gt;Veľké zásobové balenie je určené pre prevádzky s vysokou spotrebou — cena za liter je nižšia než pri malých baleniach.&lt;br&gt;Vlastnosti:&lt;/p&gt;
+&lt;ul dir="ltr"&gt;
+&lt;li&gt;Balenie 5 kg&lt;/li&gt;
+&lt;li&gt;Prostriedok na ručné umývanie riadu&lt;/li&gt;
+&lt;li&gt;Citrusová vôňa&lt;/li&gt;
+&lt;li&gt;Účinný aj v studenej vode&lt;/li&gt;
+&lt;li&gt;Pre domácnosti aj prevádzky&lt;/li&gt;
+&lt;li&gt;Pred použitím si prečítajte etiketu a informácie o výrobku&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;Hmotnosť: 5 kg&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Savo</MANUFACTURER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023231771</CODE>
+    <EAN>7615400801954</EAN>
+    <CATEGORIES>
+      <CATEGORY>Čistiace prostriedky &gt; Kuchynská chémia a odpady</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/s/s6aa5083248b81-101103618-ai118222-inriver.jpg</IMAGE>
+    </IMAGES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>10.82</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>576</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>HP NOLVIX tuhé mydlo Mlieko, mandľa a med 100 g</NAME>
+    <SHORT_DESCRIPTION>Jemné tuhé mydlo s mliekom, mandľou a medom, balenie 100 g. Vyživuje a hydratuje pokožku, vhodné na každodenné umývanie rúk aj tela.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p dir="ltr"&gt;&lt;span&gt;NOLVIX &lt;/span&gt;&lt;span&gt;tuhé mydlo Mlieko, mandľa a med, 100 g je krémové toaletné mydlo v balení 100 g. Kombinácia mlieka, mandľového oleja a medu jemne čistí, vyživuje a zanecháva pokožku hebkú a hydratovanú. Bohatá pena a príjemná sladká vôňa robia z umývania malý relax. Vhodné pre celú rodinu, na každodenné použitie.&lt;/span&gt;&lt;br&gt;&lt;span&gt;Použitie&lt;/span&gt;&lt;br&gt;&lt;span&gt;Navlhčite pokožku, mydlom vytvorte penu, umyte a dôkladne opláchnite vodou. Po použití odložte na suché miesto.&lt;/span&gt;&lt;br&gt;&lt;span&gt;Balenie&lt;/span&gt;&lt;br&gt;&lt;span&gt;Každé mydlo je balené samostatne v ochrannom vrecku, ktoré ho chráni pred vlhkosťou a nečistotami — praktické pre domácnosti, penzióny, kancelárie aj na cesty.&lt;/span&gt;&lt;br&gt;&lt;span&gt;Vlastnosti:&lt;/span&gt;&lt;/p&gt;
+&lt;ul dir="ltr"&gt;
+&lt;li&gt;&lt;span&gt;Balenie 100 g&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;S &lt;/span&gt;&lt;span&gt;mliekom, mandľou a &lt;/span&gt;&lt;span&gt;medom&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Vyživuje a &lt;/span&gt;&lt;span&gt;hydratuje pokožku&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Samostatne balené&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Pre domácnosti aj &lt;/span&gt;&lt;span&gt;prevádzky&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Len na &lt;/span&gt;&lt;span&gt;vonkajšie použitie, &lt;/span&gt;&lt;span&gt;zabráňte kontaktu s &lt;/span&gt;&lt;span&gt;očami&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023231772</CODE>
+    <EAN>8586028382837</EAN>
+    <CATEGORIES>
+      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o telo</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/a/a6aa43264d12b3-nolvix-mydlo-med.png</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>6912</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>0.36</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>60048</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>HP NOLVIX tuhé mydlo Oliva a aloe vera 100 g</NAME>
+    <SHORT_DESCRIPTION>Osviežujúce tuhé mydlo s olivovým olejom a aloe vera, balenie 100 g. Upokojuje a hydratuje pokožku, vhodné aj na suchú a citlivú pokožku.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p dir="ltr"&gt;NOLVIX tuhé mydlo Oliva a aloe vera, 100 g je jemné toaletné mydlo v balení 100 g. Olivový olej pokožku vyživuje a chráni pred vysušením, aloe vera ju upokojuje a hydratuje. Mydlo dôkladne čistí, bohato pení a zanecháva sviežu prírodnú vôňu. Vhodné na každodenné umývanie rúk aj tela, aj pre suchú a citlivú pokožku.&lt;br&gt;Použitie&lt;br&gt;Navlhčite pokožku, mydlom vytvorte penu, umyte a dôkladne opláchnite vodou. Po použití odložte na suché miesto.&lt;br&gt;Balenie&lt;br&gt;Každé mydlo je balené samostatne v ochrannom vrecku, ktoré ho chráni pred vlhkosťou a nečistotami — praktické pre domácnosti, penzióny, kancelárie aj na cesty.&lt;br&gt;Vlastnosti:&lt;/p&gt;
+&lt;ul dir="ltr"&gt;
+&lt;li&gt;Balenie 100 g&lt;/li&gt;
+&lt;li&gt;S olivovým olejom a aloe vera&lt;/li&gt;
+&lt;li&gt;Upokojuje a hydratuje pokožku&lt;/li&gt;
+&lt;li&gt;Samostatne balené&lt;/li&gt;
+&lt;li&gt;Pre domácnosti aj prevádzky&lt;/li&gt;
+&lt;li&gt;Len na vonkajšie použitie, zabráňte kontaktu s očami&lt;/li&gt;
+&lt;/ul&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023231773</CODE>
+    <EAN>8586028382820</EAN>
+    <CATEGORIES>
+      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o telo</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/i/i6aa43279c75f8-nolvix-mydlo-aloe.png</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>6912</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>0.36</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>56448</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>HP NOLVIX tuhé mydlo Lesné ovocie 100 g</NAME>
+    <SHORT_DESCRIPTION>Sviežo voňajúce tuhé mydlo s vôňou lesného ovocia, balenie 100 g. Dôkladne čistí a zanecháva na pokožke príjemnú dlhotrvajúcu vôňu.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p dir="ltr"&gt;NOLVIX tuhé mydlo Lesné ovocie, 100 g je toaletné mydlo s ovocnou vôňou v balení 100 g. Sviežu vôňu malín, černíc a čučoriedok ocení celá rodina. Mydlo bohato pení, dôkladne čistí a zanecháva pokožku jemnú a príjemne prevoňanú. Vhodné na každodenné umývanie rúk aj tela.&lt;br&gt;Použitie&lt;br&gt;Navlhčite pokožku, mydlom vytvorte penu, umyte a dôkladne opláchnite vodou. Po použití odložte na suché miesto.&lt;br&gt;Balenie&lt;br&gt;Každé mydlo je balené samostatne v ochrannom vrecku, ktoré ho chráni pred vlhkosťou a nečistotami — praktické pre domácnosti, penzióny, kancelárie aj na cesty.&lt;br&gt;Vlastnosti:&lt;/p&gt;
+&lt;ul dir="ltr"&gt;
+&lt;li&gt;Balenie 100 g&lt;/li&gt;
+&lt;li&gt;Vôňa lesného ovocia&lt;/li&gt;
+&lt;li&gt;Bohatá pena, dlhotrvajúca vôňa&lt;/li&gt;
+&lt;li&gt;Samostatne balené&lt;/li&gt;
+&lt;li&gt;Pre domácnosti aj prevádzky&lt;/li&gt;
+&lt;li&gt;Len na vonkajšie použitie, zabráňte kontaktu s očami&lt;/li&gt;
+&lt;/ul&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023231774</CODE>
+    <EAN>8586028382844</EAN>
+    <CATEGORIES>
+      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o telo</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/w/w6aa4324dcd711-nolvix-mydlo-lesne-ovocie.png</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>6912</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>0.36</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>63360</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
