@@ -248,7 +248,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2358</VALUE>
+          <VALUE>2352</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -312,7 +312,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>9450</VALUE>
+          <VALUE>9570</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -346,8 +346,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>13</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>585</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -472,8 +472,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>240</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1920</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -536,8 +536,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>21</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>840</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -566,7 +566,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1310</VALUE>
+          <VALUE>1322</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -694,7 +694,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>22857</VALUE>
+          <VALUE>22851</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -757,7 +757,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6</VALUE>
+          <VALUE>9</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -915,6 +915,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/w/w6a3d04841347e-hf-20260625-102813-c1e73e19-1134-4c7c-9732-9e0cf56137cc.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132175</CODE>
       <CODE>-PC49540280023133281</CODE>
@@ -974,6 +980,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/o/o6971bcf670414-vedro-12l-modre-11zon.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023133274</CODE>
@@ -1033,6 +1045,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/d/d6a196378afdfe-hf-20260529-095335-a7c8611d-2972-407d-9584-49f00168446c.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023133274</CODE>
@@ -1092,6 +1110,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/2/26a4161f2ec1e8-hf-20260628-175826-55c4ff24-06f5-47ae-9d02-c0d8d718c23c.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023132093</CODE>
@@ -1118,7 +1142,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>63450</VALUE>
+          <VALUE>63455</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1370,7 +1394,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3780</VALUE>
+          <VALUE>4020</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1436,7 +1460,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>8066</VALUE>
+          <VALUE>8076</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1502,7 +1526,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2237</VALUE>
+          <VALUE>2247</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1535,6 +1559,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6971bcd39aaba-vedro-12l-cervene.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023133274</CODE>
@@ -1594,6 +1624,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/66971bcb52fe8c-vedro-12l-zlte-11zon.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023133274</CODE>
@@ -1654,8 +1690,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>600</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>16800</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -1683,7 +1719,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>44457</VALUE>
+          <VALUE>44427</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1717,8 +1753,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>600</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>16800</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -1746,7 +1782,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>135515</VALUE>
+          <VALUE>135485</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1780,8 +1816,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>600</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>16800</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -1809,7 +1845,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>149457</VALUE>
+          <VALUE>149427</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1843,8 +1879,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>600</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>16800</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -1872,7 +1908,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>130297</VALUE>
+          <VALUE>130267</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1904,6 +1940,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/7/76a3d063f9c5d5-hf-20260625-104000-d023703c-8909-48e1-963f-1aabb2c63fab.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132175</CODE>
       <CODE>-PC49540280023133281</CODE>
@@ -1961,6 +2003,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/r/r6a3d03ee3797a-hf-20260625-102904-bccf17c7-1c35-4457-a4dd-654e3a396454.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132175</CODE>
       <CODE>-PC49540280023133281</CODE>
@@ -2174,7 +2222,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>7343</VALUE>
+          <VALUE>7338</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2207,8 +2255,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>1</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>288</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -2299,7 +2347,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>626</VALUE>
+          <VALUE>631</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2894,6 +2942,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/w/w6a417033314cd-hf-20260628-183826-0e8a2500-64c2-4365-848c-3b55226617b9.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023132093</CODE>
@@ -3042,7 +3096,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>443</VALUE>
+          <VALUE>448</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -3450,6 +3504,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/66928490d2cd51-2542100016612-0.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -3539,7 +3599,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>112571</VALUE>
+          <VALUE>112640</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -3671,7 +3731,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>202</VALUE>
+          <VALUE>201</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -3960,8 +4020,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>240</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>10800</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -3989,7 +4049,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4070</VALUE>
+          <VALUE>4050</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -4309,7 +4369,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5742</VALUE>
+          <VALUE>5790</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -4406,6 +4466,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a2683e08ff77-hf-20260608-085200-2f2fc5bf-43aa-40d6-a4e4-ab7b306232fb.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>40</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -4557,7 +4623,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>339</VALUE>
+          <VALUE>333</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -4750,7 +4816,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1047</VALUE>
+          <VALUE>1046</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -5547,7 +5613,7 @@
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
         <NAME>Počet kusov na palete</NAME>
-        <VALUE>1296</VALUE>
+        <VALUE>1440</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -5576,7 +5642,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3417</VALUE>
+          <VALUE>3507</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -5674,7 +5740,7 @@
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
         <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>1</VALUE>
+        <VALUE>3</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -5954,7 +6020,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1431</VALUE>
+          <VALUE>1437</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -5990,7 +6056,7 @@
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
         <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>1</VALUE>
+        <VALUE>3</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -6321,7 +6387,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>28845</VALUE>
+          <VALUE>28995</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6386,7 +6452,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>60</VALUE>
+          <VALUE>108</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6419,6 +6485,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/z/z6a233d6c49515-hf-20260605-211806-953a0ac3-6d05-4e87-9529-5d5f846a3858.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131716</CODE>
       <CODE>-PC49540280023131649</CODE>
@@ -6599,8 +6671,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov na palete</NAME>
-        <VALUE>44</VALUE>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -6762,7 +6834,7 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP Utierky CF Midi 2vr, Ø 14 cm, 50 m, 12 ks</NAME>
+    <NAME>HP Utierky CF Midi 2vr, Ø 14 cm, výška 19 cm, 50 m, 12 ks</NAME>
     <SHORT_DESCRIPTION>Papierová utierka v role, dvojvrstvový, návin 50 m, Ø 14 cm, balenie 12 ks. Savé a pevné — poradia si s rozliatymi tekutinami aj mastnotou.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Utierky CF MIDI Ø14cm 2vr 50m 12ks je papierová utierka v role s návinom 50 m, v balení 12 ks. Dvojvrstvový papier dobre saje a nerozpadne sa hneď po navlhčení.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Na čo ich využijete&lt;/strong&gt;&lt;/p&gt;
@@ -6781,13 +6853,19 @@
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CODE>-PC49640280023131801</CODE>
-    <EAN>8586028380673</EAN>
+    <EAN>8586028380673,8586025680202,858602838067</EAN>
     <CATEGORIES>
       <CATEGORY>Papierový program &gt; Papierové utierky a obrúsky</CATEGORY>
     </CATEGORIES>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/r/r6a23ea792da99-hf-20260606-093640-f10c8205-d5f8-4c82-9b65-a90b9ead5ebd.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131716</CODE>
       <CODE>-PC49540280023131655</CODE>
@@ -6846,6 +6924,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/y/y6a2076750e283-hf-20260603-184038-4978f85d-aa50-43c5-847f-1a7b6a869c0d-1.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49640280023131731</CODE>
       <CODE>-PC49540280023132046</CODE>
@@ -7075,6 +7159,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/2/26a20769d7782a-hf-20260603-184156-d055d9bb-aeda-40f7-8260-844aaacf082f.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49640280023131731</CODE>
       <CODE>-PC49540280023132046</CODE>
@@ -7100,7 +7190,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2228</VALUE>
+          <VALUE>2226</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7133,6 +7223,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/y/y6a2076750e283-hf-20260603-184038-4978f85d-aa50-43c5-847f-1a7b6a869c0d-1.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49640280023131731</CODE>
       <CODE>-PC49540280023132046</CODE>
@@ -7191,6 +7287,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/7/76a20770561ca7-hf-20260603-184152-3d94d9e8-0053-4e28-87bf-43bc71c967fb.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49640280023131731</CODE>
       <CODE>-PC49540280023132046</CODE>
@@ -7248,6 +7350,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/7/76a20770561ca7-hf-20260603-184152-3d94d9e8-0053-4e28-87bf-43bc71c967fb.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49640280023131731</CODE>
       <CODE>-PC49540280023132046</CODE>
@@ -7402,7 +7510,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>10680</VALUE>
+          <VALUE>10636</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7501,7 +7609,7 @@
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
         <NAME>Počet kusov na palete</NAME>
-        <VALUE>1344</VALUE>
+        <VALUE>800</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -7530,7 +7638,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>10310</VALUE>
+          <VALUE>10298</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7565,7 +7673,7 @@
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
         <NAME>Počet kusov na palete</NAME>
-        <VALUE>1344</VALUE>
+        <VALUE>800</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -7594,7 +7702,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>11851</VALUE>
+          <VALUE>11839</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7724,7 +7832,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1399</VALUE>
+          <VALUE>1398</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7758,6 +7866,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/2/26a20769d7782a-hf-20260603-184156-d055d9bb-aeda-40f7-8260-844aaacf082f.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49640280023131731</CODE>
       <CODE>-PC49540280023132046</CODE>
@@ -8975,7 +9089,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>435</VALUE>
+          <VALUE>434</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9545,7 +9659,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1528</VALUE>
+          <VALUE>1526</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9669,7 +9783,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1680</VALUE>
+          <VALUE>1678</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9703,8 +9817,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>24</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>432</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -9732,7 +9846,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4659</VALUE>
+          <VALUE>4619</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9792,7 +9906,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2627</VALUE>
+          <VALUE>2637</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9953,7 +10067,7 @@
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
         <NAME>Počet kusov na palete</NAME>
-        <VALUE>1296</VALUE>
+        <VALUE>1215</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -9982,7 +10096,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>8331</VALUE>
+          <VALUE>8321</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -10338,6 +10452,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/t/t6957752e96636-254170006050-0.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>6</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -10924,7 +11044,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>37</VALUE>
+          <VALUE>206</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -11246,7 +11366,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>578</VALUE>
+          <VALUE>588</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -11378,7 +11498,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>497</VALUE>
+          <VALUE>496</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -12151,7 +12271,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2708</VALUE>
+          <VALUE>2698</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -12343,7 +12463,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1666</VALUE>
+          <VALUE>1656</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -12823,6 +12943,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/a/a6969eeeb8c427-hf-20260116-060117-c4b3d075-794b-471f-847c-9888f883716f-11zon-1.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023133274</CODE>
@@ -12882,6 +13008,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/3/36a19639169091-hf-20260529-094244-3ff9ef2e-33ca-40e2-a3d1-b0ad2c0c2afd.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023133274</CODE>
@@ -12941,6 +13073,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/4/46969ef4d5f6cb-hf-20260116-060144-1991307d-ed97-4f96-b545-0f3d3ceef26e-11zon-1.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023133274</CODE>
@@ -13000,6 +13138,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/m/m6969ef5e9297d-hf-20260116-060153-a9b9ccf8-3e3c-420b-8931-e8a1b5b928cb-11zon.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023133274</CODE>
@@ -13059,6 +13203,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/s/s6969f08826690-1178-800x800.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023133274</CODE>
@@ -13085,7 +13235,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>796</VALUE>
+          <VALUE>794</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13115,6 +13265,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/b/b6a67485d0b506-hf-20260727-114200-54f42dda-fc06-48ef-9937-b23a295ec543.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>48</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -13172,6 +13328,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/a/a6969f0ef2e58b-2124-500x500.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023133274</CODE>
@@ -13230,6 +13392,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/o/o6969f100bbcc1-2126-2-500x500.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023133274</CODE>
@@ -13372,7 +13540,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>190</VALUE>
+          <VALUE>184</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13406,6 +13574,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/q/q6a23f8eb9e925-hf-20260606-103824-ac6a35d7-9e24-4e89-b952-99600a9dc3fa.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131716</CODE>
       <CODE>-PC49540280023131649</CODE>
@@ -13464,6 +13638,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/z/z6a233d6c49515-hf-20260605-211806-953a0ac3-6d05-4e87-9529-5d5f846a3858.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131716</CODE>
       <CODE>-PC49540280023131649</CODE>
@@ -13553,7 +13733,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>20</VALUE>
+          <VALUE>116</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13589,7 +13769,7 @@
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
         <NAME>Počet kusov na palete</NAME>
-        <VALUE>1296</VALUE>
+        <VALUE>1215</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -13618,7 +13798,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5165</VALUE>
+          <VALUE>5267</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13653,8 +13833,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>10</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>520</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -13997,7 +14177,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>311</VALUE>
+          <VALUE>131</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -14159,8 +14339,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>50</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>2500</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -14188,7 +14368,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>24144</VALUE>
+          <VALUE>24294</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -14222,8 +14402,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>50</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1200</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -14251,7 +14431,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>31914</VALUE>
+          <VALUE>31913</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -14283,6 +14463,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6a2330b547e80-hf-20260605-202032-2d10b7d7-1d54-4a19-a4f5-71899ebdff8b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131716</CODE>
       <CODE>-PC49540280023131655</CODE>
@@ -14344,8 +14530,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>12</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>840</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -14440,7 +14626,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1273</VALUE>
+          <VALUE>1283</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -14532,8 +14718,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>66</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1320</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -14562,14 +14748,14 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>8569</VALUE>
+          <VALUE>8619</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO HANG TAG viacúčelová vonná záveska Cotton Blossom, 1 ks</NAME>
+    <NAME>HP Fre-Pro HANG TAG viacúčelová vonná záveska Cotton Blossom, 1 ks</NAME>
     <SHORT_DESCRIPTION>Vonná gélová záveska FRE-PRO Hang Tag Cotton Blossom. Zavesí sa kdekoľvek — v kúpeľni, na WC, v šatníku či kancelárii — a plynulo uvoľňuje jemnú púdrovú vôňu kvetu bavlny. Bez elektriny a bez batérií.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Hang Tag Cotton Blossom je vonná gélová záveska na osvieženie vzduchu v menších priestoroch. Nepotrebuje elektrinu ani batérie — stačí ju vybaliť a zavesiť.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Plynulé uvoľňovanie vône&lt;/strong&gt;&lt;/p&gt;
@@ -14633,7 +14819,7 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO HANG TAG viacúčelová vonná záveska Cucumber Melon, 1 ks</NAME>
+    <NAME>HP Fre-Pro HANG TAG viacúčelová vonná záveska Cucumber Melon, 1 ks</NAME>
     <SHORT_DESCRIPTION>Vonná gélová záveska FRE-PRO Hang Tag Cucumber Melon. Zavesí sa kdekoľvek — v kúpeľni, na WC, v šatníku či kancelárii — a plynulo uvoľňuje čistú vôňu uhorky a melónu. Bez elektriny a bez batérií.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Hang Tag Cucumber Melon je vonná gélová záveska na osvieženie vzduchu v menších priestoroch. Nepotrebuje elektrinu ani batérie — stačí ju vybaliť a zavesiť.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Plynulé uvoľňovanie vône&lt;/strong&gt;&lt;/p&gt;
@@ -14697,7 +14883,7 @@
     <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO HANG TAG viacúčelová vonná záveska Honeysuckle, 1 ks</NAME>
+    <NAME>HP Fre-Pro HANG TAG viacúčelová vonná záveska Honeysuckle, 1 ks</NAME>
     <SHORT_DESCRIPTION>Vonná gélová záveska FRE-PRO Hang Tag Honeysuckle. Zavesí sa kdekoľvek — v kúpeľni, na WC, v šatníku či kancelárii — a plynulo uvoľňuje podmanivú kvetinovú vôňu zemolezu. Bez elektriny a bez batérií.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Hang Tag Honeysuckle je vonná gélová záveska na osvieženie vzduchu v menších priestoroch. Nepotrebuje elektrinu ani batérie — stačí ju vybaliť a zavesiť.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Plynulé uvoľňovanie vône&lt;/strong&gt;&lt;/p&gt;
@@ -14888,7 +15074,7 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO Slant - pisoárove sitko Cucumber Melon, 1 ks</NAME>
+    <NAME>HP Fre-Pro SLANT pisoárove sitko Cucumber Melon, 1 ks</NAME>
     <SHORT_DESCRIPTION>Pisoárové sitko FRE-PRO Slant Cucumber Melon so šikmými štetinami, ktoré obmedzujú rozstrek moču. Zachytáva nečistoty, bráni upchatiu odtoku a uvoľňuje chladivú vôňu uhorky a melónu.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Slant Cucumber Melon je vonné pisoárové sitko so šikmo uloženými štetinami. Tie tlmia dopad prúdu a výrazne obmedzujú rozstrek moču mimo pisoár.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Menej rozstreku, menej upratovania&lt;/strong&gt;&lt;/p&gt;
@@ -14952,7 +15138,7 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO Slant - pisoárove sitko Fabulous Lavender, 1 ks</NAME>
+    <NAME>HP Fre-Pro SLANT pisoárove sitko Fabulous Lavender, 1 ks</NAME>
     <SHORT_DESCRIPTION>Pisoárové sitko FRE-PRO Slant Fabulous Lavender so šikmými štetinami, ktoré obmedzujú rozstrek moču. Zachytáva nečistoty, bráni upchatiu odtoku a uvoľňuje intenzívnu vôňu levandule.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Slant Fabulous Lavender je vonné pisoárové sitko so šikmo uloženými štetinami. Tie tlmia dopad prúdu a výrazne obmedzujú rozstrek moču mimo pisoár.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Menej rozstreku, menej upratovania&lt;/strong&gt;&lt;/p&gt;
@@ -15016,7 +15202,7 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO WAVE 3D pisoárove sitko Honeysuckle, 1 ks</NAME>
+    <NAME>HP Fre-Pro WAVE 3D pisoárove sitko Honeysuckle, 1 ks</NAME>
     <SHORT_DESCRIPTION>Vonné pisoárové sitko FRE-PRO Wave 3D Honeysuckle, balenie 1 ks. Obmedzuje rozstrek moču, chráni odtok pred upchatím a uvoľňuje sladkú kvetinovú vôňu zemolezu.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Wave 3D Honeysuckle je vonné pisoárové sitko v balení 1 ks. Tvarovaný povrch tlmí dopad prúdu a obmedzuje rozstrek mimo pisoár, takže podlaha okolo zostáva čistejšia.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ochrana odtoku&lt;/strong&gt;&lt;/p&gt;
@@ -15080,7 +15266,7 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO WAVE 3D pisoárove sitko Spiced Apple, 1 ks</NAME>
+    <NAME>HP Fre-Pro WAVE 3D pisoárove sitko Spiced Apple, 1 ks</NAME>
     <SHORT_DESCRIPTION>Vonné pisoárové sitko FRE-PRO Wave 3D Spiced Apple, balenie 1 ks. Obmedzuje rozstrek moču, chráni odtok pred upchatím a uvoľňuje hrejivú vôňu jablka so škoricou.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Wave 3D Spiced Apple je vonné pisoárové sitko v balení 1 ks. Tvarovaný povrch tlmí dopad prúdu a obmedzuje rozstrek mimo pisoár, takže podlaha okolo zostáva čistejšia.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ochrana odtoku&lt;/strong&gt;&lt;/p&gt;
@@ -15144,7 +15330,7 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO WAVE 3D pisoárove sitko Citrus, 1 ks</NAME>
+    <NAME>HP Fre-Pro WAVE 3D pisoárove sitko Citrus, 1 ks</NAME>
     <SHORT_DESCRIPTION>Vonné pisoárové sitko FRE-PRO Wave 3D Citrus, balenie 1 ks. Obmedzuje rozstrek moču, chráni odtok pred upchatím a uvoľňuje osviežujúcu citrusovú vôňu.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Wave 3D Citrus je vonné pisoárové sitko v balení 1 ks. Tvarovaný povrch tlmí dopad prúdu a obmedzuje rozstrek mimo pisoár, takže podlaha okolo zostáva čistejšia.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ochrana odtoku&lt;/strong&gt;&lt;/p&gt;
@@ -15208,7 +15394,7 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO WAVE 2 pisoárove sitko Cotton Blossom, 2 ks</NAME>
+    <NAME>HP Fre-Pro WAVE 2 pisoárove sitko Cotton Blossom, 2 ks</NAME>
     <SHORT_DESCRIPTION>Vonné pisoárové sitko FRE-PRO Wave 2 Cotton Blossom, balenie 2 ks. Obmedzuje rozstrek moču, chráni odtok pred upchatím a uvoľňuje jemnú kvetinovú vôňu kvetu bavlny.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Wave 2 Cotton Blossom je vonné pisoárové sitko v balení 2 ks. Tvarovaný povrch tlmí dopad prúdu a obmedzuje rozstrek mimo pisoár, takže podlaha okolo zostáva čistejšia.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ochrana odtoku&lt;/strong&gt;&lt;/p&gt;
@@ -15265,14 +15451,14 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>80</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO WAVE 2 pisoárove sitko Cucumber Melon, 2 ks</NAME>
+    <NAME>HP Fre-Pro WAVE 2 pisoárove sitko Cucumber Melon, 2 ks</NAME>
     <SHORT_DESCRIPTION>Vonné pisoárové sitko FRE-PRO Wave 2 Cucumber Melon, balenie 2 ks. Obmedzuje rozstrek moču, chráni odtok pred upchatím a uvoľňuje čistú vôňu uhorky a melónu.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Wave 2 Cucumber Melon je vonné pisoárové sitko v balení 2 ks. Tvarovaný povrch tlmí dopad prúdu a obmedzuje rozstrek mimo pisoár, takže podlaha okolo zostáva čistejšia.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ochrana odtoku&lt;/strong&gt;&lt;/p&gt;
@@ -15329,14 +15515,14 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3</VALUE>
+          <VALUE>53</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO WAVE 2 pisoárove sitko Mango, 2 ks</NAME>
+    <NAME>HP Fre-Pro WAVE 2 pisoárove sitko Mango, 2 ks</NAME>
     <SHORT_DESCRIPTION>Vonné pisoárové sitko FRE-PRO Wave 2 Mango, balenie 2 ks. Obmedzuje rozstrek moču, chráni odtok pred upchatím a uvoľňuje podmanivú ovocnú vôňu manga.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Wave 2 Mango je vonné pisoárové sitko v balení 2 ks. Tvarovaný povrch tlmí dopad prúdu a obmedzuje rozstrek mimo pisoár, takže podlaha okolo zostáva čistejšia.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ochrana odtoku&lt;/strong&gt;&lt;/p&gt;
@@ -15393,7 +15579,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1</VALUE>
+          <VALUE>81</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -15896,7 +16082,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3081</VALUE>
+          <VALUE>3071</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -15958,7 +16144,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>66</VALUE>
+          <VALUE>51</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -17518,7 +17704,7 @@
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
         <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>60</VALUE>
+        <VALUE>50</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -18307,7 +18493,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5</VALUE>
+          <VALUE>4</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -18339,6 +18525,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6a2330b547e80-hf-20260605-202032-2d10b7d7-1d54-4a19-a4f5-71899ebdff8b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131716</CODE>
       <CODE>-PC49540280023131655</CODE>
@@ -18397,6 +18589,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6a233321153e4-hf-20260605-203240-d85bb75b-c889-4c0d-b626-9511541c8d62.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131716</CODE>
       <CODE>-PC49540280023131655</CODE>
@@ -18455,6 +18653,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6a2330b547e80-hf-20260605-202032-2d10b7d7-1d54-4a19-a4f5-71899ebdff8b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131716</CODE>
       <CODE>-PC49540280023131655</CODE>
@@ -18512,6 +18716,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6a2330b547e80-hf-20260605-202032-2d10b7d7-1d54-4a19-a4f5-71899ebdff8b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131716</CODE>
       <CODE>-PC49540280023131655</CODE>
@@ -18569,6 +18779,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6a2330b547e80-hf-20260605-202032-2d10b7d7-1d54-4a19-a4f5-71899ebdff8b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131716</CODE>
       <CODE>-PC49540280023131655</CODE>
@@ -18626,6 +18842,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6a2330b547e80-hf-20260605-202032-2d10b7d7-1d54-4a19-a4f5-71899ebdff8b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131716</CODE>
       <CODE>-PC49540280023131655</CODE>
@@ -18683,6 +18905,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6a2330b547e80-hf-20260605-202032-2d10b7d7-1d54-4a19-a4f5-71899ebdff8b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131716</CODE>
       <CODE>-PC49540280023131655</CODE>
@@ -18742,6 +18970,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6a2330b547e80-hf-20260605-202032-2d10b7d7-1d54-4a19-a4f5-71899ebdff8b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131716</CODE>
       <CODE>-PC49540280023131655</CODE>
@@ -18799,6 +19033,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/w/w6a2334ae44dfd-hf-20260605-204045-5c4b9e9d-cc60-4126-a207-58d8ed25a054.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131716</CODE>
       <CODE>-PC49540280023131655</CODE>
@@ -18858,6 +19098,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/66a2338f04f088-hf-20260605-205736-b8fc230e-6974-4d3b-b470-8a9e8c2a80d2.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -18918,6 +19164,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/66a2338f04f088-hf-20260605-205736-b8fc230e-6974-4d3b-b470-8a9e8c2a80d2.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -18977,6 +19229,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/b/b6a23385dd9826-hf-20260605-205557-17a9f98c-352e-4ffb-8b8c-3270be9e157a.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -19035,6 +19293,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/b/b6a23385dd9826-hf-20260605-205557-17a9f98c-352e-4ffb-8b8c-3270be9e157a.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -19094,6 +19358,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/l/l6a24085ea6139-hf-20260606-114224-3894298f-54dc-4b47-9045-2e54ba3b5756.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -19152,6 +19422,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/b/b6a23385dd9826-hf-20260605-205557-17a9f98c-352e-4ffb-8b8c-3270be9e157a.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -19210,6 +19486,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/h/h6a233c36d5db1-hf-20260605-211326-c0feade7-c45a-43d7-8db0-a73777aeb279.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131716</CODE>
       <CODE>-PC49540280023131649</CODE>
@@ -19267,6 +19549,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/w/w6a2406b27419a-hf-20260606-113155-07e66d19-53d7-4cd8-bc60-53ae057a0cb9.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131716</CODE>
       <CODE>-PC49540280023131649</CODE>
@@ -19324,6 +19612,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/9/96a23fa9c45e3c-hf-20260606-104215-364dd95a-068a-4b97-a8ea-c6a6e81f3518.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131716</CODE>
       <CODE>-PC49540280023131649</CODE>
@@ -19380,6 +19674,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/0/06a2523cc82345-hf-20260607-075254-32050d08-7f11-4138-950b-49509fb64b9b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -19434,6 +19734,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6a2330b547e80-hf-20260605-202032-2d10b7d7-1d54-4a19-a4f5-71899ebdff8b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131716</CODE>
       <CODE>-PC49540280023131655</CODE>
@@ -19577,7 +19883,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>465</VALUE>
+          <VALUE>464</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -19641,7 +19947,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>833</VALUE>
+          <VALUE>832</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -19676,8 +19982,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>12</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>864</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -19740,8 +20046,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>12</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>864</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -19802,6 +20108,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/i/i699cbdf023cf5-green-line-gentle-3-kg-2.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131619</CODE>
       <CODE>-PC49540280023132103</CODE>
@@ -20138,7 +20450,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2722</VALUE>
+          <VALUE>2723</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21218,7 +21530,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>26778</VALUE>
+          <VALUE>26758</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21408,7 +21720,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5039</VALUE>
+          <VALUE>4839</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21470,7 +21782,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>90223</VALUE>
+          <VALUE>90222</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21631,8 +21943,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>200</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>3200</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -21823,8 +22135,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>200</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>3200</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -22507,6 +22819,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/y/y6a65da5a64078-hf-20260726-084220-7684cfbd-7b3e-4201-9e08-1aa2532599fe.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -22690,6 +23008,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/o/o6a65c87a4f48c-hf-20260726-083753-6e956c56-6b76-43e2-a442-c73329f2c540.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -22907,7 +23231,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>481</VALUE>
+          <VALUE>361</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -23135,8 +23459,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>12</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>840</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -23165,7 +23489,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6742</VALUE>
+          <VALUE>6752</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -23293,7 +23617,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1142</VALUE>
+          <VALUE>1140</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -23357,7 +23681,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1858</VALUE>
+          <VALUE>1856</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -23421,7 +23745,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1840</VALUE>
+          <VALUE>1838</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -23485,7 +23809,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2508</VALUE>
+          <VALUE>2530</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -23549,7 +23873,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2656</VALUE>
+          <VALUE>2654</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -23613,7 +23937,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1942</VALUE>
+          <VALUE>1939</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -23713,7 +24037,7 @@
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
         <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>12</VALUE>
+        <VALUE>24</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -23741,7 +24065,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3490</VALUE>
+          <VALUE>3489</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -24381,7 +24705,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4973</VALUE>
+          <VALUE>4972</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -24445,7 +24769,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1777</VALUE>
+          <VALUE>1772</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -24509,7 +24833,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>497</VALUE>
+          <VALUE>492</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -24765,7 +25089,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1928</VALUE>
+          <VALUE>1926</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -24829,7 +25153,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>992</VALUE>
+          <VALUE>990</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -24957,7 +25281,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2179</VALUE>
+          <VALUE>2177</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -25453,7 +25777,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3090</VALUE>
+          <VALUE>3087</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -26061,6 +26385,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/p/p6a4158c8bda3a-hf-20260628-171957-2786dc0c-c639-455b-8235-0cc1d8c0a11e.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023132093</CODE>
@@ -26120,6 +26450,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/z/z6a41561144240-hf-20260628-170846-81420539-1d08-470f-b849-2bc9c471fe6b.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023132093</CODE>
@@ -26353,6 +26689,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/2/26a480d193490d-hf-20260703-192457-68d2634e-f288-4358-93a1-df4437daadf3-1.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -26408,6 +26750,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/b/b6a480cfca31f3-hf-20260703-192545-8040f94e-d34c-4af0-8c5b-5dcbfdf8b17d.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -26527,6 +26875,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/v/v6a676317018f7-hf-20260727-134952-2f9630d9-837c-46cf-bd16-9e3d55a65fae.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -26884,6 +27238,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/669e2336b99a9b-pla0037.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>24</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -27002,6 +27362,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/2/26a674303c0d2c-hf-20260727-113304-b42fd6fd-59f4-43c2-a24e-4e7fb5be4648.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>24</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023133281</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -27091,7 +27457,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1</VALUE>
+          <VALUE>4</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -27800,7 +28166,7 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO HANG TAG viacúčelová vonná záveska Spiced Apple, 1 ks</NAME>
+    <NAME>HP Fre-Pro HANG TAG viacúčelová vonná záveska Spiced Apple, 1 ks</NAME>
     <SHORT_DESCRIPTION>Vonná gélová záveska FRE-PRO Hang Tag Spiced Apple. Zavesí sa kdekoľvek — v kúpeľni, na WC, v šatníku či kancelárii — a plynulo uvoľňuje hrejivú vôňu jablka a korenia. Bez elektriny a bez batérií.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Hang Tag Spiced Apple je vonná gélová záveska na osvieženie vzduchu v menších priestoroch. Nepotrebuje elektrinu ani batérie — stačí ju vybaliť a zavesiť.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Plynulé uvoľňovanie vône&lt;/strong&gt;&lt;/p&gt;
@@ -27864,7 +28230,7 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO HANG TAG viacúčelová vonná záveska Mango, 1 ks</NAME>
+    <NAME>HP Fre-Pro HANG TAG viacúčelová vonná záveska Mango, 1 ks</NAME>
     <SHORT_DESCRIPTION>Vonná gélová záveska FRE-PRO Hang Tag Mango. Zavesí sa kdekoľvek — v kúpeľni, na WC, v šatníku či kancelárii — a plynulo uvoľňuje sladkú ovocnú vôňu manga. Bez elektriny a bez batérií.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Hang Tag Mango je vonná gélová záveska na osvieženie vzduchu v menších priestoroch. Nepotrebuje elektrinu ani batérie — stačí ju vybaliť a zavesiť.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Plynulé uvoľňovanie vône&lt;/strong&gt;&lt;/p&gt;
@@ -27921,7 +28287,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1</VALUE>
+          <VALUE>73</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -28231,7 +28597,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>26173</VALUE>
+          <VALUE>26183</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -28295,7 +28661,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>21875</VALUE>
+          <VALUE>21885</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -28454,8 +28820,8 @@
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>500</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>3500</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -28554,7 +28920,7 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO Slant - pisoárove sitko Cotton Blossom, 1 ks</NAME>
+    <NAME>HP Fre-Pro SLANT pisoárove sitko Cotton Blossom, 1 ks</NAME>
     <SHORT_DESCRIPTION>Pisoárové sitko FRE-PRO Slant Cotton Blossom so šikmými štetinami, ktoré obmedzujú rozstrek moču. Zachytáva nečistoty, bráni upchatiu odtoku a uvoľňuje jemnú púdrovú vôňu kvetu bavlny.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Slant Cotton Blossom je vonné pisoárové sitko so šikmo uloženými štetinami. Tie tlmia dopad prúdu a výrazne obmedzujú rozstrek moču mimo pisoár.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Menej rozstreku, menej upratovania&lt;/strong&gt;&lt;/p&gt;
@@ -28643,6 +29009,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/c/c6a2c104e16998-g6a2330b547e80-hf-20260605-202032-2d10b7d7-1d54-4a19-a4f5-71899ebdff8b.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>1</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131716</CODE>
       <CODE>-PC49540280023131655</CODE>
@@ -28759,6 +29131,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/d/d6a417557d7309-hf-20260628-191243-98e468ac-4344-4b7e-b168-9c040e75e323.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023132093</CODE>
@@ -28991,6 +29369,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/w/w6a4175044f625-hf-20260628-191445-690cfd14-1a47-4831-a22a-b175968a9434.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023132093</CODE>
@@ -29050,6 +29434,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/7/769fb43330622b-pro060g.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023132093</CODE>
@@ -29109,6 +29499,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/d/d69fb434d46ad2-pro0601y.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023132093</CODE>
@@ -29168,6 +29564,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/669fb435dc7843-pro060r.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023132093</CODE>
@@ -29227,6 +29629,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/5/569fb436d6f6d1-pro0601b.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023132093</CODE>
@@ -29286,6 +29694,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/s/s6a417156c533a-hf-20260628-190428-5ac1708f-a90a-4081-a560-10089358c341.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023132093</CODE>
@@ -29345,6 +29759,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/t/t6a417051f22c3-hf-20260628-183820-0ad7e873-eee2-464e-ab60-d228fe497934.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023132093</CODE>
@@ -29404,6 +29824,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/j/j6a4169b953f68-hf-20260628-183256-9bf4fbe6-0f23-4f8b-93e4-55f771fbf808.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>50</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023131669</CODE>
       <CODE>-PC49540280023132093</CODE>
@@ -29462,6 +29888,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/y/y6a2e5e0e559ba-hf-20260614-075211-1de31acd-96ea-487f-b13f-cc43e719e4c8.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>3200</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -32474,6 +32906,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/7/76a269f9a9472c-26920b37561bf3-2542100010582-0.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>9</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -33363,6 +33801,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/k/k6a58e51726748-d6920b3758536b-2542100010492-0.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>9</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -33396,6 +33840,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/w/w6a269f9b23538-w6920b3759bc69-2542100010491-0.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>9</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -33426,6 +33876,12 @@
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/r/r6a58e5173f024-669e61c64b2a26-9000101545807.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -34687,6 +35143,12 @@ Koncentrácia fluoridu: 1400 ppm F¯</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/r/r6a58e518c31d3-n6920b4f077a6f-254210007632-0.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>21</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -43416,6 +43878,12 @@ Varianta - Prsné</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/o/o6a269fb66338f-c6920b3754bd2e-254220002771-0.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>9</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -43449,6 +43917,12 @@ Varianta - Prsné</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/z/z6a269fb68a3cc-s6920b375702a1-2542100010540-0.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -53580,7 +54054,7 @@ Parfémy</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>11</VALUE>
+          <VALUE>47</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -53627,7 +54101,7 @@ Parfémy</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1</VALUE>
+          <VALUE>37</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -53674,7 +54148,7 @@ Parfémy</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1</VALUE>
+          <VALUE>37</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -53721,7 +54195,7 @@ Parfémy</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>23</VALUE>
+          <VALUE>47</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -53862,7 +54336,7 @@ Parfémy</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>28</VALUE>
+          <VALUE>52</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -54223,7 +54697,7 @@ Použitie: Rozotrite malé množstvo oleja v dlaniach a aplikujte na dĺžky a k
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>17</VALUE>
+          <VALUE>53</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -54367,7 +54841,7 @@ Použitie: Rozotrite malé množstvo oleja v dlaniach a aplikujte na dĺžky a k
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>11</VALUE>
+          <VALUE>35</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -54737,7 +55211,7 @@ Použitie: Obsah náhradnej náplne prelejte do pôvodného obalu šampónu Drea
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>24</VALUE>
+          <VALUE>48</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -54822,11 +55296,11 @@ Použitie: Obsah náhradnej náplne prelejte do pôvodného obalu šampónu Drea
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>60</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>L'Oréal Paris Elseve šampón Dream Long 400 ml</NAME>
@@ -54963,7 +55437,7 @@ Použitie: Naneste na mokré vlasy, jemne vmasírujte do pokožky hlavy a dĺžo
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>18</VALUE>
+          <VALUE>42</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -55153,11 +55627,11 @@ Použitie: Po umytí vlasov šampónom naneste masku do dĺžok a končekov. Nec
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>36</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>L'Oréal Paris Elseve maska na vlasy Full Resist 300 ml</NAME>
@@ -56128,6 +56602,12 @@ Uchovávajte mimo dosahu detí. Nekonzumujte. Pri požití vyhľadajte lekársku
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/3/36a269fe8cd62a-v6920b4f08da80-254210007641-0.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -56161,6 +56641,12 @@ Uchovávajte mimo dosahu detí. Nekonzumujte. Pri požití vyhľadajte lekársku
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/s/s6a269fe8d0352-26920b4f0948b0-254210007626-0.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC497402700125581</CODE>
       <CODE>-PC497402700125576</CODE>
@@ -56188,7 +56674,7 @@ Uchovávajte mimo dosahu detí. Nekonzumujte. Pri požití vyhľadajte lekársku
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>86</VALUE>
+          <VALUE>80</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -56208,6 +56694,12 @@ Uchovávajte mimo dosahu detí. Nekonzumujte. Pri požití vyhľadajte lekársku
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a269fe8db165-b6920b4f0b190b-254210007665-0.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -56241,6 +56733,12 @@ Uchovávajte mimo dosahu detí. Nekonzumujte. Pri požití vyhľadajte lekársku
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/j/j6a269fe8de2d6-16920b4f0b9379-2542100016654-0.jpeg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -57658,7 +58156,7 @@ Použitie: Naneste na mokré vlasy, vmasírujte do pokožky hlavy a dĺžok, ký
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>13</VALUE>
+          <VALUE>37</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -57793,7 +58291,7 @@ Tekutý</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4</VALUE>
+          <VALUE>40</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -58585,11 +59083,11 @@ Tekutý</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>24</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier Olia farba na vlasy - 9.11 metalická strieborná, 1 ks</NAME>
@@ -58726,11 +59224,11 @@ Tekutý</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>36</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier CN farba na vlasy - 10 veľmi veľmi svetlá blond, 1 ks</NAME>
@@ -59009,7 +59507,7 @@ Tekutý</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>9</VALUE>
+          <VALUE>45</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -59056,7 +59554,7 @@ Tekutý</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>12</VALUE>
+          <VALUE>36</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -59199,11 +59697,11 @@ Tekutý</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>36</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier CN farba na vlasy 3.61 Ostružinová červená</NAME>
@@ -59434,7 +59932,7 @@ Tekutý</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3</VALUE>
+          <VALUE>27</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -59481,11 +59979,11 @@ Tekutý</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>36</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier CN farba na vlasy 5.25 Opálová mahagonová</NAME>
@@ -59528,11 +60026,11 @@ Tekutý</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>36</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier CN farba na vlasy - 6 tmavá blond, 1 ks</NAME>
@@ -59575,11 +60073,11 @@ Tekutý</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>24</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier CN farba na vlasy - 6.25 svetlá ľadová mahagónová, 1 ks</NAME>
@@ -59691,7 +60189,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3</VALUE>
+          <VALUE>27</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -59739,11 +60237,11 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>36</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier CN permanentná farba na vlasy 6.41 Teplá jantárová</NAME>
@@ -59787,11 +60285,11 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>24</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier CN permanentná farba na vlasy 7 Prirodzená blond</NAME>
@@ -59882,11 +60380,11 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>24</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier CN farba na vlasy - 7.40 vášnivo medená, 1 ks</NAME>
@@ -60023,7 +60521,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6</VALUE>
+          <VALUE>30</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -60070,7 +60568,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6</VALUE>
+          <VALUE>30</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -60117,7 +60615,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6</VALUE>
+          <VALUE>30</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -60164,7 +60662,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>15</VALUE>
+          <VALUE>39</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -60211,7 +60709,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>15</VALUE>
+          <VALUE>39</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -60258,7 +60756,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>12</VALUE>
+          <VALUE>48</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -60353,11 +60851,11 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>36</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier Color Sensation farba na vlasy 10.21 Perlová blond</NAME>
@@ -60494,11 +60992,11 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>27</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier Color Sensation farba na vlasy - 4.0 stredne hnedá, 1 ks</NAME>
@@ -60588,11 +61086,11 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>18</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier Color Sensation farba na vlasy - 4.15 ľadovo gaštanová, 1 ks</NAME>
@@ -60636,11 +61134,11 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>27</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier Color Sensation farba na vlasy - 4.6 intenzívna tmavočervená, 1 ks</NAME>
@@ -60825,11 +61323,11 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>27</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier Color Sensation farba na vlasy - 6.60 intenzívna rubínová, 1 ks</NAME>
@@ -60872,11 +61370,11 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>27</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier Color Sensation farba na vlasy 7.0 Jemná opálová blond</NAME>
@@ -60919,11 +61417,11 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>27</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier Color Sensation farba na vlasy - 7.12 tmavá roseblond, 1 ks</NAME>
@@ -60966,7 +61464,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>7</VALUE>
+          <VALUE>34</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -61060,7 +61558,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>16</VALUE>
+          <VALUE>43</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -61107,7 +61605,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>18</VALUE>
+          <VALUE>45</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -61155,11 +61653,11 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>27</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier Color Sensation farba na vlasy 9.13 Veľmi svetlá blond dúhová</NAME>
@@ -61202,7 +61700,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1</VALUE>
+          <VALUE>37</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -61426,11 +61924,11 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>36</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier intenzívny permanentný farbiaci krém - S9 strieborná blond, 1 ks</NAME>
@@ -61508,11 +62006,11 @@ Spreje, hmly</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>60</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier Men antiperspirant Mineral Extreme Sport Stress 150 ml</NAME>
@@ -61556,11 +62054,11 @@ Spreje, hmly</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>60</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier Men Magnesium Ultra Dry 72H pánský antiperspirant sprej 150 ml</NAME>
@@ -61604,7 +62102,7 @@ Spreje, hmly</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2</VALUE>
+          <VALUE>62</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -61645,11 +62143,11 @@ Spreje, hmly</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>36</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier mineralny guľôčkový antiperspirant Hyaluronic Ultra Care 50 ml</NAME>
@@ -61685,7 +62183,7 @@ Spreje, hmly</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5</VALUE>
+          <VALUE>41</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -61755,11 +62253,11 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>36</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier dámsky antiperspirant Mineral Pure Active 150 ml</NAME>
@@ -61821,7 +62319,7 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3</VALUE>
+          <VALUE>51</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -61861,11 +62359,11 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>60</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier dámsky antiperspirant 6-in-1 Protection Skin + Clothes, 150 ml</NAME>
@@ -61895,11 +62393,11 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>60</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier dámsky minerálny antiperspirant  Action Control Thermic, 150 ml</NAME>
@@ -62065,11 +62563,11 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>48</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Garnier krém na extra suchú pokožku rúk Hand Repair, 75 ml</NAME>
@@ -62281,7 +62779,7 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>10</VALUE>
+          <VALUE>46</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -62424,7 +62922,7 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1</VALUE>
+          <VALUE>37</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -62471,7 +62969,7 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>20</VALUE>
+          <VALUE>56</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -62901,7 +63399,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5</VALUE>
+          <VALUE>41</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -63025,7 +63523,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>14</VALUE>
+          <VALUE>50</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -65928,7 +66426,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4</VALUE>
+          <VALUE>3</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -68965,7 +69463,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>106</VALUE>
+          <VALUE>105</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -70619,7 +71117,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>10</VALUE>
+          <VALUE>46</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -70665,7 +71163,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>16</VALUE>
+          <VALUE>52</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -70711,7 +71209,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>15</VALUE>
+          <VALUE>51</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -70757,7 +71255,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>9</VALUE>
+          <VALUE>45</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -70941,7 +71439,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>18</VALUE>
+          <VALUE>42</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -71080,7 +71578,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>18</VALUE>
+          <VALUE>42</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -71126,7 +71624,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>39</VALUE>
+          <VALUE>63</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -71172,7 +71670,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>21</VALUE>
+          <VALUE>45</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -71218,7 +71716,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>21</VALUE>
+          <VALUE>45</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -71356,7 +71854,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>18</VALUE>
+          <VALUE>42</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -71402,7 +71900,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>9</VALUE>
+          <VALUE>33</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -71494,7 +71992,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>18</VALUE>
+          <VALUE>42</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -71586,7 +72084,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6</VALUE>
+          <VALUE>30</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -71632,7 +72130,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6</VALUE>
+          <VALUE>30</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -71678,7 +72176,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>9</VALUE>
+          <VALUE>45</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -71725,7 +72223,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>9</VALUE>
+          <VALUE>33</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -71775,7 +72273,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6</VALUE>
+          <VALUE>30</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -71821,7 +72319,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>19</VALUE>
+          <VALUE>43</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -73328,11 +73826,11 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>36</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Nivea telové mlieko Q10 + Vitamín C 400 ml dry skin</NAME>
@@ -76068,8 +76566,8 @@ Nočná</DESCRIPTION>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>12</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>768</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -76133,8 +76631,8 @@ Nočná</DESCRIPTION>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>12</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>768</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -76853,7 +77351,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>79</VALUE>
+          <VALUE>67</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -77108,7 +77606,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>9</VALUE>
+          <VALUE>36</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -77171,7 +77669,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6</VALUE>
+          <VALUE>18</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -77234,11 +77732,11 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>39</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>HP Vir aviváž Luxus Parfum Magnetisch, 66 PD, 1452 ml</NAME>
@@ -77297,11 +77795,11 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>37</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>HP NOLVIX špongia na riad XXL Premium 9 x 6 x 3 cm, 10 ks (NOL0011)</NAME>
@@ -77423,7 +77921,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>47934</VALUE>
+          <VALUE>47944</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -78697,6 +79195,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/n/n6a32b146dbe82-hf-20260617-143454-cae8ce16-f4ca-483a-8007-d2da7e0441e4.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>125</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132216</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -79005,8 +79509,8 @@ Nočná</DESCRIPTION>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>10</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>500</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -79068,8 +79572,8 @@ Nočná</DESCRIPTION>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>10</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>500</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -79130,8 +79634,8 @@ Nočná</DESCRIPTION>
     </IMAGES>
     <TEXT_PROPERTIES>
       <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>10</VALUE>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1000</VALUE>
       </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
@@ -79482,6 +79986,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/0/06a69ffdd92843-cis2347.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -79542,6 +80052,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/s/s6a58b314cd9e2-254110005394-0.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>24</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -79597,6 +80113,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/s/s6a6a01268de2f-254110005395-0.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>24</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023132225</CODE>
       <CODE>-PC49540280023141883</CODE>
@@ -79656,6 +80178,12 @@ Nočná</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/w/w6a58b1e923195-254110005397-0.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>17</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
       <CODE>-PC49540280023141883</CODE>
       <CODE>-PC49540280023132058</CODE>
@@ -80830,7 +81358,7 @@ Nočná</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO WAVE 2 pisoárove sitko Honeysuckle, 2 ks</NAME>
+    <NAME>HP Fre-Pro WAVE 2 pisoárove sitko Honeysuckle, 2 ks</NAME>
     <SHORT_DESCRIPTION>Vonné pisoárové sitko FRE-PRO Wave 2 Honeysuckle, balenie 2 ks. Obmedzuje rozstrek moču, chráni odtok pred upchatím a uvoľňuje sladkú kvetinovú vôňu zemolezu.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Wave 2 Honeysuckle je vonné pisoárové sitko v balení 2 ks. Tvarovaný povrch tlmí dopad prúdu a obmedzuje rozstrek mimo pisoár, takže podlaha okolo zostáva čistejšia.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ochrana odtoku&lt;/strong&gt;&lt;/p&gt;
@@ -81140,7 +81668,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2006</VALUE>
+          <VALUE>2005</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -81273,7 +81801,7 @@ Nočná</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO WAVE 3D pisoárove sitko Kiwi Grep, 1 ks</NAME>
+    <NAME>HP Fre-Pro WAVE 3D pisoárove sitko Kiwi Grep, 1 ks</NAME>
     <SHORT_DESCRIPTION>Vonné pisoárové sitko FRE-PRO Wave 3D Kiwi Grep, balenie 1 ks. Obmedzuje rozstrek moču, chráni odtok pred upchatím a uvoľňuje energickú vôňu kiwi a grapefruitu.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Wave 3D Kiwi Grep je vonné pisoárové sitko v balení 1 ks. Tvarovaný povrch tlmí dopad prúdu a obmedzuje rozstrek mimo pisoár, takže podlaha okolo zostáva čistejšia.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ochrana odtoku&lt;/strong&gt;&lt;/p&gt;
@@ -81895,7 +82423,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>213</VALUE>
+          <VALUE>212</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -82541,7 +83069,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>7829</VALUE>
+          <VALUE>7823</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -82605,7 +83133,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5846</VALUE>
+          <VALUE>5838</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -82669,7 +83197,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4355</VALUE>
+          <VALUE>4363</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -82733,7 +83261,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>11106</VALUE>
+          <VALUE>11102</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -82797,7 +83325,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5755</VALUE>
+          <VALUE>5645</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -82861,7 +83389,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>8883</VALUE>
+          <VALUE>8853</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -82925,7 +83453,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>7918</VALUE>
+          <VALUE>7908</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -82989,7 +83517,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6384</VALUE>
+          <VALUE>6334</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -83572,7 +84100,7 @@ Nočná</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO WAVE 3D pisoárove sitko Cotton Blossom, 1 ks</NAME>
+    <NAME>HP Fre-Pro WAVE 3D pisoárove sitko Cotton Blossom, 1 ks</NAME>
     <SHORT_DESCRIPTION>Vonné pisoárové sitko FRE-PRO Wave 3D Cotton Blossom, balenie 1 ks. Obmedzuje rozstrek moču, chráni odtok pred upchatím a uvoľňuje jemnú kvetinovú vôňu kvetu bavlny.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Wave 3D Cotton Blossom je vonné pisoárové sitko v balení 1 ks. Tvarovaný povrch tlmí dopad prúdu a obmedzuje rozstrek mimo pisoár, takže podlaha okolo zostáva čistejšia.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ochrana odtoku&lt;/strong&gt;&lt;/p&gt;
@@ -83629,14 +84157,14 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>25</VALUE>
+          <VALUE>85</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO WAVE 3D pisoárove sitko Cucumber Melon, 1 ks</NAME>
+    <NAME>HP Fre-Pro WAVE 3D pisoárove sitko Cucumber Melon, 1 ks</NAME>
     <SHORT_DESCRIPTION>Vonné pisoárové sitko FRE-PRO Wave 3D Cucumber Melon, balenie 1 ks. Obmedzuje rozstrek moču, chráni odtok pred upchatím a uvoľňuje čistú vôňu uhorky a melónu.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Wave 3D Cucumber Melon je vonné pisoárové sitko v balení 1 ks. Tvarovaný povrch tlmí dopad prúdu a obmedzuje rozstrek mimo pisoár, takže podlaha okolo zostáva čistejšia.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ochrana odtoku&lt;/strong&gt;&lt;/p&gt;
@@ -83693,14 +84221,14 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>60</VALUE>
+          <VALUE>140</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO WAVE 3D pisoárove sitko Mango, 1 ks</NAME>
+    <NAME>HP Fre-Pro WAVE 3D pisoárove sitko Mango, 1 ks</NAME>
     <SHORT_DESCRIPTION>Vonné pisoárové sitko FRE-PRO Wave 3D Mango, balenie 1 ks. Obmedzuje rozstrek moču, chráni odtok pred upchatím a uvoľňuje podmanivú ovocnú vôňu manga.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Wave 3D Mango je vonné pisoárové sitko v balení 1 ks. Tvarovaný povrch tlmí dopad prúdu a obmedzuje rozstrek mimo pisoár, takže podlaha okolo zostáva čistejšia.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ochrana odtoku&lt;/strong&gt;&lt;/p&gt;
@@ -83757,7 +84285,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>70</VALUE>
+          <VALUE>170</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -84206,7 +84734,7 @@ Nočná</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO WAVE 3D pisoárove sitko Fabulous Lavender, 1 ks</NAME>
+    <NAME>HP Fre-Pro WAVE 3D pisoárove sitko Fabulous Lavender, 1 ks</NAME>
     <SHORT_DESCRIPTION>Vonné pisoárové sitko FRE-PRO Wave 3D Fabulous Lavender, balenie 1 ks. Obmedzuje rozstrek moču, chráni odtok pred upchatím a uvoľňuje intenzívnu vôňu levandule.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Wave 3D Fabulous Lavender je vonné pisoárové sitko v balení 1 ks. Tvarovaný povrch tlmí dopad prúdu a obmedzuje rozstrek mimo pisoár, takže podlaha okolo zostáva čistejšia.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ochrana odtoku&lt;/strong&gt;&lt;/p&gt;
@@ -84263,7 +84791,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>55</VALUE>
+          <VALUE>135</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -84637,7 +85165,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>716</VALUE>
+          <VALUE>715</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -84822,7 +85350,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>8679</VALUE>
+          <VALUE>8819</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -85551,6 +86079,7 @@ Nočná</DESCRIPTION>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CODE>-PC49540280023231753</CODE>
+    <EAN>2003508228943</EAN>
     <CATEGORIES>
       <CATEGORY>Upratovacie pomôcky &gt; Mopy a príslušenstvo</CATEGORY>
     </CATEGORIES>
@@ -85654,7 +86183,7 @@ Nočná</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FRE-PRO WAVE 3D pisoárove sitko Midnight Coast, 1 ks</NAME>
+    <NAME>HP Fre-Pro WAVE 3D pisoárove sitko Midnight Coast, 1 ks</NAME>
     <SHORT_DESCRIPTION>HP FRE-PRO WAVE 3D pisoárove sitko Midnight Coast, 1 ks (čierne)</SHORT_DESCRIPTION>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
@@ -85776,7 +86305,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1063</VALUE>
+          <VALUE>1033</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -86436,7 +86965,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>53046</VALUE>
+          <VALUE>53058</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -86483,7 +87012,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>42487</VALUE>
+          <VALUE>42499</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -86530,7 +87059,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>56405</VALUE>
+          <VALUE>56417</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
