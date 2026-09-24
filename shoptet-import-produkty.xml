@@ -58,7 +58,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1399</VALUE>
+          <VALUE>1394</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -184,7 +184,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2628</VALUE>
+          <VALUE>2623</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -248,7 +248,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2326</VALUE>
+          <VALUE>2262</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -312,7 +312,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>8760</VALUE>
+          <VALUE>7828</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -380,70 +380,6 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP Savo Original dezinfekčný prostriedok, 4 kg</NAME>
-    <SHORT_DESCRIPTION>Dezinfekčný čistiaci prostriedok, balenie 4 kg. Čistí a zároveň znižuje počet mikroorganizmov na ošetrenom povrchu.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Savo Original dezinfekčný prostriedok, 4 kg je dezinfekčný čistiaci prostriedok v balení 4 kg. Čistí a zároveň znižuje počet mikroorganizmov na ošetrenom povrchu.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Použitie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Riaďte sa dávkovaním a dobou pôsobenia uvedenou na obale.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Balenie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Balenie je určené na bežnú spotrebu v domácnosti aj v menšej prevádzke.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Balenie 4 kg&lt;/li&gt;
-&lt;li&gt;Dezinfekčný čistiaci prostriedok&lt;/li&gt;
-&lt;li&gt;Pre domácnosti aj prevádzky&lt;/li&gt;
-&lt;li&gt;Pred použitím si prečítajte etiketu a informácie o výrobku&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Hmotnosť:&lt;/strong&gt; 4 kg&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Savo</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49540280023131578</CODE>
-    <EAN>8710522605066</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Dezinfekcia a bielidlá</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/i/i6928490d83136-2542100017383-0.jpeg</IMAGE>
-    </IMAGES>
-    <TEXT_PROPERTIES>
-      <TEXT_PROPERTY>
-        <NAME>Počet kusov na palete</NAME>
-        <VALUE>114</VALUE>
-      </TEXT_PROPERTY>
-    </TEXT_PROPERTIES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023141883</CODE>
-      <CODE>-PC49540280023132058</CODE>
-      <CODE>-PC49540280023132046</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC495500-15</CODE>
-      <CODE>-PC49540280023131957</CODE>
-      <CODE>-PC49540280023131958</CODE>
-      <CODE>-PC49540280023131961</CODE>
-      <CODE>-PC49540280023131962</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>6.47</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>87</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>HP Drôtenka nerezová špirála 40 g</NAME>
     <SHORT_DESCRIPTION>Nerezová špirálová drôtenka na pripálené hrnce, plechy a grilovacie rošty. Odstráni zapečené zvyšky mechanicky, bez agresívnej chémie. Balenie 1 ks.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Nerezová špirálová drôtenka je abrazívny pomocník na najodolnejšie pripáleniny a zapečenú mastnotu, na ktoré bežná špongia nestačí.&lt;/p&gt;
@@ -501,7 +437,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>22315</VALUE>
+          <VALUE>22305</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -566,7 +502,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>745</VALUE>
+          <VALUE>617</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -629,7 +565,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2226</VALUE>
+          <VALUE>2221</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -694,7 +630,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>20267</VALUE>
+          <VALUE>20107</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -757,7 +693,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>9</VALUE>
+          <VALUE>6</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -883,7 +819,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2492</VALUE>
+          <VALUE>2491</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1142,7 +1078,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>63425</VALUE>
+          <VALUE>63420</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1394,7 +1330,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3900</VALUE>
+          <VALUE>3230</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1460,7 +1396,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>7966</VALUE>
+          <VALUE>7756</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1526,7 +1462,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2187</VALUE>
+          <VALUE>2057</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1719,7 +1655,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>44118</VALUE>
+          <VALUE>43618</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1845,7 +1781,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>149118</VALUE>
+          <VALUE>149068</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2100,7 +2036,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6950</VALUE>
+          <VALUE>6780</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2161,7 +2097,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2477</VALUE>
+          <VALUE>2475</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2222,7 +2158,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>7284</VALUE>
+          <VALUE>7246</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2285,7 +2221,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2164</VALUE>
+          <VALUE>2159</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2347,7 +2283,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>631</VALUE>
+          <VALUE>602</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2409,7 +2345,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1132</VALUE>
+          <VALUE>1108</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2471,7 +2407,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>866</VALUE>
+          <VALUE>818</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2533,7 +2469,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>608</VALUE>
+          <VALUE>604</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2779,7 +2715,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>224</VALUE>
+          <VALUE>221</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -3096,7 +3032,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>398</VALUE>
+          <VALUE>392</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -3535,7 +3471,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>144</VALUE>
+          <VALUE>108</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -3599,7 +3535,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>111798</VALUE>
+          <VALUE>110658</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -3665,7 +3601,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1548</VALUE>
+          <VALUE>1488</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -3731,7 +3667,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>189</VALUE>
+          <VALUE>4</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -3860,7 +3796,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>852</VALUE>
+          <VALUE>5327</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -4369,7 +4305,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4318</VALUE>
+          <VALUE>4175</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -4562,7 +4498,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>305</VALUE>
+          <VALUE>295</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -5006,7 +4942,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1059</VALUE>
+          <VALUE>1039</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -5070,7 +5006,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1343</VALUE>
+          <VALUE>1289</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -5198,7 +5134,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2243</VALUE>
+          <VALUE>2231</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -5387,7 +5323,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1160</VALUE>
+          <VALUE>1158</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -5581,7 +5517,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3479</VALUE>
+          <VALUE>3292</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -5959,7 +5895,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1425</VALUE>
+          <VALUE>1407</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6142,7 +6078,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4951</VALUE>
+          <VALUE>4931</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6206,7 +6142,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2838</VALUE>
+          <VALUE>2742</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6326,7 +6262,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>28995</VALUE>
+          <VALUE>28394</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6391,7 +6327,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>16</VALUE>
+          <VALUE>48</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6455,7 +6391,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>400</VALUE>
+          <VALUE>331</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6518,14 +6454,14 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>190</VALUE>
+          <VALUE>394</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP Papierové utierky ZZ 2vr skladané, 100% celulóza, 25 x 20 cm, 3000 ks</NAME>
+    <NAME>HP Papierové utierky ZZ 2vr 100% celulóza, 25 x 20 cm, 3000 ks</NAME>
     <SHORT_DESCRIPTION>Skladané papierové utierky ZZ, dvojvrstvové, 25 × 20 cm, balenie 3000 ks. Do zásobníka — odoberajú sa po jednej, takže sa nedotýkate zvyšku zásoby.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Papierové utierky ZZ skladané 2vr 25x20cm 100%celulóza 3000ks sú dvojvrstvové skladané papierové utierky s rozmerom 25 × 20 cm, v balení 3000 ks. Sklad ZZ zaisťuje, že sa z každej utierky vysunie okraj nasledujúcej.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Hygienické odoberanie&lt;/strong&gt;&lt;/p&gt;
@@ -6766,7 +6702,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2471</VALUE>
+          <VALUE>2183</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6830,7 +6766,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>206</VALUE>
+          <VALUE>202</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6894,7 +6830,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>373</VALUE>
+          <VALUE>265</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7283,6 +7219,7 @@
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CODE>-PC49640280023131817</CODE>
+    <EAN>2004422161637</EAN>
     <CATEGORIES>
       <CATEGORY>Papierový program &gt; Papierové utierky a obrúsky</CATEGORY>
     </CATEGORIES>
@@ -7320,14 +7257,14 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>136</VALUE>
+          <VALUE>77</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Sanytol dezinfekčný čistič Eukalyptus 2 x 500 ml</NAME>
+    <NAME>HP Sanytol dezinfekčný čistič Eukalyptus 2 x 500 ml</NAME>
     <SHORT_DESCRIPTION>Dezinfekčný čistiaci prostriedok Sanytol s vôňou eukalyptu, dvojbalenie 2 × 500 ml. Dezinfikuje bez chlóru a je vhodný na povrchy v kuchyni, kúpeľni aj na podlahy.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Sanytol dezinfekčný čistič s vôňou eukalyptu spája čistenie a dezinfekciu v jednom kroku. Zloženie je bez chlóru, takže nezanecháva agresívny zápach a je šetrnejšie k povrchom. Výhodné dvojbalenie 2 × 500 ml.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Čistenie a dezinfekcia naraz&lt;/strong&gt;&lt;/p&gt;
@@ -7385,11 +7322,11 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
+          <VALUE>10064</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>HP Pulirapid čistič na vodný kameň 750 ml - modrý</NAME>
@@ -7513,7 +7450,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>9442</VALUE>
+          <VALUE>9386</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7577,7 +7514,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>10290</VALUE>
+          <VALUE>10218</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7706,7 +7643,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1779</VALUE>
+          <VALUE>1699</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7771,7 +7708,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1349</VALUE>
+          <VALUE>1269</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -8342,7 +8279,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>810</VALUE>
+          <VALUE>560</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -8899,7 +8836,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>634</VALUE>
+          <VALUE>624</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9028,7 +8965,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>428</VALUE>
+          <VALUE>402</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9092,7 +9029,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>336</VALUE>
+          <VALUE>324</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9282,7 +9219,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>232</VALUE>
+          <VALUE>186</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9470,7 +9407,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1311</VALUE>
+          <VALUE>1309</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9722,7 +9659,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1678</VALUE>
+          <VALUE>1557</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9845,7 +9782,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2637</VALUE>
+          <VALUE>2554</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9906,7 +9843,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1008</VALUE>
+          <VALUE>1007</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -10035,7 +9972,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>8297</VALUE>
+          <VALUE>8182</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -10358,7 +10295,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>8072</VALUE>
+          <VALUE>8060</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -10422,7 +10359,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>9451</VALUE>
+          <VALUE>9445</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -10545,7 +10482,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1081</VALUE>
+          <VALUE>911</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -10925,7 +10862,7 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP Papierové utierky ZZ 2vr celulóza, 21 x 23 cm, 3000 ks</NAME>
+    <NAME>HP Papierové utierky ZZ 2vr celulóza, 23 x 21 cm, 3000 ks</NAME>
     <SHORT_DESCRIPTION>Skladané papierové utierky ZZ, dvojvrstvové, 21 × 23 cm, balenie 3000 ks. Do zásobníka — odoberajú sa po jednej, takže sa nedotýkate zvyšku zásoby.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Papierové utierky ZZ 21x23cm 2vr celulóza 3000ks sú dvojvrstvové skladané papierové utierky s rozmerom 21 × 23 cm, v balení 3000 ks. Sklad ZZ zaisťuje, že sa z každej utierky vysunie okraj nasledujúcej.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Hygienické odoberanie&lt;/strong&gt;&lt;/p&gt;
@@ -10983,7 +10920,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>170</VALUE>
+          <VALUE>94</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -11047,7 +10984,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>95</VALUE>
+          <VALUE>7</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -11137,6 +11074,7 @@
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CODE>-PC49540280023132144</CODE>
+    <EAN>5906615038290</EAN>
     <CATEGORIES>
       <CATEGORY>Upratovacie pomôcky &gt; Rukavice</CATEGORY>
     </CATEGORIES>
@@ -11239,7 +11177,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1158</VALUE>
+          <VALUE>1134</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -11305,7 +11243,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>528</VALUE>
+          <VALUE>398</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -11371,7 +11309,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>123</VALUE>
+          <VALUE>111</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -11826,7 +11764,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1362</VALUE>
+          <VALUE>1302</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -11890,7 +11828,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>379</VALUE>
+          <VALUE>429</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -12784,7 +12722,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1486</VALUE>
+          <VALUE>1438</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -12849,7 +12787,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2480</VALUE>
+          <VALUE>2468</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13388,6 +13326,7 @@
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CODE>-PC49540280023132184</CODE>
+    <EAN>8594011502407</EAN>
     <CATEGORIES>
       <CATEGORY>Čistiace prostriedky &gt; Osviežovače vzduchu</CATEGORY>
     </CATEGORIES>
@@ -13479,7 +13418,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>184</VALUE>
+          <VALUE>34</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13544,7 +13483,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>334</VALUE>
+          <VALUE>333</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13608,7 +13547,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>98</VALUE>
+          <VALUE>97</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13737,7 +13676,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5239</VALUE>
+          <VALUE>5026</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13929,7 +13868,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>844</VALUE>
+          <VALUE>834</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -14116,7 +14055,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>131</VALUE>
+          <VALUE>311</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -14307,7 +14246,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>23924</VALUE>
+          <VALUE>23712</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -14370,7 +14309,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>31458</VALUE>
+          <VALUE>31338</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -14499,7 +14438,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>7407</VALUE>
+          <VALUE>7135</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -14565,7 +14504,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1212</VALUE>
+          <VALUE>1082</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -14687,7 +14626,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>8619</VALUE>
+          <VALUE>8073</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -15390,7 +15329,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>80</VALUE>
+          <VALUE>72</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -15454,7 +15393,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>53</VALUE>
+          <VALUE>45</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -15518,7 +15457,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>81</VALUE>
+          <VALUE>73</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -15580,7 +15519,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1968</VALUE>
+          <VALUE>1958</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -15646,7 +15585,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1</VALUE>
+          <VALUE>2</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -15712,7 +15651,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>594</VALUE>
+          <VALUE>593</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -15778,7 +15717,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>612</VALUE>
+          <VALUE>610</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -18040,7 +17979,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1035</VALUE>
+          <VALUE>1017</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -18170,7 +18109,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>904</VALUE>
+          <VALUE>898</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -18300,7 +18239,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>544</VALUE>
+          <VALUE>542</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -19456,11 +19395,11 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2</VALUE>
+          <VALUE>0</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>HP Toaletný papier Craft Flex T 13,4 2vr, Ø 19,5 cm/207 m, perforovaný, 6 ks</NAME>
@@ -19704,11 +19643,11 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1</VALUE>
+          <VALUE>0</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>HP Toaletný papier BigSoft Clean 3vr, 150 útržkov, 24 ks</NAME>
@@ -19766,7 +19705,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>633</VALUE>
+          <VALUE>597</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -19886,7 +19825,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>804</VALUE>
+          <VALUE>805</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -20014,7 +19953,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5027</VALUE>
+          <VALUE>5026</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -20139,7 +20078,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>133</VALUE>
+          <VALUE>108</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -20200,7 +20139,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>48</VALUE>
+          <VALUE>8</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -20389,7 +20328,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2718</VALUE>
+          <VALUE>2713</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -20581,11 +20520,11 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2</VALUE>
+          <VALUE>0</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>HP Latexové rukavice ARMOUR bez púdru biele S, 100 ks</NAME>
@@ -20772,7 +20711,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>53</VALUE>
+          <VALUE>51</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21090,7 +21029,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3308</VALUE>
+          <VALUE>3307</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21216,7 +21155,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2866</VALUE>
+          <VALUE>2873</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21342,7 +21281,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1364</VALUE>
+          <VALUE>1339</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21405,7 +21344,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3415</VALUE>
+          <VALUE>3414</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21469,7 +21408,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>26598</VALUE>
+          <VALUE>26596</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21532,7 +21471,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>9151</VALUE>
+          <VALUE>9139</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21595,7 +21534,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>9344</VALUE>
+          <VALUE>9332</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21659,7 +21598,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4804</VALUE>
+          <VALUE>4754</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21783,7 +21722,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>59495</VALUE>
+          <VALUE>59413</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21847,7 +21786,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>51395</VALUE>
+          <VALUE>51375</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21975,7 +21914,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>30632</VALUE>
+          <VALUE>30612</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -22103,7 +22042,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>82330</VALUE>
+          <VALUE>82230</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -22789,7 +22728,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>418</VALUE>
+          <VALUE>413</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -23298,7 +23237,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>722</VALUE>
+          <VALUE>716</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -23362,7 +23301,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>432</VALUE>
+          <VALUE>426</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -23428,7 +23367,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6738</VALUE>
+          <VALUE>6728</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -23748,7 +23687,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2530</VALUE>
+          <VALUE>2494</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -23812,7 +23751,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2654</VALUE>
+          <VALUE>2644</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -23876,7 +23815,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1931</VALUE>
+          <VALUE>1921</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -23940,7 +23879,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2547</VALUE>
+          <VALUE>2537</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -24196,7 +24135,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1214</VALUE>
+          <VALUE>1202</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -24324,7 +24263,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1897</VALUE>
+          <VALUE>1885</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -24388,7 +24327,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3680</VALUE>
+          <VALUE>3668</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -24516,7 +24455,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1887</VALUE>
+          <VALUE>1877</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -24580,7 +24519,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5510</VALUE>
+          <VALUE>5482</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -24644,7 +24583,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4968</VALUE>
+          <VALUE>4942</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -25092,7 +25031,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>990</VALUE>
+          <VALUE>972</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -25156,7 +25095,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2407</VALUE>
+          <VALUE>2401</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -25780,7 +25719,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>7476</VALUE>
+          <VALUE>7456</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -25908,7 +25847,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>384</VALUE>
+          <VALUE>374</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -26036,7 +25975,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6</VALUE>
+          <VALUE>1</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -26100,7 +26039,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>449</VALUE>
+          <VALUE>439</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -26421,7 +26360,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5717</VALUE>
+          <VALUE>5702</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -27844,7 +27783,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>330</VALUE>
+          <VALUE>325</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -27908,7 +27847,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>126</VALUE>
+          <VALUE>121</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -27972,7 +27911,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>291</VALUE>
+          <VALUE>286</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -28036,7 +27975,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>101</VALUE>
+          <VALUE>96</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -28536,7 +28475,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>26179</VALUE>
+          <VALUE>26143</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -28600,7 +28539,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>21885</VALUE>
+          <VALUE>21873</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -28979,7 +28918,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>22</VALUE>
+          <VALUE>21</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -29858,7 +29797,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>126773</VALUE>
+          <VALUE>126771</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -31157,7 +31096,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1291</VALUE>
+          <VALUE>1288</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -31345,7 +31284,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>11689</VALUE>
+          <VALUE>11677</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -31537,7 +31476,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>8308</VALUE>
+          <VALUE>8296</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -31601,7 +31540,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6237</VALUE>
+          <VALUE>6235</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -32825,7 +32764,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>8</VALUE>
+          <VALUE>5</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -33723,7 +33662,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>81</VALUE>
+          <VALUE>63</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -34863,7 +34802,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>528</VALUE>
+          <VALUE>522</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -34973,7 +34912,7 @@ Koncentrácia fluoridu: 1400 ppm F¯</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>402</VALUE>
+          <VALUE>396</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -35249,7 +35188,7 @@ Koncentrácia fluoridu: 1400 ppm F¯</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>119</VALUE>
+          <VALUE>113</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -35523,7 +35462,7 @@ Koncentrácia fluoridu: 1400 ppm F¯</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>42</VALUE>
+          <VALUE>33</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -35633,7 +35572,7 @@ Koncentrácia fluoridu: 1400 ppm F¯</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>15</VALUE>
+          <VALUE>12</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -35860,11 +35799,11 @@ Koncentrácia fluoridu: 1400 ppm F¯</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2</VALUE>
+          <VALUE>0</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Kallos šampón na vlasy Argan 1 l</NAME>
@@ -35997,11 +35936,11 @@ Koncentrácia fluoridu: 1400 ppm F¯</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3</VALUE>
+          <VALUE>0</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Labello balzam na pery Original 24h Moisture 4,8 g</NAME>
@@ -36202,7 +36141,7 @@ Koncentrácia fluoridu: 1400 ppm F¯</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>375</VALUE>
+          <VALUE>365</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -36628,7 +36567,7 @@ Koncentrácia fluoridu: 1400 ppm F¯</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>42</VALUE>
+          <VALUE>40</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -37828,7 +37767,7 @@ Technológia DynamicFit™ zabezpečuje prirodzené prispôsobenie sa tvaru tela
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>63</VALUE>
+          <VALUE>57</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -38172,7 +38111,7 @@ Technológia DynamicFit™ zabezpečuje prirodzené prispôsobenie sa tvaru tela
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>17</VALUE>
+          <VALUE>19</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -38644,7 +38583,7 @@ Technológia DynamicFit™ zabezpečuje prirodzené prispôsobenie sa tvaru tela
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>195</VALUE>
+          <VALUE>189</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -40028,7 +39967,7 @@ Varianta - Levanduľa</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>28</VALUE>
+          <VALUE>22</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -40969,11 +40908,11 @@ Varianta - S citrónovou vôňou extra starostlivosť</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1</VALUE>
+          <VALUE>0</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Astrid Hydro X-Cell micelárna voda pre všetky typy pleti Hydro X-Cell 400 ml</NAME>
@@ -41362,11 +41301,11 @@ Varianta - S citrónovou vôňou extra starostlivosť</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4</VALUE>
+          <VALUE>0</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Astrid Hyaluronic Gold denný krém proti vráskam, 50 ml</NAME>
@@ -41817,7 +41756,7 @@ Varianta - S citrónovou vôňou extra starostlivosť</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>22</VALUE>
+          <VALUE>16</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -41857,7 +41796,7 @@ Varianta - S citrónovou vôňou extra starostlivosť</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>196</VALUE>
+          <VALUE>186</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -42773,7 +42712,7 @@ Balenie obsahuje 2 kusy prúžkov, jednoduché použitie a rýchly výsledok.</S
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>102</VALUE>
+          <VALUE>92</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -43572,7 +43511,7 @@ Varianta - Prsné</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>19</VALUE>
+          <VALUE>17</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -44805,7 +44744,7 @@ Varianta - Prsné</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>20</VALUE>
+          <VALUE>14</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -45886,7 +45825,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>26</VALUE>
+          <VALUE>23</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -47233,7 +47172,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>62</VALUE>
+          <VALUE>59</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -47281,7 +47220,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>9</VALUE>
+          <VALUE>6</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -47406,7 +47345,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>78</VALUE>
+          <VALUE>66</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -49007,7 +48946,7 @@ CI 60730</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>38</VALUE>
+          <VALUE>35</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -49171,7 +49110,7 @@ CI 60730</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>19</VALUE>
+          <VALUE>16</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -49255,7 +49194,7 @@ Ideálny na každodenné sprchovanie, vhodný pre všetky typy pokožky, najmä 
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>16</VALUE>
+          <VALUE>13</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -49859,7 +49798,7 @@ Ideálny na každodenné sprchovanie, vhodný pre všetky typy pokožky, najmä 
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>11</VALUE>
+          <VALUE>8</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -49903,7 +49842,7 @@ Ideálny na každodenné sprchovanie, vhodný pre všetky typy pokožky, najmä 
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>11</VALUE>
+          <VALUE>8</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -50029,7 +49968,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>13</VALUE>
+          <VALUE>10</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -50081,7 +50020,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>26</VALUE>
+          <VALUE>25</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -50368,7 +50307,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>26</VALUE>
+          <VALUE>23</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -50415,7 +50354,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>18</VALUE>
+          <VALUE>15</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -50462,7 +50401,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>33</VALUE>
+          <VALUE>30</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -50502,7 +50441,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>20</VALUE>
+          <VALUE>17</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -50549,7 +50488,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>15</VALUE>
+          <VALUE>12</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -50830,7 +50769,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>69</VALUE>
+          <VALUE>63</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -50870,7 +50809,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>21</VALUE>
+          <VALUE>18</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -50960,7 +50899,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>19</VALUE>
+          <VALUE>13</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -51592,7 +51531,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1084</VALUE>
+          <VALUE>1036</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -51666,7 +51605,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>36</VALUE>
+          <VALUE>30</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -52101,7 +52040,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>119</VALUE>
+          <VALUE>109</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -52167,7 +52106,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>64</VALUE>
+          <VALUE>52</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -52702,7 +52641,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>57</VALUE>
+          <VALUE>51</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -52745,11 +52684,11 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1</VALUE>
+          <VALUE>0</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Dr. Beckmann čistič chladničiek a mikrovlnných rúr 250 ml</NAME>
@@ -53165,7 +53104,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>50</VALUE>
+          <VALUE>44</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -53367,7 +53306,7 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>48</VALUE>
+          <VALUE>45</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -53410,7 +53349,7 @@ Parfémy</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>46</VALUE>
+          <VALUE>43</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -54087,7 +54026,7 @@ Parfémy</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>37</VALUE>
+          <VALUE>34</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -55235,7 +55174,7 @@ Použitie: Obsah náhradnej náplne prelejte do pôvodného obalu šampónu Drea
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>60</VALUE>
+          <VALUE>54</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -55631,7 +55570,7 @@ Použitie: Po umytí vlasov šampónom naneste masku do dĺžok a končekov. Nec
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>16</VALUE>
+          <VALUE>13</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -56239,7 +56178,7 @@ Použitie: Po umytí vlasov šampónom naneste masku do dĺžok a končekov. Nec
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>12</VALUE>
+          <VALUE>9</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -57234,7 +57173,7 @@ Uchovávajte mimo dosahu detí. Nekonzumujte. Pri požití vyhľadajte lekársku
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>18</VALUE>
+          <VALUE>15</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -57272,7 +57211,7 @@ Uchovávajte mimo dosahu detí. Nekonzumujte. Pri požití vyhľadajte lekársku
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>7</VALUE>
+          <VALUE>4</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -58787,7 +58726,7 @@ Tekutý</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>15</VALUE>
+          <VALUE>12</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -59163,7 +59102,7 @@ Tekutý</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>36</VALUE>
+          <VALUE>33</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -59352,7 +59291,7 @@ Tekutý</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>18</VALUE>
+          <VALUE>12</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -59683,7 +59622,7 @@ Tekutý</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>24</VALUE>
+          <VALUE>21</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -59918,7 +59857,7 @@ Tekutý</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>36</VALUE>
+          <VALUE>33</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -60413,7 +60352,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>12</VALUE>
+          <VALUE>6</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -60507,7 +60446,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>27</VALUE>
+          <VALUE>24</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -60554,7 +60493,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>30</VALUE>
+          <VALUE>24</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -60743,7 +60682,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>15</VALUE>
+          <VALUE>12</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -60931,7 +60870,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>27</VALUE>
+          <VALUE>21</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -61167,7 +61106,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>12</VALUE>
+          <VALUE>9</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -61403,7 +61342,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>31</VALUE>
+          <VALUE>25</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -61450,7 +61389,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>39</VALUE>
+          <VALUE>36</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -61592,7 +61531,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>24</VALUE>
+          <VALUE>9</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -61863,7 +61802,7 @@ Odstráňte náušnice. Naneste malú časť produktu vatovou tyčinkou za ušn�
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>33</VALUE>
+          <VALUE>21</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -62122,7 +62061,7 @@ Spreje, hmly</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>41</VALUE>
+          <VALUE>38</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -62159,7 +62098,7 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>18</VALUE>
+          <VALUE>15</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -62298,7 +62237,7 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>60</VALUE>
+          <VALUE>57</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -62572,7 +62511,7 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>14</VALUE>
+          <VALUE>5</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -62718,7 +62657,7 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>46</VALUE>
+          <VALUE>43</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -63143,7 +63082,7 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>30</VALUE>
+          <VALUE>24</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -63379,7 +63318,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>19</VALUE>
+          <VALUE>13</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -63936,7 +63875,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>12</VALUE>
+          <VALUE>9</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -66611,7 +66550,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4</VALUE>
+          <VALUE>1</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -66803,7 +66742,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>32</VALUE>
+          <VALUE>26</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -67744,7 +67683,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>19</VALUE>
+          <VALUE>16</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -68604,7 +68543,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>8</VALUE>
+          <VALUE>5</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -68873,7 +68812,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>164</VALUE>
+          <VALUE>144</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -69130,7 +69069,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>252</VALUE>
+          <VALUE>240</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -69442,7 +69381,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>36</VALUE>
+          <VALUE>30</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -69767,7 +69706,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>36</VALUE>
+          <VALUE>33</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -70034,7 +69973,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>106</VALUE>
+          <VALUE>94</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -70413,7 +70352,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>279</VALUE>
+          <VALUE>269</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -71056,7 +70995,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>46</VALUE>
+          <VALUE>40</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -71839,7 +71778,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>33</VALUE>
+          <VALUE>24</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -71931,7 +71870,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>42</VALUE>
+          <VALUE>36</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -73133,7 +73072,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>18</VALUE>
+          <VALUE>15</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -73225,7 +73164,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>9</VALUE>
+          <VALUE>6</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -73488,7 +73427,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5384</VALUE>
+          <VALUE>5378</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -73519,7 +73458,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2739</VALUE>
+          <VALUE>2733</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -73550,7 +73489,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5260</VALUE>
+          <VALUE>5230</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -73829,7 +73768,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>62</VALUE>
+          <VALUE>59</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -74394,7 +74333,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6</VALUE>
+          <VALUE>3</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -74577,7 +74516,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>41</VALUE>
+          <VALUE>38</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -74730,7 +74669,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>111</VALUE>
+          <VALUE>108</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -75420,7 +75359,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2663</VALUE>
+          <VALUE>2657</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -75578,7 +75517,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>33</VALUE>
+          <VALUE>27</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -75640,7 +75579,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>88</VALUE>
+          <VALUE>82</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -75795,7 +75734,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>278</VALUE>
+          <VALUE>272</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -75826,7 +75765,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>200</VALUE>
+          <VALUE>194</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -75857,7 +75796,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>212</VALUE>
+          <VALUE>200</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -76167,7 +76106,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>90</VALUE>
+          <VALUE>84</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -76375,7 +76314,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>176</VALUE>
+          <VALUE>164</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -77258,7 +77197,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>64</VALUE>
+          <VALUE>40</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -77576,7 +77515,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>18</VALUE>
+          <VALUE>6</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -77639,7 +77578,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>39</VALUE>
+          <VALUE>24</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -77702,7 +77641,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>37</VALUE>
+          <VALUE>24</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -77765,7 +77704,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>10697</VALUE>
+          <VALUE>10647</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -77828,7 +77767,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>47934</VALUE>
+          <VALUE>47922</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -77891,7 +77830,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>13349</VALUE>
+          <VALUE>13332</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -80113,7 +80052,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>227</VALUE>
+          <VALUE>210</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -80625,7 +80564,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>42</VALUE>
+          <VALUE>37</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -80880,7 +80819,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>28</VALUE>
+          <VALUE>27</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -81322,7 +81261,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>30</VALUE>
+          <VALUE>28</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -81951,7 +81890,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>554</VALUE>
+          <VALUE>549</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -82207,7 +82146,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>48</VALUE>
+          <VALUE>38</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -82330,7 +82269,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>192</VALUE>
+          <VALUE>189</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -82645,7 +82584,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>613</VALUE>
+          <VALUE>607</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -82768,7 +82707,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>13</VALUE>
+          <VALUE>7</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -82797,7 +82736,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>36</VALUE>
+          <VALUE>30</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -82971,7 +82910,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>235</VALUE>
+          <VALUE>223</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -83099,7 +83038,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5718</VALUE>
+          <VALUE>5716</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -83163,7 +83102,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4133</VALUE>
+          <VALUE>4023</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -83419,7 +83358,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>7867</VALUE>
+          <VALUE>7860</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -83611,7 +83550,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4064</VALUE>
+          <VALUE>4021</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -83867,7 +83806,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3176</VALUE>
+          <VALUE>3174</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -83931,7 +83870,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1549</VALUE>
+          <VALUE>1548</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -85253,7 +85192,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>13135</VALUE>
+          <VALUE>12935</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -85316,7 +85255,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>8598</VALUE>
+          <VALUE>8413</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -85379,7 +85318,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>9785</VALUE>
+          <VALUE>9585</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -85442,7 +85381,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>10829</VALUE>
+          <VALUE>10779</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -85679,7 +85618,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>103</VALUE>
+          <VALUE>100</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -85708,7 +85647,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>12</VALUE>
+          <VALUE>6</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -85770,7 +85709,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>122</VALUE>
+          <VALUE>116</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -85970,7 +85909,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1680</VALUE>
+          <VALUE>1632</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -86142,7 +86081,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>695</VALUE>
+          <VALUE>655</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -86271,7 +86210,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1033</VALUE>
+          <VALUE>889</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -86399,7 +86338,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>100</VALUE>
+          <VALUE>70</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -86835,7 +86774,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>554</VALUE>
+          <VALUE>552</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -86931,7 +86870,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>53058</VALUE>
+          <VALUE>53046</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -86978,7 +86917,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>42499</VALUE>
+          <VALUE>42487</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -87025,7 +86964,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>56417</VALUE>
+          <VALUE>56405</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -87160,7 +87099,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>768</VALUE>
+          <VALUE>761</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -87250,14 +87189,14 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>187</VALUE>
+          <VALUE>184</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP Papierové utierky ZZ 1vr zelené 20 x 25 cm, 4000 ks</NAME>
+    <NAME>HP Papierové utierky ZZ 1vr zelené 25 x 20 cm, 4000 ks</NAME>
     <SHORT_DESCRIPTION>Skladané papierové utierky ZZ, jednovrstvové, zelené, rozmer 20 x 25 cm, balenie 4000 ks. Do zásobníka na skladané utierky.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p dir="ltr"&gt;Papierové utierky ZZ 1vr zelené 20 x 25 cm, 4000 ks sú jednovrstvové skladané utierky na utieranie rúk v balení 4000 ks. Skladanie do tvaru Z (zig-zag) umožňuje odoberanie po jednom kuse zo zásobníka – každý útržok sa dotkne len ten, kto ho použije, čo je hygienickejšie a hospodárnejšie než rolka. Zelený recyklovaný papier je pevný a savý.&lt;br&gt;Vrstvy a komfort&lt;br&gt;Jednovrstvové prevedenie je ekonomická voľba pre priestory s vysokou návštevnosťou. Recyklovaný materiál zaisťuje priaznivú cenu a šetrný prístup k životnému prostrediu.&lt;br&gt;Praktické informácie&lt;br&gt;Vhodné do zásobníkov na ZZ utierky na verejných toaletách, v školách, dielňach, prevádzkach a kanceláriách. Odoberanie po jednom kuse obmedzuje plytvanie a znižuje spotrebu.&lt;br&gt;Vlastnosti:&lt;/p&gt;
 &lt;ul dir="ltr"&gt;
