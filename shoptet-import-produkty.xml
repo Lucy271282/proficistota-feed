@@ -691,7 +691,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4228</VALUE>
+          <VALUE>4208</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1522,7 +1522,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2454</VALUE>
+          <VALUE>2374</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2272,7 +2272,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>897</VALUE>
+          <VALUE>753</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6477,7 +6477,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>23904</VALUE>
+          <VALUE>23824</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7037,7 +7037,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2525</VALUE>
+          <VALUE>2477</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -10380,7 +10380,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5506</VALUE>
+          <VALUE>5486</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -15027,7 +15027,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5700</VALUE>
+          <VALUE>5676</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -17689,7 +17689,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>435</VALUE>
+          <VALUE>375</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -17753,7 +17753,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>132</VALUE>
+          <VALUE>72</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -17817,7 +17817,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>494</VALUE>
+          <VALUE>434</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -17881,7 +17881,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>524</VALUE>
+          <VALUE>464</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -17945,7 +17945,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>464</VALUE>
+          <VALUE>404</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -22134,7 +22134,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>21420</VALUE>
+          <VALUE>21370</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -22197,7 +22197,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>7973</VALUE>
+          <VALUE>7913</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -22386,7 +22386,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>86579</VALUE>
+          <VALUE>86549</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -22512,7 +22512,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>45085</VALUE>
+          <VALUE>45065</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -22576,7 +22576,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>31458</VALUE>
+          <VALUE>31438</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -22640,7 +22640,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>27742</VALUE>
+          <VALUE>27722</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -22704,7 +22704,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>22073</VALUE>
+          <VALUE>22053</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -24477,7 +24477,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2519</VALUE>
+          <VALUE>2423</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -24605,7 +24605,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2389</VALUE>
+          <VALUE>2293</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -26007,7 +26007,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>360</VALUE>
+          <VALUE>300</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -29829,7 +29829,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>7791</VALUE>
+          <VALUE>7641</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -30649,7 +30649,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>120594</VALUE>
+          <VALUE>120494</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -50504,422 +50504,6 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Coccolino aviváž 2x51 PD Tiare Flower</NAME>
-    <MANUFACTURER>Coccolino</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700121815</CODE>
-    <EAN>8720182847768</EAN>
-    <CATEGORIES>
-      <CATEGORY>Pracie prostriedky &gt; Doplnky do prania</CATEGORY>
-    </CATEGORIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>6.68</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Coccolino aviváž 2x68 PD Sensitive</NAME>
-    <MANUFACTURER>Coccolino</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700121817</CODE>
-    <EAN>8720182847737</EAN>
-    <CATEGORIES>
-      <CATEGORY>Pracie prostriedky &gt; Doplnky do prania</CATEGORY>
-    </CATEGORIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>6.68</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Coccolino aviváž Perfume Care Passion Flower Bergamot, 51 PD</NAME>
-    <SHORT_DESCRIPTION>Coccolino je aviváž s jemnou vôňou kvetu mučenky. Poskytuje oblečeniu dlhodobú sviežosť a hebkosť.</SHORT_DESCRIPTION>
-    <DESCRIPTION>Koncentrovaná Aviváž s vôňou citrusov a mučenky - 51 dávok - Luxusná a dlhotrvajúca vôňa vytvorená odborníkmi na parfémy - Zabezpečuje mäkkosť a nadýchanosť bielizne - Uľahčuje žehlenie. Coccolino Passion Flower &amp; Bergamot dodá vašej bielizni sviežu vôňu citrusov a mučenky. Coccolino Creations ponúka kolekciu dlhotrvajúcich vôní, ktoré kombinujú ovocné a kvetinové tóny.</DESCRIPTION>
-    <MANUFACTURER>Coccolino</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700121822</CODE>
-    <EAN>8720181409738</EAN>
-    <CATEGORIES>
-      <CATEGORY>Pracie prostriedky &gt; Doplnky do prania</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/f/f6a269fc33d46f-q6920b4205765b-2542300011445-0.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700121811</CODE>
-      <CODE>-PC497402700121814</CODE>
-      <CODE>-PC497402700121818</CODE>
-      <CODE>-PC497402700121819</CODE>
-      <CODE>-PC497402700121821</CODE>
-    </RELATED_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>4.87</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Coccolino aviváž Sensitive Care Almond Cashmere Balm, 51 PD</NAME>
-    <MANUFACTURER>Coccolino</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700121823</CODE>
-    <EAN>8720181410628</EAN>
-    <CATEGORIES>
-      <CATEGORY>Pracie prostriedky &gt; Doplnky do prania</CATEGORY>
-    </CATEGORIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>3.57</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Coccolino aviváž Tiare Flower &amp; Red Fruits 51 PD 1275 ml</NAME>
-    <SHORT_DESCRIPTION>Coccolino 51 PD Tiare Flower je aviváž s jemnou vôňou kvetín. Poskytuje bielizni dlhotrvajúcu sviežosť a hebkosť.</SHORT_DESCRIPTION>
-    <DESCRIPTION>Koncentrovaná Aviváž - Vôňa exotických kvetov a brusníc - 51 pracích dávok - Luxusná, dlhotrvajúca vôňa od odborníkov na parfémy - Mäkkosť a nadýchanosť bielizne - Jednoduchšie žehlenie Coccolino Tiare Flower &amp; Red Fruits s výraznou vôňou vám prináša krásu. Coccolino Creations je kolekcia dlhotrvajúcich vôní, kombinujúcich ovocné a kvetinové tóny, vytvorené expertmi na parfémy. Vďaka vyššej koncentrácii parfémovaných olejov stačí len malá kvapka pre FAntastický výsledok.</DESCRIPTION>
-    <MANUFACTURER>Coccolino</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700121826</CODE>
-    <EAN>8720181409721</EAN>
-    <CATEGORIES>
-      <CATEGORY>Pracie prostriedky &gt; Doplnky do prania</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/f/f6a269fc3469a6-d6920b42073324-2542300011444-0.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700121811</CODE>
-      <CODE>-PC497402700121814</CODE>
-      <CODE>-PC497402700121818</CODE>
-      <CODE>-PC497402700121819</CODE>
-      <CODE>-PC497402700121821</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700125789</CODE>
-      <CODE>-PC497402700110323</CODE>
-      <CODE>-PC497402700125787</CODE>
-      <CODE>-PC497402700125785</CODE>
-      <CODE>-PC497402700110322</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>4.87</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Coccolino aviváž Orange Rush 68 PD 1700 ml</NAME>
-    <SHORT_DESCRIPTION>Coccolino 68 PD Orange Rush je aviváž s osviežujúcou vôňou pomaranča. Poskytuje jemnosť a sviežosť bielizne po každom praní.</SHORT_DESCRIPTION>
-    <DESCRIPTION>Aviváže Coccolino dodajú Vašej bielizni jedinečnú vôňu, úžasnú hebkosť a sviežosť. Aviváže Coccolino sú známe technológiou microencapsule, kde každá kvapka obsahuje milióny parfumovaných mikrokapsúl, ktoré postupne praskajú počas nosenia. Vôňa sa tak uvoľňuje pozvoľne, a vy si môžete užívať sviežosť bielizne aj dlho po vypraní. Roztomilý medvedík Coccolino prináša úžasné kombinácie vôní, ktoré spríjemnia váš deň. Používaním Aviváže pomáhate udržať kvalitu látky, bielizeň rýchlejšie schne a ľahšie sa žehlí. Navyše má Aviváž antistatický účinok. Pod značkou Coccolino nájdete aj širokú škálu ďalších doplnkov prania. Vyskúšajte parfumované perličky Coccolino Intense, voňavú vodu do žehličky, vonné obrúsky do sušičky alebo vonné vrecká na prevoňanie oblečenia v šuplíku či skrini.</DESCRIPTION>
-    <MANUFACTURER>Coccolino</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700121831</CODE>
-    <EAN>8720181410659</EAN>
-    <CATEGORIES>
-      <CATEGORY>Pracie prostriedky &gt; Doplnky do prania</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/e/e6a269fc34f40c-56920b4208e54e-2542300011451-0.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700121811</CODE>
-      <CODE>-PC497402700121814</CODE>
-      <CODE>-PC497402700121818</CODE>
-      <CODE>-PC497402700121819</CODE>
-      <CODE>-PC497402700121821</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700125789</CODE>
-      <CODE>-PC497402700110323</CODE>
-      <CODE>-PC497402700125787</CODE>
-      <CODE>-PC497402700125785</CODE>
-      <CODE>-PC497402700110322</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>4.87</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Coccolino aviváž Sensitive Soft 68 PD</NAME>
-    <SHORT_DESCRIPTION>Coccolino 68 PD Sensitive je aviváž určená na citlivú pokožku. Poskytuje jemnosť a sviežosť bielizne.</SHORT_DESCRIPTION>
-    <DESCRIPTION>Koncentrovaná Aviváž - hypoallergénna alergénna - 68 dávok prania - Jemná vôňa - Jemnosť a nadýchanosť bielizne - Jednoduchšie žehlenie White Coccolino Sensitive má hypoallergénna alergénne zloženie pre ľudí s citlivou pokožkou. Vďaka koncentrovanému zloženiu si môžete vychutnať intenzívnu jemnú arómu a sviežosť aj pri použití malého množstva Aviváže.</DESCRIPTION>
-    <MANUFACTURER>Coccolino</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700121832</CODE>
-    <EAN>8720181410673</EAN>
-    <CATEGORIES>
-      <CATEGORY>Pracie prostriedky &gt; Doplnky do prania</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/s/s6a269fc3519a2-a6920b4209512c-2542300011453-0.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700121811</CODE>
-      <CODE>-PC497402700121814</CODE>
-      <CODE>-PC497402700121818</CODE>
-      <CODE>-PC497402700121819</CODE>
-      <CODE>-PC497402700121821</CODE>
-    </RELATED_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>4.87</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Coccolino aviváž Silk Lily 68 PD 1700 ml</NAME>
-    <SHORT_DESCRIPTION>Coccolino 68 PD Silk Lily je aviváž, ktorá dodáva bielizni jemnosť a príjemnú vôňu. Je určená na použitie v práčke.</SHORT_DESCRIPTION>
-    <DESCRIPTION>Koncentrovaná Aviváž Coccolino Silk Lily od spoločnosti Unilever je určená pre milovníkov sviežich vôní. Medvedík Coccolino prináša Aviváž s bohatou a intenzívnou vôňou. Vaša bielizeň bude mäkká, hebká a nadýchaná, a vďaka parfémovaným mikrokapsulám si dlho udrží sviežu vôňu. Aviváž má tiež antistatické účinky, pomáha udržiavať kvalitu látky, urýchľuje schnutie a uľahčuje žehlenie. Užite si nádherne voňavú bielizeň s Coccolino.</DESCRIPTION>
-    <MANUFACTURER>Coccolino</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700121833</CODE>
-    <EAN>8720181410642</EAN>
-    <CATEGORIES>
-      <CATEGORY>Pracie prostriedky &gt; Doplnky do prania</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/8/86a269fc3551bf-56920b4209bc01-2542300011450-0.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700121811</CODE>
-      <CODE>-PC497402700121814</CODE>
-      <CODE>-PC497402700121818</CODE>
-      <CODE>-PC497402700121819</CODE>
-      <CODE>-PC497402700121821</CODE>
-    </RELATED_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>4.87</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Coccolino Care prací gél Color, 45 PD</NAME>
-    <SHORT_DESCRIPTION>Coccolino Care prací gél je určený na pranie farebného oblečenia. Zabezpečuje sviežu vôňu a hebkosť bielizne.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Coccolino Care prací gél je skvelým pomocníkom pri praní farebného oblečenia. Tento gél sa postará o to, aby vaše oblečenie zostalo svieže a hebké.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Vhodný na farebné oblečenie&lt;/li&gt;&lt;li&gt;Udržuje farby živé&lt;/li&gt;&lt;li&gt;Poskytuje príjemnú vôňu&lt;/li&gt;&lt;li&gt;Zabezpečuje hebkosť textílií&lt;/li&gt;&lt;li&gt;Jednoduché dávkovanie&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Použitie:&lt;/strong&gt; Použite podľa pokynov na obale pre optimálne výsledky.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; Pre ešte lepší efekt kombinujte s avivážou Coccolino.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Coccolino</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700121840</CODE>
-    <EAN>8720181019425</EAN>
-    <CATEGORIES>
-      <CATEGORY>Pracie prostriedky &gt; Pracie prášky a gély</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/d/d6a269fc35a64c-869766bbca70de-2542100018708-0.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>10.23</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Coccolino prací gél Sport 60 PD</NAME>
-    <MANUFACTURER>Coccolino</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700121841</CODE>
-    <EAN>8720181296017</EAN>
-    <CATEGORIES>
-      <CATEGORY>Pracie prostriedky &gt; Pracie prášky a gély</CATEGORY>
-    </CATEGORIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>9.42</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Coccolino prací gél Wonder Wash Odor Protection 37 PD</NAME>
-    <DESCRIPTION>Zažite revolúciu v PD s Coccolino Wonder Wash!&lt;br&gt;Až 70 % prádla nie je priamo znečistené škvrnami, preto ho netreba trápiť dlhými cyklami v práčke. Predstavujeme Coccolino Wonder Wash, prvý pracígél pre rýchle pracie cykly. Užite si dokonale čisté prádlo za 15 minút!&lt;br&gt;&lt;br&gt;Prečo zvoliť Coccolino Wonder Wash?&lt;br&gt;• Úspora času: Rýchle cykly zabezpečia čisté a svieže prádlo.&lt;br&gt;• Úspora energie: Kratšie cykly znižujú spotrebu energie, šetria peňaženku a životné prostredie.&lt;br&gt;• Úspora vody: Efektívne pranie s menej vody chráni prírodné zdroje.&lt;br&gt;&lt;br&gt;Coccolino Wonder Wash - Váš nový pomocník pre rýchle a efektívne pranie.&lt;br&gt;&lt;br&gt;Vyskúšajte Coccolino Wonder Wash Odour Protection, ideálny na športové oblečenie!</DESCRIPTION>
-    <MANUFACTURER>Coccolino</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700121843</CODE>
-    <EAN>8720181676390</EAN>
-    <CATEGORIES>
-      <CATEGORY>Pracie prostriedky &gt; Pracie prášky a gély</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/r/r6a269fc35e120-r6920b420b06a5-254250001430-0.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700121811</CODE>
-      <CODE>-PC497402700121814</CODE>
-      <CODE>-PC497402700121818</CODE>
-      <CODE>-PC497402700121819</CODE>
-      <CODE>-PC497402700121821</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700120432</CODE>
-      <CODE>-PC497402700120433</CODE>
-      <CODE>-PC497402700121838</CODE>
-      <CODE>-PC497402700121844</CODE>
-      <CODE>-PC497402700121845</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>12.22</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Coccolino prací gél Wonder Wash Speed Clean 37 PD</NAME>
     <SHORT_DESCRIPTION>Coccolino gél je určený na rýchle a efektívne čistenie. Ideálne na upratovanie rôznych povrchov.</SHORT_DESCRIPTION>
     <DESCRIPTION>Objavte novú éru prania s Coccolino Wonder Wash! Až 70 % prádla nie je silne znečistené, preto ho netreba vystavovať dlhým cyklom v práčke. Coccolino Wonder Wash je prvýgél na pranie navrhnutý pre rýchle cykly, ktorý zabezpečí čisté prádlo už za 15 minút! Prečo si vybrať Coccolino Wonder Wash? • Šetrí čas: Rýchle cykly zabezpečia čistotu a sviežosť prádla v krátkom čase. • Šetrí energiu: Kratšie cykly znamenajú nižšiu spotrebu energie, čo je priateľské k vašej peňaženke aj k prírode. • Šetrí vodu: Efektívne pranie s menším množstvom vody pomáha chrániť prírodné zdroje. Coccolino Wonder Wash - váš nový spojenec pre rýchle a efektívne pranie.</DESCRIPTION>
@@ -53249,53 +52833,6 @@ td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Denim voda po holení Black, 100 ml</NAME>
-    <DESCRIPTION>voda po holení Denim Black revitalizuje a upokojuje pokožku po holení, pričom jej poskytuje dlhotrvajúci pocit sviežosti. voda po holení Denim Black zanecháva pokožku...</DESCRIPTION>
-    <MANUFACTURER>Denim</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700122228</CODE>
-    <EAN>8008970004327</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Osviežovače vzduchu</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/b/b6a269fc797261-e6920b4343c624-254210007415-0.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700122231</CODE>
-      <CODE>-PC497402700122215</CODE>
-      <CODE>-PC497402700122217</CODE>
-      <CODE>-PC497402700122218</CODE>
-      <CODE>-PC497402700122219</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700120237</CODE>
-      <CODE>-PC497402700110012</CODE>
-      <CODE>-PC497402700110043</CODE>
-      <CODE>-PC497402700110044</CODE>
-      <CODE>-PC497402700110045</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>2.71</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Denim voda po holení Gold, 100 ml</NAME>
@@ -95974,7 +95511,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>131</VALUE>
+          <VALUE>113</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -98629,7 +98166,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>461</VALUE>
+          <VALUE>449</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -103893,7 +103430,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>390</VALUE>
+          <VALUE>380</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -104395,7 +103932,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>527</VALUE>
+          <VALUE>517</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -108799,7 +108336,7 @@ Nočná</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2141</VALUE>
+          <VALUE>2131</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
