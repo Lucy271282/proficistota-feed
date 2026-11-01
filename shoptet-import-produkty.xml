@@ -373,7 +373,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4314</VALUE>
+          <VALUE>4302</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -437,7 +437,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>19718</VALUE>
+          <VALUE>19732</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -630,7 +630,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3454</VALUE>
+          <VALUE>3491</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -758,7 +758,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>15078</VALUE>
+          <VALUE>15030</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -3532,7 +3532,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>92614</VALUE>
+          <VALUE>92544</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -4495,7 +4495,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>196</VALUE>
+          <VALUE>197</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -5832,6 +5832,64 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>HP Kuchynská utierka bavlnená 50 x 70 cm, 60 g - zelená, 10 ks</NAME>
+    <SHORT_DESCRIPTION>Bavlnené kuchynské utierky, rozmer 50 × 70 cm, balenie 10 ks. Savé, prateľné a opakovane použiteľné — na utieranie riadu aj rúk.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Kuchynská utierka bavlnená zelená 50 x 70 cm, 60 g, 10 ks sú bavlnené utierky do kuchyne s rozmerom 50 × 70 cm, v balení 10 ks. Bavlna dobre saje a nezanecháva na riade vlákna.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Na riad aj na ruky&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Utierky využijete na utieranie umytého riadu, pohárov, príborov aj na osušenie rúk.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prateľné a odolné&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Znesú opakované pranie pri vyšších teplotách, takže vydržia podstatne dlhšie než papierové utierky. Väčšie balenie oceníte v prevádzke.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rozmer 50 × 70 cm&lt;/li&gt;
+&lt;li&gt;Balenie 10 ks&lt;/li&gt;
+&lt;li&gt;Farba zelená&lt;/li&gt;
+&lt;li&gt;Materiál: bavlna&lt;/li&gt;
+&lt;li&gt;Prateľné a opakovane použiteľné&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Rozmer:&lt;/strong&gt; 50 × 70 cm&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 10 ks&lt;br&gt;&lt;strong&gt;Farba:&lt;/strong&gt; zelená&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023132046</CODE>
+    <EAN>9120095362508</EAN>
+    <CATEGORIES>
+      <CATEGORY>Upratovacie pomôcky &gt; Utierky, handry a mikrovlákno</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6a3a506eb4d83-kuz1.jpg</IMAGE>
+    </IMAGES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC49540280023131716</CODE>
+      <CODE>-PC49540280023131655</CODE>
+      <CODE>-PC49540280023141883</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC49540280023132106</CODE>
+      <CODE>-PC49540280023132108</CODE>
+      <CODE>-PC49540280023132164</CODE>
+      <CODE>-PC49540280023132058</CODE>
+      <CODE>-PC49640280023131733</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>8.75</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>39</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>HP Sifo čistič sifónov granule, 500 g</NAME>
     <SHORT_DESCRIPTION>Čistič sifónov a odpadov, balenie 500 g. Rozpúšťa mastné usadeniny, zvyšky jedla a vlasy, ktoré spôsobujú pomalý odtok.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Sifo čistič sifónov granule, 500 g je čistič sifónov a odpadov v balení 500 g. Rozpúšťa mastné usadeniny, zvyšky jedla a vlasy, ktoré spôsobujú pomalý odtok.&lt;/p&gt;
@@ -6069,7 +6127,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>23632</VALUE>
+          <VALUE>23656</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6134,7 +6192,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>53</VALUE>
+          <VALUE>13</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6198,7 +6256,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>62</VALUE>
+          <VALUE>52</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6261,7 +6319,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>913</VALUE>
+          <VALUE>765</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6390,69 +6448,6 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP Obrúsok 1vr Gastro biely, 33 x 33 cm, 500 ks</NAME>
-    <SHORT_DESCRIPTION>Papierové servítky biele, jednovrstvové, rozmer 33 × 33 cm, balenie 500 ks. Jednovrstvové prevedenie je cenovo najvýhodnejšie — vhodné tam, kde sa servítky spotrebujú vo veľkých množstvách.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Papierové servítky biele Gastro 1vr 33x33cm 500ks sú jednovrstvové papierové servítky s rozmerom 33 × 33 cm. Jednovrstvové prevedenie je cenovo najvýhodnejšie — vhodné tam, kde sa servítky spotrebujú vo veľkých množstvách.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kde ich využijete&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;V reštauráciách, kaviarňach, bufetoch a cateringu, kde je dôležitá cena za kus pri vysokej spotrebe.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Formát a balenie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Rozmer 33 × 33 cm je univerzálny pre hlavné jedlá aj bežné stolovanie. Balenie 500 ks vystačí na dlhšie obdobie.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;1-vrstvové&lt;/li&gt;
-&lt;li&gt;Rozmer 33 × 33 cm&lt;/li&gt;
-&lt;li&gt;Balenie 500 ks&lt;/li&gt;
-&lt;li&gt;Farba biela&lt;/li&gt;
-&lt;li&gt;Pre gastro prevádzky&lt;/li&gt;
-&lt;/ul&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49640280023131748</CODE>
-    <EAN>8586028380772,8586028380802,8586025680080</EAN>
-    <CATEGORIES>
-      <CATEGORY>Papierový program &gt; Papierové utierky a obrúsky</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/u/u6936ecb18a33e-45555-servitky-gastro-30x30-500ks.png</IMAGE>
-    </IMAGES>
-    <TEXT_PROPERTIES>
-      <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>10</VALUE>
-      </TEXT_PROPERTY>
-    </TEXT_PROPERTIES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023131751</CODE>
-      <CODE>-PC49540280023132046</CODE>
-      <CODE>-PC49640280023131687</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49640280023131831</CODE>
-      <CODE>-PC496513033</CODE>
-      <CODE>-PC49540280023132216</CODE>
-      <CODE>-PC49540280023132304</CODE>
-      <CODE>-PC49540280023132305</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>2.98</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>569</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>HP Obrúsok 1vr Línia 100 biely, 33 x 33 cm, 135 g</NAME>
     <SHORT_DESCRIPTION>Papierové servítky biele, jednovrstvové, rozmer 33 × 33 cm. Jednovrstvové prevedenie je cenovo najvýhodnejšie — vhodné tam, kde sa servítky spotrebujú vo veľkých množstvách.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Papierové servítky biele 1vr Línia 100 33x33cm sú jednovrstvové papierové servítky s rozmerom 33 × 33 cm. Jednovrstvové prevedenie je cenovo najvýhodnejšie — vhodné tam, kde sa servítky spotrebujú vo veľkých množstvách.&lt;/p&gt;
@@ -6508,7 +6503,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>335</VALUE>
+          <VALUE>239</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6572,7 +6567,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>20</VALUE>
+          <VALUE>10</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7136,7 +7131,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4230</VALUE>
+          <VALUE>4166</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7264,7 +7259,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>10214</VALUE>
+          <VALUE>10226</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7458,7 +7453,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>881</VALUE>
+          <VALUE>895</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -8029,7 +8024,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>327</VALUE>
+          <VALUE>1127</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -8780,7 +8775,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>741</VALUE>
+          <VALUE>693</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -8838,7 +8833,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>18</VALUE>
+          <VALUE>65</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -8896,7 +8891,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>30</VALUE>
+          <VALUE>78</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9154,7 +9149,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1211</VALUE>
+          <VALUE>1210</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9216,7 +9211,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>259</VALUE>
+          <VALUE>258</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9849,7 +9844,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>609</VALUE>
+          <VALUE>989</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9977,7 +9972,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>718</VALUE>
+          <VALUE>720</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -11838,6 +11833,64 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>HP Kuchynská utierka bavlnená 50 x 70 cm, 60 g - žltá, 10 ks</NAME>
+    <SHORT_DESCRIPTION>Bavlnené kuchynské utierky, rozmer 50 × 70 cm, balenie 10 ks. Savé, prateľné a opakovane použiteľné — na utieranie riadu aj rúk.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Kuchynská utierka bavlnená žltá 50 x 70 cm, 60 g, 10 ks sú bavlnené utierky do kuchyne s rozmerom 50 × 70 cm, v balení 10 ks. Bavlna dobre saje a nezanecháva na riade vlákna.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Na riad aj na ruky&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Utierky využijete na utieranie umytého riadu, pohárov, príborov aj na osušenie rúk.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prateľné a odolné&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Znesú opakované pranie pri vyšších teplotách, takže vydržia podstatne dlhšie než papierové utierky. Väčšie balenie oceníte v prevádzke.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rozmer 50 × 70 cm&lt;/li&gt;
+&lt;li&gt;Balenie 10 ks&lt;/li&gt;
+&lt;li&gt;Farba žltá&lt;/li&gt;
+&lt;li&gt;Materiál: bavlna&lt;/li&gt;
+&lt;li&gt;Prateľné a opakovane použiteľné&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Rozmer:&lt;/strong&gt; 50 × 70 cm&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 10 ks&lt;br&gt;&lt;strong&gt;Farba:&lt;/strong&gt; žltá&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023132164</CODE>
+    <EAN>9120095362515</EAN>
+    <CATEGORIES>
+      <CATEGORY>Upratovacie pomôcky &gt; Utierky, handry a mikrovlákno</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/c/c6a3a505740b9b-kuz1.jpg</IMAGE>
+    </IMAGES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC49540280023131716</CODE>
+      <CODE>-PC49540280023131655</CODE>
+      <CODE>-PC49540280023141883</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC49540280023132046</CODE>
+      <CODE>-PC49540280023132106</CODE>
+      <CODE>-PC49540280023132108</CODE>
+      <CODE>-PC49540280023132058</CODE>
+      <CODE>-PC49640280023131733</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>8.75</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>48</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>HP Terra UR profesionál prostriedok do umývačiek riadu, 5 L</NAME>
     <SHORT_DESCRIPTION>Prostriedok do umývačky riadu, balenie 5 l. Odstraňuje mastnotu a zvyšky jedla pri strojnom umývaní.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Terra UR profesionál prostriedok do umývačiek riadu, 5 l je prostriedok do umývačky riadu v balení 5 l. Odstraňuje mastnotu a zvyšky jedla pri strojnom umývaní.&lt;/p&gt;
@@ -12852,7 +12905,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>187</VALUE>
+          <VALUE>183</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -12917,7 +12970,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>208</VALUE>
+          <VALUE>296</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13554,7 +13607,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>36691</VALUE>
+          <VALUE>36591</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13617,7 +13670,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>44413</VALUE>
+          <VALUE>44316</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13877,7 +13930,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>640</VALUE>
+          <VALUE>610</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -15089,7 +15142,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>257</VALUE>
+          <VALUE>887</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -16604,7 +16657,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>384</VALUE>
+          <VALUE>364</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -18960,7 +19013,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>140</VALUE>
+          <VALUE>122</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -19080,7 +19133,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1104</VALUE>
+          <VALUE>1119</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -19842,7 +19895,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1169</VALUE>
+          <VALUE>1171</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -20348,7 +20401,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>21042</VALUE>
+          <VALUE>20994</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21732,7 +21785,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4787</VALUE>
+          <VALUE>4775</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21796,7 +21849,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3601</VALUE>
+          <VALUE>3589</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -24595,7 +24648,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2947</VALUE>
+          <VALUE>2959</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -27414,7 +27467,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>159</VALUE>
+          <VALUE>154</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -33937,7 +33990,7 @@ Technológia DynamicFit™ zabezpečuje prirodzené prispôsobenie sa tvaru tela
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3</VALUE>
+          <VALUE>2</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -34547,7 +34600,7 @@ Varianta - Levanduľa</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>42</VALUE>
+          <VALUE>30</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -34612,39 +34665,6 @@ Varianta - Levanduľa</DESCRIPTION>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>10</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Air Wick gelový osviežovač vzduchu - Magnólia a kvety čerešní 150 g</NAME>
-    <SHORT_DESCRIPTION>Air Wick gél s vôňou magnólie a kvetov. Ideálny na osvieženie vzduchu v interiéri.</SHORT_DESCRIPTION>
-    <DESCRIPTION>gélový osviežovač vzduchu s praktickým použitím do každej miestnosti. Klasický vonnýgél s postupným uvoľňovaním neutralizuje nepríjemné pachy. Svieža vôňa magnólie a kvitnúcich čerešní vydrží až 45 dní. Fóliu zo prednej strany produktu odstráňte úplne alebo čiastočne pre postupné uvoľňovanie vône.</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700120171</CODE>
-    <EAN>5997321758954</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Osviežovače vzduchu</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/0/06a269fa6607e8-q6920b3456384f-63108-photo-big-316530.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>2.33</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>13</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -42208,6 +42228,54 @@ Kozmetické farbivo</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>Garnier textilná pleťová maska Kokos</NAME>
+    <SHORT_DESCRIPTION>Maska dodáva pleti krásny look plný výživy a hydratácie vďaka svojmu kokosovému zloženiu.</SHORT_DESCRIPTION>
+    <DESCRIPTION>Rozjasňujúca textilná pleťová maska s kokosovým mliekom vyživuje a rozjasňuje suchú a unavenú pleť. Mliečne sérum masky je obohatené o upokojujúce kokosové mlieko a hydratačnú kyselinu hyalurónovú. Táto účinná receptúra vyživuje a revitalizuje pokožku už za 15 minút.</DESCRIPTION>
+    <MANUFACTURER>Garnier</MANUFACTURER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC497402700123999</CODE>
+    <EAN>3600542319768</EAN>
+    <CATEGORIES>
+      <CATEGORY>Osobná hygiena a kozmetika &gt; Tvár a pleť</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/1/16a269ff3a3910-j6920b513254ce-254210003746-0.jpeg</IMAGE>
+    </IMAGES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC497402700123986</CODE>
+      <CODE>-PC497402700123984</CODE>
+      <CODE>-PC497402700123992</CODE>
+      <CODE>-PC497402700123993</CODE>
+      <CODE>-PC497402700123994</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC497402700124003</CODE>
+      <CODE>-PC497402700120527</CODE>
+      <CODE>-PC497402700120554</CODE>
+      <CODE>-PC497402700120556</CODE>
+      <CODE>-PC497402700120557</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>2.80</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>2</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>Glade Automatic náplň Pumpkin Spice 269 ml</NAME>
     <MANUFACTURER>Glade</MANUFACTURER>
     <ITEM_TYPE>product</ITEM_TYPE>
@@ -42364,7 +42432,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>9</VALUE>
+          <VALUE>7</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -42957,35 +43025,6 @@ Kozmetické farbivo</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Glade osviežovač vzduchu Berry 300 ml</NAME>
-    <MANUFACTURER>Glade</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700124301</CODE>
-    <EAN>5000204416497</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Osviežovače vzduchu</CATEGORY>
-    </CATEGORIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>1.93</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>12</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Glade osviežovač vzduchu Warm Apple Pie 300 ml</NAME>
     <MANUFACTURER>Glade</MANUFACTURER>
     <ITEM_TYPE>product</ITEM_TYPE>
@@ -43008,7 +43047,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>69</VALUE>
+          <VALUE>45</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -46778,53 +46817,6 @@ Kozmetické farbivo</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>L’Oréal Paris Excellence Cool Creme farba na vlasy 8.11 Ultra svetlá popolavá blond, 1 ks</NAME>
-    <SHORT_DESCRIPTION>Farba na vlasy Loreal Excellence UN 8.11 LightBlond poskytuje dlhodobé pokrytie šedín. Obsahuje ochranné zložky pre zdravý vzhľad vlasov.</SHORT_DESCRIPTION>
-    <DESCRIPTION>Permanentná krémová farba s trojitou starostlivosťou zaručuje 100 % krytie šedín, vrátane tých najodolnejších. Vyživujúca maska zanecháva vlasy lesklé a poddajné, dodávajúc im zdravý vzhľad.</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700126101</CODE>
-    <EAN>3600523940561</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o vlasy</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6a26a01823c92-f6920b57d213d9-254210003430-0.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700126103</CODE>
-      <CODE>-PC497402700126061</CODE>
-      <CODE>-PC497402700126063</CODE>
-      <CODE>-PC497402700126067</CODE>
-      <CODE>-PC497402700126068</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700126102</CODE>
-      <CODE>-PC497402700126103</CODE>
-      <CODE>-PC497402700126100</CODE>
-      <CODE>-PC497402700126099</CODE>
-      <CODE>-PC497402700126098</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>9.68</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>1</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Indulona Profi regeneračný nechtíkový krém na ruky 100 ml</NAME>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
@@ -47244,37 +47236,6 @@ Kozmetické farbivo</DESCRIPTION>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>6</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>L’Oréal Paris Age Specialist 65+ denný krém proti vráskam 50 ml</NAME>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700126109</CODE>
-    <EAN>3600523408924</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Tvár a pleť</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/u/u6a58e52ce24b5-s6920b57d57657-254210003276-0.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>7.87</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>1</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -51456,7 +51417,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4</VALUE>
+          <VALUE>3</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -52904,7 +52865,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>22</VALUE>
+          <VALUE>10</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -55361,7 +55322,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2</VALUE>
+          <VALUE>1</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -57339,7 +57300,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3</VALUE>
+          <VALUE>2</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -58642,7 +58603,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>57</VALUE>
+          <VALUE>55</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -59757,7 +59718,7 @@ Kozmetické farbivo</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Nivea Baby krém proti vetru 75 ml</NAME>
+    <NAME>Nivea Baby krém proti vetru 50 ml</NAME>
     <MANUFACTURER>Nivea</MANUFACTURER>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
@@ -59779,7 +59740,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>67</VALUE>
+          <VALUE>66</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -61511,7 +61472,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>13</VALUE>
+          <VALUE>10</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -61543,7 +61504,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6</VALUE>
+          <VALUE>3</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -61762,37 +61723,6 @@ Kozmetické farbivo</DESCRIPTION>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>10</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Air Wick FM 250ml NN jemný saten a ľalia</NAME>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700132971</CODE>
-    <EAN>8592326010594</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Osviežovače vzduchu</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/k/k6a58e56058e93-i69738bcd71acf-2541100015806-0.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>2.50</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>2</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -63512,7 +63442,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>870</VALUE>
+          <VALUE>850</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -63576,7 +63506,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1478</VALUE>
+          <VALUE>1466</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -65656,7 +65586,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>26</VALUE>
+          <VALUE>25</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -67994,7 +67924,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1728</VALUE>
+          <VALUE>1708</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -68682,7 +68612,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>91</VALUE>
+          <VALUE>66</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -69793,7 +69723,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>579</VALUE>
+          <VALUE>578</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -70201,7 +70131,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2340</VALUE>
+          <VALUE>2342</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -71869,7 +71799,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>154</VALUE>
+          <VALUE>560</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -72305,7 +72235,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>19216</VALUE>
+          <VALUE>19056</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -72368,7 +72298,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>9304</VALUE>
+          <VALUE>9264</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -72979,7 +72909,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>81</VALUE>
+          <VALUE>381</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -73839,7 +73769,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>739</VALUE>
+          <VALUE>738</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -74405,7 +74335,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>495</VALUE>
+          <VALUE>496</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
