@@ -58,7 +58,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>564</VALUE>
+          <VALUE>524</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -120,7 +120,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>203</VALUE>
+          <VALUE>187</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -179,7 +179,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>54</VALUE>
+          <VALUE>34</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -243,7 +243,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>8069</VALUE>
+          <VALUE>8049</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -309,7 +309,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6383</VALUE>
+          <VALUE>6363</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -373,7 +373,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3936</VALUE>
+          <VALUE>3824</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -437,7 +437,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>19077</VALUE>
+          <VALUE>18033</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -501,7 +501,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3350</VALUE>
+          <VALUE>3316</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -630,7 +630,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3356</VALUE>
+          <VALUE>3277</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -758,7 +758,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>13360</VALUE>
+          <VALUE>12527</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -948,7 +948,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>98</VALUE>
+          <VALUE>103</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1143,7 +1143,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>59574</VALUE>
+          <VALUE>58738</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1206,7 +1206,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>783</VALUE>
+          <VALUE>747</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1395,7 +1395,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>32453</VALUE>
+          <VALUE>32208</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1617,7 +1617,7 @@
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CODE>-PC49540280023131652</CODE>
-    <EAN>8588008433324</EAN>
+    <EAN>8588008433324,8586023753496</EAN>
     <CATEGORIES>
       <CATEGORY>Upratovacie pomôcky &gt; Hubky, drôtenky a špongie</CATEGORY>
     </CATEGORIES>
@@ -1649,7 +1649,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>73</VALUE>
+          <VALUE>3</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1712,7 +1712,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>28981</VALUE>
+          <VALUE>28551</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1775,7 +1775,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>109401</VALUE>
+          <VALUE>109386</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1838,7 +1838,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>113307</VALUE>
+          <VALUE>113277</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1901,7 +1901,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>95083</VALUE>
+          <VALUE>94453</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2030,7 +2030,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3401</VALUE>
+          <VALUE>3386</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2152,7 +2152,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5359</VALUE>
+          <VALUE>4523</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2339,7 +2339,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1005</VALUE>
+          <VALUE>995</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2401,7 +2401,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>654</VALUE>
+          <VALUE>644</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2463,7 +2463,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>389</VALUE>
+          <VALUE>379</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2583,7 +2583,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6355</VALUE>
+          <VALUE>6351</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2839,7 +2839,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2221</VALUE>
+          <VALUE>2214</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2904,7 +2904,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1723</VALUE>
+          <VALUE>1720</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -3346,69 +3346,6 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP Krezosan Fresh Plus dezinfekčný čistiaci prostriedok 950 ml</NAME>
-    <SHORT_DESCRIPTION>Dezinfekčný čistiaci prostriedok, balenie 950 ml. Čistí a zároveň znižuje počet mikroorganizmov na ošetrenom povrchu.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Krezosan Fresh Plus dezinfekčný čistiaci prostriedok 950 ml je dezinfekčný čistiaci prostriedok v balení 950 ml. Čistí a zároveň znižuje počet mikroorganizmov na ošetrenom povrchu.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Použitie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Riaďte sa dávkovaním a dobou pôsobenia uvedenou na obale.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Balenie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Balenie je určené na bežnú spotrebu v domácnosti aj v menšej prevádzke.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Balenie 950 ml&lt;/li&gt;
-&lt;li&gt;Dezinfekčný čistiaci prostriedok&lt;/li&gt;
-&lt;li&gt;Pre domácnosti aj prevádzky&lt;/li&gt;
-&lt;li&gt;Pred použitím si prečítajte etiketu a informácie o výrobku&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Objem:&lt;/strong&gt; 950 ml&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49540280023131805</CODE>
-    <EAN>8585003910157</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Dezinfekcia a bielidlá</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/66928490d2cd51-2542100016612-0.jpeg</IMAGE>
-    </IMAGES>
-    <TEXT_PROPERTIES>
-      <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>12</VALUE>
-      </TEXT_PROPERTY>
-    </TEXT_PROPERTIES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023141883</CODE>
-      <CODE>-PC49540280023132058</CODE>
-      <CODE>-PC49540280023132046</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC495402800231111</CODE>
-      <CODE>-PC49540280023131578</CODE>
-      <CODE>-PC49540280023131623</CODE>
-      <CODE>-PC49540280023131800</CODE>
-      <CODE>-PC49540280023131916</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>3.19</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>245</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>HP Clin čistiaci prostriedok na okná All in 1 Lemon 500 ml MR</NAME>
     <SHORT_DESCRIPTION>Clin All in 1 Lemon, 500 ml s rozprašovačom. Na okná, zrkadlá a hladké povrchy — nastrieka sa a utrie, bez šmúh a bez leštenia. Vôňa citróna.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Tekutý čistič okien a hladkých povrchov Clin All in 1 Lemon vo fľaši 500 ml s mechanickým rozprašovačom. Odstraňuje prach, mastné stopy a odtlačky prstov a zanecháva sklo číre bez šmúh.&lt;/p&gt;
@@ -3466,7 +3403,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>92219</VALUE>
+          <VALUE>92049</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -3532,7 +3469,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>290</VALUE>
+          <VALUE>148</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -3599,72 +3536,6 @@
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>1</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>HP Ajax univerzálny čistič na podlahy a povrchy Floral Fiesta Flower of Spring, 1 l</NAME>
-    <SHORT_DESCRIPTION>Univerzálny čistiaci prostriedok Ajax Floral Fiesta Flower of Spring na podlahy a umývateľné povrchy. Odstraňuje nečistoty aj mastnotu, nezanecháva šmuhy a netreba ho oplachovať. Vôňa jarných kvetov. Objem 1 l.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Univerzálny čistiaci prostriedok Ajax Floral Fiesta Flower of Spring na podlahy a všetky umývateľné povrchy. Účinne odstraňuje bežné nečistoty aj mastnotu a zanecháva povrchy čisté, bez šmúh a s vôňou jarných kvetov.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vôňa a účinok&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Svieža vôňa jarných kvetov, ktorá po upratovaní prevonia celú miestnosť.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Použitie a dávkovanie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Na bežné upratovanie stačí pridať približne jeden uzáver do 5 litrov vody. Na odolnejšie nečistoty naneste prostriedok neriedený na navlhčenú handru alebo špongiu a povrch utrite. Povrchy nie je potrebné oplachovať.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Univerzálny — podlahy, obklady, dvere aj umývateľný nábytok&lt;/li&gt;
-&lt;li&gt;Čistí bez šmúh a nevyžaduje oplachovanie&lt;/li&gt;
-&lt;li&gt;Koncentrovaný — na vedro vody stačí malé množstvo&lt;/li&gt;
-&lt;li&gt;Vôňa jarných kvetov, ktorá v miestnosti vydrží aj po upratovaní&lt;/li&gt;
-&lt;li&gt;Vhodný do domácnosti, kancelárie aj do prevádzky&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Objem:&lt;/strong&gt; 1 l&lt;br&gt;&lt;strong&gt;Typ:&lt;/strong&gt; univerzálny čistiaci prostriedok&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 1 ks&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Ajax</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49540280023131827</CODE>
-    <EAN>5900273472939,08718951665316</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Univerzálne čističe</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/5/56928490b27edb-254210005859-0.jpeg</IMAGE>
-    </IMAGES>
-    <TEXT_PROPERTIES>
-      <TEXT_PROPERTY>
-        <NAME>Počet kusov na palete</NAME>
-        <VALUE>600</VALUE>
-      </TEXT_PROPERTY>
-    </TEXT_PROPERTIES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023132058</CODE>
-      <CODE>-PC49540280023141883</CODE>
-      <CODE>-PC49540280023132225</CODE>
-      <CODE>-PC49540280023132175</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49540280023131824</CODE>
-      <CODE>-PC49540280023131825</CODE>
-      <CODE>-PC49540280023131826</CODE>
-      <CODE>-PC49540280023132102</CODE>
-      <CODE>-PC49540280023132104</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>2.09</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>10</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -3788,7 +3659,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>167</VALUE>
+          <VALUE>155</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -4043,7 +3914,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>340</VALUE>
+          <VALUE>337</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -4236,7 +4107,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4564</VALUE>
+          <VALUE>4424</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -4364,7 +4235,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>523</VALUE>
+          <VALUE>505</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -4804,7 +4675,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1157</VALUE>
+          <VALUE>1151</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -4932,7 +4803,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1318</VALUE>
+          <VALUE>1306</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -5060,7 +4931,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>870</VALUE>
+          <VALUE>858</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -5186,7 +5057,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5216</VALUE>
+          <VALUE>5202</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -5378,7 +5249,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1356</VALUE>
+          <VALUE>1194</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -5447,70 +5318,6 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP Sanitiz čistiaci dezinfekčný prostriedok na plochy a podlahy, 5 L</NAME>
-    <SHORT_DESCRIPTION>Dezinfekčný čistiaci prostriedok, balenie 5 l. Čistí a zároveň znižuje počet mikroorganizmov na ošetrenom povrchu.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Sanitiz čistiaci dezinfekčný prostriedok na plochy a podlahy, 5 l je dezinfekčný čistiaci prostriedok v balení 5 l. Čistí a zároveň znižuje počet mikroorganizmov na ošetrenom povrchu.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Použitie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Riaďte sa dávkovaním a dobou pôsobenia uvedenou na obale.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Balenie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Veľké zásobové balenie je určené pre prevádzky s vysokou spotrebou — cena za liter je nižšia než pri malých baleniach.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Balenie 5 l&lt;/li&gt;
-&lt;li&gt;Dezinfekčný čistiaci prostriedok&lt;/li&gt;
-&lt;li&gt;Veľké zásobové balenie&lt;/li&gt;
-&lt;li&gt;Pre domácnosti aj prevádzky&lt;/li&gt;
-&lt;li&gt;Pred použitím si prečítajte etiketu a informácie o výrobku&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Objem:&lt;/strong&gt; 5 l&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49540280023132018</CODE>
-    <EAN>8591522314079</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Dezinfekcia a bielidlá</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/1/169b2b03884c70-hf-20260312-122030-b47c519c-4741-49de-a06f-cff33f245956.png</IMAGE>
-    </IMAGES>
-    <TEXT_PROPERTIES>
-      <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>3</VALUE>
-      </TEXT_PROPERTY>
-    </TEXT_PROPERTIES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023141883</CODE>
-      <CODE>-PC49540280023132058</CODE>
-      <CODE>-PC49540280023132046</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49540280023131800</CODE>
-      <CODE>-PC49540280023131916</CODE>
-      <CODE>-PC49540280023131623</CODE>
-      <CODE>-PC49540280023131920</CODE>
-      <CODE>-PC49540280023132001</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>16.11</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>53</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>HP Garden Collection osviežovač vzduchu Lemon, 300 ml</NAME>
     <SHORT_DESCRIPTION>Osviežovač vzduchu Garden Collection Lemon, 300 ml. Neutralizuje nepríjemné pachy a prevonia miestnosť. Uvoľňuje sviežu citrónovú vôňu.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Osviežovač vzduchu Garden Collection Lemon v objeme 300 ml prevonia miestnosť a zároveň neutralizuje nepríjemné pachy — nielen ich prekryje.&lt;/p&gt;
@@ -5569,70 +5376,6 @@
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>829</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>HP Jar tekutý prostriedok na umývanie riadu Sensitive Tea Tree &amp; Mint 2 x 900 ml</NAME>
-    <SHORT_DESCRIPTION>Prostriedok na umývanie riadu, balenie 900 ml. Rozpúšťa mastnotu a zvyšky jedla, dobre pení a z riadu sa ľahko vypláchne.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Jar tekutý prostriedok na umývanie riadu Sensitive Tea Tree &amp;amp; Mint 2 x 900 ml je prostriedok na umývanie riadu v balení 900 ml. Rozpúšťa mastnotu a zvyšky jedla, dobre pení a z riadu sa ľahko vypláchne.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Použitie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Dávkujte podľa množstva riadu a stupňa znečistenia. Vhodný na ručné umývanie.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Balenie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Balenie je určené na bežnú spotrebu v domácnosti aj v menšej prevádzke.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Balenie 900 ml&lt;/li&gt;
-&lt;li&gt;Prostriedok na umývanie riadu&lt;/li&gt;
-&lt;li&gt;Pre domácnosti aj prevádzky&lt;/li&gt;
-&lt;li&gt;Pred použitím si prečítajte etiketu a informácie o výrobku&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Objem:&lt;/strong&gt; 900 ml&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Jar</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49540280023132032</CODE>
-    <EAN>8001090674373,8001090198082,8001090198105</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Kuchynská chémia a odpady</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/4/46936ecc7626c9-cis361.jpeg</IMAGE>
-    </IMAGES>
-    <TEXT_PROPERTIES>
-      <TEXT_PROPERTY>
-        <NAME>Počet kusov na palete</NAME>
-        <VALUE>360</VALUE>
-      </TEXT_PROPERTY>
-    </TEXT_PROPERTIES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023132225</CODE>
-      <CODE>-PC49540280023141883</CODE>
-      <CODE>-PC49540280023132058</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49540280023131512</CODE>
-      <CODE>-PC49540280023132109</CODE>
-      <CODE>-PC49540280023132118</CODE>
-      <CODE>-PC49540280023132119</CODE>
-      <CODE>-PC49540280023141904</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>5.88</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>2</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -5757,7 +5500,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>861</VALUE>
+          <VALUE>831</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -5821,7 +5564,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>67</VALUE>
+          <VALUE>57</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -5879,7 +5622,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>36</VALUE>
+          <VALUE>32</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6062,7 +5805,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>508</VALUE>
+          <VALUE>220</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6123,7 +5866,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>23512</VALUE>
+          <VALUE>22062</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6187,7 +5930,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>46</VALUE>
+          <VALUE>36</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6250,7 +5993,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>759</VALUE>
+          <VALUE>748</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6309,7 +6052,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1081</VALUE>
+          <VALUE>1017</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6499,122 +6242,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>64</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>HP Toaletný papier Nuvolette 2vr, 13,3 m, 100 % celulóza, 10 ks</NAME>
-    <SHORT_DESCRIPTION>Toaletný papier NUVOLETTE, dvojvrstvový, návin 13,3 m, balenie 10 ks. Na každodenné použitie.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Toaletný papier NUVOLETTE 2vr 13,3m 100% celulóza 10ks je dvojvrstvový toaletný papier s návinom 13,3 m, v balení 10 ks. Klasické rolky do domácnosti aj do menších prevádzok. Balenie 10 ks vystačí na dlhšie obdobie.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vrstvy a komfort&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Dvojvrstvové prevedenie je overeným štandardom, ktorý spája dostatočnú pevnosť s priaznivou cenou. Materiál 100 % celulóza zaisťuje jemnosť k pokožke.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Praktické informácie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Balenie 10 ks znižuje cenu za rolku a vystačí na dlhšie obdobie, takže nemusíte nakupovať tak často.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;2-vrstvový&lt;/li&gt;
-&lt;li&gt;Návin 13,3 m&lt;/li&gt;
-&lt;li&gt;Balenie 10 ks&lt;/li&gt;
-&lt;li&gt;Materiál: 100 % celulóza&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Vrstvy:&lt;/strong&gt; 2-vrstvový&lt;br&gt;&lt;strong&gt;Návin:&lt;/strong&gt; 13,3 m&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 10 ks&lt;br&gt;&lt;strong&gt;Materiál:&lt;/strong&gt; 100 % celulóza&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49640280023131808</CODE>
-    <EAN>3858893737674</EAN>
-    <CATEGORIES>
-      <CATEGORY>Papierový program &gt; Toaletný papier</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/2/26a251e7caaf70-hf-20260607-072757-b109a3d6-10b7-4de5-9d43-b208a721f146.png</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023131716</CODE>
-      <CODE>-PC49540280023131649</CODE>
-      <CODE>-PC49540280023131850</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49640280023131731</CODE>
-      <CODE>-PC49640280023131732</CODE>
-      <CODE>-PC49640280023131747</CODE>
-      <CODE>-PC49640280023131803</CODE>
-      <CODE>-PC49640280023131804</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>2.10</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>80</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>HP Toaletný papier Softy Classic 2vr, 18,4 m, 150 útržkov, 100 % celulóza, 8 ks</NAME>
-    <SHORT_DESCRIPTION>Toaletný papier Softy classic, dvojvrstvový, návin 18,4 m, 150 útržkov, balenie 8 ks. Na každodenné použitie.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Toaletný papier Softy classic 2vr 18,4m 150 útržkov 100% celulóza 8ks je dvojvrstvový toaletný papier s návinom 18,4 m, v balení 8 ks. Klasické rolky do domácnosti aj do menších prevádzok. Balenie 8 ks vystačí na dlhšie obdobie.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vrstvy a komfort&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Dvojvrstvové prevedenie je overeným štandardom, ktorý spája dostatočnú pevnosť s priaznivou cenou. Materiál 100 % celulóza zaisťuje jemnosť k pokožke.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Praktické informácie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Balenie 8 ks znižuje cenu za rolku a vystačí na dlhšie obdobie, takže nemusíte nakupovať tak často. Každá rolka má 150 útržkov.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;2-vrstvový&lt;/li&gt;
-&lt;li&gt;Návin 18,4 m&lt;/li&gt;
-&lt;li&gt;150 útržkov&lt;/li&gt;
-&lt;li&gt;Balenie 8 ks&lt;/li&gt;
-&lt;li&gt;Materiál: 100 % celulóza&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Vrstvy:&lt;/strong&gt; 2-vrstvový&lt;br&gt;&lt;strong&gt;Návin:&lt;/strong&gt; 18,4 m&lt;br&gt;&lt;strong&gt;Útržky:&lt;/strong&gt; 150 útržkov&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 8 ks&lt;br&gt;&lt;strong&gt;Materiál:&lt;/strong&gt; 100 % celulóza&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49640280023131813</CODE>
-    <EAN>3856012813513</EAN>
-    <CATEGORIES>
-      <CATEGORY>Papierový program &gt; Toaletný papier</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/7/76a251e24b27eb-hf-20260607-072922-d40955b5-cf56-4696-a699-018fa9d2d35a.png</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023131716</CODE>
-      <CODE>-PC49540280023131649</CODE>
-      <CODE>-PC49540280023131850</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49640280023131812</CODE>
-      <CODE>-PC49640280023131731</CODE>
-      <CODE>-PC49640280023131732</CODE>
-      <CODE>-PC49640280023131747</CODE>
-      <CODE>-PC49640280023131803</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>2.10</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>8</VALUE>
+          <VALUE>54</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6678,7 +6306,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2117</VALUE>
+          <VALUE>2115</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6935,7 +6563,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5409</VALUE>
+          <VALUE>5153</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6999,7 +6627,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3930</VALUE>
+          <VALUE>3706</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7063,7 +6691,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5630</VALUE>
+          <VALUE>5441</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7127,7 +6755,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>10052</VALUE>
+          <VALUE>9974</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7191,7 +6819,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>12351</VALUE>
+          <VALUE>12225</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7256,7 +6884,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1383</VALUE>
+          <VALUE>1335</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7321,7 +6949,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>881</VALUE>
+          <VALUE>849</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7706,7 +7334,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>18</VALUE>
+          <VALUE>20</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7892,7 +7520,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>927</VALUE>
+          <VALUE>892</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -8072,7 +7700,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>534</VALUE>
+          <VALUE>462</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -8583,7 +8211,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>671</VALUE>
+          <VALUE>629</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -8699,7 +8327,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>77</VALUE>
+          <VALUE>76</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -8763,7 +8391,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1262</VALUE>
+          <VALUE>982</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -8829,7 +8457,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>658</VALUE>
+          <VALUE>629</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -8895,7 +8523,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>104</VALUE>
+          <VALUE>54</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9144,7 +8772,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3164</VALUE>
+          <VALUE>3154</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9329,7 +8957,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4845</VALUE>
+          <VALUE>4805</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9394,7 +9022,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6683</VALUE>
+          <VALUE>6611</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9459,7 +9087,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>654</VALUE>
+          <VALUE>645</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9780,7 +9408,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>696</VALUE>
+          <VALUE>651</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -10278,7 +9906,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>61</VALUE>
+          <VALUE>601</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -10471,7 +10099,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1303</VALUE>
+          <VALUE>1185</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -11186,7 +10814,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>592</VALUE>
+          <VALUE>532</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -11756,7 +11384,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>103</VALUE>
+          <VALUE>102</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -11820,7 +11448,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>104</VALUE>
+          <VALUE>103</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -12009,7 +11637,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>420</VALUE>
+          <VALUE>355</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -12972,7 +12600,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5348</VALUE>
+          <VALUE>5107</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13036,7 +12664,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>268</VALUE>
+          <VALUE>248</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13164,7 +12792,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1233</VALUE>
+          <VALUE>1227</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13478,7 +13106,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>35496</VALUE>
+          <VALUE>35264</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13541,7 +13169,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>43224</VALUE>
+          <VALUE>42593</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13670,7 +13298,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5336</VALUE>
+          <VALUE>5312</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13736,7 +13364,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2345</VALUE>
+          <VALUE>2340</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13864,7 +13492,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1892</VALUE>
+          <VALUE>1880</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -14119,11 +13747,11 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>19</VALUE>
+          <VALUE>0</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>HP Fre-Pro BOWL CLIP vonná záveska Spiced Apple, 1 ks</NAME>
@@ -14631,7 +14259,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>40</VALUE>
+          <VALUE>37</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -14823,7 +14451,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1404</VALUE>
+          <VALUE>1273</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -14889,7 +14517,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>66</VALUE>
+          <VALUE>54</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -14955,7 +14583,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>488</VALUE>
+          <VALUE>482</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -16208,7 +15836,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2450</VALUE>
+          <VALUE>2444</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -17346,7 +16974,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1263</VALUE>
+          <VALUE>1251</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -17412,7 +17040,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>463</VALUE>
+          <VALUE>454</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -17478,7 +17106,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1048</VALUE>
+          <VALUE>1036</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -17544,7 +17172,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1279</VALUE>
+          <VALUE>1267</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -17670,7 +17298,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6</VALUE>
+          <VALUE>294</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -19004,7 +18632,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1088</VALUE>
+          <VALUE>1072</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -19446,7 +19074,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1413</VALUE>
+          <VALUE>1409</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -19638,7 +19266,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>12</VALUE>
+          <VALUE>22</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -19766,7 +19394,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1156</VALUE>
+          <VALUE>1116</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -19893,7 +19521,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3294</VALUE>
+          <VALUE>3289</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -19956,7 +19584,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4398</VALUE>
+          <VALUE>4393</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -20272,7 +19900,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>20742</VALUE>
+          <VALUE>20741</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -20335,7 +19963,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>7425</VALUE>
+          <VALUE>7415</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -20524,7 +20152,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>86092</VALUE>
+          <VALUE>86042</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -20650,7 +20278,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>42215</VALUE>
+          <VALUE>42015</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -20778,7 +20406,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>26172</VALUE>
+          <VALUE>25972</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21034,7 +20662,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>29874</VALUE>
+          <VALUE>29574</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21411,7 +21039,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>23285</VALUE>
+          <VALUE>23283</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21656,7 +21284,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4770</VALUE>
+          <VALUE>4768</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -21720,7 +21348,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3579</VALUE>
+          <VALUE>3577</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -22037,7 +21665,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1094</VALUE>
+          <VALUE>1088</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -22101,7 +21729,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>354</VALUE>
+          <VALUE>351</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -22231,7 +21859,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4364</VALUE>
+          <VALUE>4316</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -22487,7 +22115,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1768</VALUE>
+          <VALUE>1720</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -22807,7 +22435,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3198</VALUE>
+          <VALUE>3192</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -22999,7 +22627,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1049</VALUE>
+          <VALUE>1043</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -23319,7 +22947,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1850</VALUE>
+          <VALUE>1838</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -23895,7 +23523,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>364</VALUE>
+          <VALUE>358</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -26768,7 +26396,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>505</VALUE>
+          <VALUE>488</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -26833,7 +26461,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>927</VALUE>
+          <VALUE>921</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -26897,7 +26525,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>471</VALUE>
+          <VALUE>454</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -26959,7 +26587,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>26074</VALUE>
+          <VALUE>26060</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -27023,7 +26651,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>21782</VALUE>
+          <VALUE>21776</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -27275,7 +26903,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>7403</VALUE>
+          <VALUE>7383</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -27402,7 +27030,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>148</VALUE>
+          <VALUE>147</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -27763,7 +27391,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3053</VALUE>
+          <VALUE>3052</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -28281,7 +27909,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>119261</VALUE>
+          <VALUE>119159</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -28468,7 +28096,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1586</VALUE>
+          <VALUE>1583</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -28842,7 +28470,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>587</VALUE>
+          <VALUE>585</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -29706,7 +29334,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>10534</VALUE>
+          <VALUE>10434</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -29834,7 +29462,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6958</VALUE>
+          <VALUE>6858</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -29898,7 +29526,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>7607</VALUE>
+          <VALUE>7591</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -29962,7 +29590,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5307</VALUE>
+          <VALUE>5207</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -30599,7 +30227,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>712</VALUE>
+          <VALUE>710</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -30903,7 +30531,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>21</VALUE>
+          <VALUE>11</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -31070,7 +30698,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>419</VALUE>
+          <VALUE>416</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -31752,7 +31380,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>9</VALUE>
+          <VALUE>3</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -32412,7 +32040,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>15</VALUE>
+          <VALUE>9</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -32681,7 +32309,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>78</VALUE>
+          <VALUE>75</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -32713,7 +32341,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>47</VALUE>
+          <VALUE>41</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -32878,7 +32506,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>29</VALUE>
+          <VALUE>26</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -33017,51 +32645,6 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Nivea lak na vlasy Volume Hold 250 ml</NAME>
-    <MANUFACTURER>Nivea</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700110395</CODE>
-    <EAN>9005800223957,4005808260478</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o vlasy</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/c/c6a58e51cc9d86-e6920b59a8b996-254210004782-0.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700110391</CODE>
-      <CODE>-PC497402700110394</CODE>
-      <CODE>-PC497402700110405</CODE>
-      <CODE>-PC497402700110393</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700110393</CODE>
-      <CODE>-PC497402700110394</CODE>
-      <CODE>-PC497402700110391</CODE>
-      <CODE>-PC497402700125993</CODE>
-      <CODE>-PC497402700110563</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>4.02</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>6</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Nivea univerzálny krém 30 ml</NAME>
     <MANUFACTURER>Nivea</MANUFACTURER>
     <ITEM_TYPE>product</ITEM_TYPE>
@@ -33159,7 +32742,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>635</VALUE>
+          <VALUE>623</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -33230,7 +32813,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>35</VALUE>
+          <VALUE>29</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -33453,7 +33036,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>40</VALUE>
+          <VALUE>28</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -34055,7 +33638,7 @@ Technológia DynamicFit™ zabezpečuje prirodzené prispôsobenie sa tvaru tela
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>155</VALUE>
+          <VALUE>142</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -34363,7 +33946,7 @@ Technológia DynamicFit™ zabezpečuje prirodzené prispôsobenie sa tvaru tela
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>33</VALUE>
+          <VALUE>30</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -34599,54 +34182,7 @@ Varianta - Levanduľa</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>7</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>ALEX čistič na všetky povrchy Citrusové plody 1 l</NAME>
-    <SHORT_DESCRIPTION>Svieži citrónový čistič ALEX je určený na údržbu a čistenie povrchov. Poskytuje príjemnú vôňu a efektívne odstraňuje nečistoty.</SHORT_DESCRIPTION>
-    <DESCRIPTION>Alex na všetky povrchy s vôňou citrónu vytvára ochranný film, ktorý uľahčuje následné čistenie podláh.</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700120211</CODE>
-    <EAN>8411660005380</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Univerzálne čističe</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a269fa696dcb-w6920b3470a7c5-25424000214-0.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700120215</CODE>
-      <CODE>-PC497402700120212</CODE>
-      <CODE>-PC497402700120213</CODE>
-      <CODE>-PC497402700120214</CODE>
-      <CODE>-PC497402700120217</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700102016</CODE>
-      <CODE>-PC497402700120197</CODE>
-      <CODE>-PC497402700120198</CODE>
-      <CODE>-PC497402700120200</CODE>
-      <CODE>-PC497402700120201</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>3.75</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>7</VALUE>
+          <VALUE>4</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -34793,7 +34329,7 @@ Varianta - Levanduľa</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>8</VALUE>
+          <VALUE>5</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -34912,7 +34448,7 @@ Varianta - Levanduľa</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>15</VALUE>
+          <VALUE>12</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -35068,7 +34604,7 @@ Varianta - S citrónovou vôňou extra starostlivosť</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>260</VALUE>
+          <VALUE>244</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -35402,7 +34938,7 @@ Varianta - S citrónovou vôňou extra starostlivosť</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>321</VALUE>
+          <VALUE>261</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -35445,7 +34981,7 @@ Varianta - S citrónovou vôňou extra starostlivosť</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1028</VALUE>
+          <VALUE>988</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -35845,7 +35381,7 @@ Varianta - S citrónovou vôňou extra starostlivosť</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>84</VALUE>
+          <VALUE>74</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -36960,7 +36496,7 @@ Varianta - Prsné</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>29</VALUE>
+          <VALUE>26</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -36994,7 +36530,7 @@ Varianta - Prsné</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>15</VALUE>
+          <VALUE>10</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -37751,11 +37287,11 @@ Varianta - Prsné</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>7</VALUE>
+          <VALUE>0</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Cif čistiaci sprej na vodný kameň Perfekt Finish, 435 ml</NAME>
@@ -38313,7 +37849,7 @@ Varianta - Prsné</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>141</VALUE>
+          <VALUE>129</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -38361,7 +37897,7 @@ Varianta - Prsné</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>277</VALUE>
+          <VALUE>265</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -38760,7 +38296,7 @@ Varianta - Prsné</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>127</VALUE>
+          <VALUE>121</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -38877,7 +38413,7 @@ Varianta - Prsné</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>31</VALUE>
+          <VALUE>28</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -38976,11 +38512,11 @@ Varianta - Prsné</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1</VALUE>
+          <VALUE>0</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Dettol tekuté mydlo vanilkový svet - náhradná náplň, 250 ml</NAME>
@@ -39016,11 +38552,11 @@ Pred použitím odporúčame prečítať etiketu, varovania a pokyny na tovare.<
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1</VALUE>
+          <VALUE>0</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Dettol tekuté mydlo s výťažkom z harmančeka, 250 ml</NAME>
@@ -39048,7 +38584,7 @@ Pred použitím odporúčame prečítať etiketu, varovania a pokyny na tovare.<
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>55</VALUE>
+          <VALUE>52</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -39109,7 +38645,7 @@ CI 60730</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>43</VALUE>
+          <VALUE>40</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -39447,11 +38983,11 @@ Ideálny na každodenné sprchovanie, vhodný pre všetky typy pokožky, najmä 
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1</VALUE>
+          <VALUE>0</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>DIXI Svište sprchový gél Šťavnatosť jahôdok a malín 400 ml</NAME>
@@ -39862,7 +39398,7 @@ Ideálny na každodenné sprchovanie, vhodný pre všetky typy pokožky, najmä 
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>24</VALUE>
+          <VALUE>18</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -40006,7 +39542,7 @@ Ideálny na každodenné sprchovanie, vhodný pre všetky typy pokožky, najmä 
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>18</VALUE>
+          <VALUE>12</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -40400,7 +39936,7 @@ Ideálny na každodenné sprchovanie, vhodný pre všetky typy pokožky, najmä 
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>16</VALUE>
+          <VALUE>11</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -40448,7 +39984,7 @@ Ideálny na každodenné sprchovanie, vhodný pre všetky typy pokožky, najmä 
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>24</VALUE>
+          <VALUE>21</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -40548,7 +40084,7 @@ Mydlá</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>32</VALUE>
+          <VALUE>30</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -40628,7 +40164,7 @@ Mydlá</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>30</VALUE>
+          <VALUE>28</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -40891,7 +40427,7 @@ Mydlá</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>57</VALUE>
+          <VALUE>37</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -41083,6 +40619,71 @@ Parfémy</DESCRIPTION>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>31</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>L'Oréal Paris Elseve maska na vlasy Full Resist 300 ml</NAME>
+    <SHORT_DESCRIPTION>L'Oréal Paris Elseve Full Resist maska na vlasy 300 ml je posilňujúca maska určená pre oslabené a lámavé vlasy so sklonom k vypadávaniu spôsobenému lámaním. Je obohatená o biotín, arginín a aminexil, ktoré pomáhajú posilniť vlasové vlákno, znižujú lámavosť a zanechávajú vlasy silnejšie, hebké a plné vitality. Možno ju používať ako klasickú masku, bezoplachovú starostlivosť alebo na pokožku hlavy.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p data-start="482" data-end="834" class="PDq2pG_selectionAnchorContainer"&gt;&lt;strong data-start="482" data-end="540"&gt;L'Oréal Paris Elseve Full Resist maska na vlasy 300 ml&lt;/strong&gt; bola vyvinutá pre oslabené, jemné a lámavé vlasy, ktoré strácajú svoju pevnosť v dôsledku každodenného namáhania, častého česania, stylingu či stresu. Jej ľahké zloženie bez silikónov nezaťažuje vlasy a zároveň im poskytuje intenzívnu výživu a posilnenie. &lt;span class="" data-state="closed"&gt;&lt;/span&gt;&lt;span aria-hidden="true" class="PDq2pG_selectionAnchor"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-start="836" data-end="1154"&gt;Receptúra obsahuje &lt;strong data-start="855" data-end="885"&gt;biotín, arginín a aminexil&lt;/strong&gt;, ktoré pomáhajú posilniť vlasové vlákno od korienkov až po končeky, znižujú lámavosť vlasov a podporujú ich prirodzenú odolnosť. Pri pravidelnom používaní sú vlasy pevnejšie, pružnejšie, jemnejšie na dotyk a ľahšie sa rozčesávajú. &lt;span class="" data-state="closed"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-start="1156" data-end="1199"&gt;Maska ponúka &lt;strong data-start="1169" data-end="1198"&gt;viacero spôsobov použitia&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul data-start="1200" data-end="1419"&gt;
+&lt;li data-section-id="chx071" data-start="1200" data-end="1250"&gt;ako klasická oplachovacia maska po umytí vlasov,&lt;/li&gt;
+&lt;li data-section-id="a0u3bp" data-start="1251" data-end="1300"&gt;ako bezoplachová starostlivosť do dĺžok vlasov,&lt;/li&gt;
+&lt;li data-section-id="hzzlb7" data-start="1301" data-end="1368"&gt;na pokožku hlavy na jemnú masáž a posilnenie vlasových korienkov,&lt;/li&gt;
+&lt;li data-section-id="1t9wdkt" data-start="1369" data-end="1419"&gt;na dĺžky vlasov pre intenzívnu výživu a ochranu.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 data-section-id="dh9j1f" data-start="1421" data-end="1438"&gt;Hlavné výhody&lt;/h3&gt;
+&lt;ul data-start="1439" data-end="1636"&gt;
+&lt;li data-section-id="r7oc0w" data-start="1439" data-end="1475"&gt;posilňuje oslabené a lámavé vlasy,&lt;/li&gt;
+&lt;li data-section-id="1ewm45u" data-start="1476" data-end="1509"&gt;pomáha znižovať lámanie vlasov,&lt;/li&gt;
+&lt;li data-section-id="m7cc0l" data-start="1510" data-end="1545"&gt;dodáva vlasom hebkosť a pružnosť,&lt;/li&gt;
+&lt;li data-section-id="1xb3k2t" data-start="1546" data-end="1565"&gt;nezaťažuje vlasy,&lt;/li&gt;
+&lt;li data-section-id="5awb6u" data-start="1566" data-end="1598"&gt;multifunkčné použitie (4 v 1),&lt;/li&gt;
+&lt;li data-section-id="152fqqo" data-start="1599" data-end="1636"&gt;vhodná na pravidelnú starostlivosť.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p data-start="1638" data-end="1694"&gt;&lt;strong data-start="1638" data-end="1648"&gt;Objem:&lt;/strong&gt; 300 ml.&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC497402700122998</CODE>
+    <EAN>3600523897988</EAN>
+    <CATEGORIES>
+      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o vlasy</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/k/k6a58e52387d9f-t6a58a16269f5f-156655.webp</IMAGE>
+    </IMAGES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC497402700122987</CODE>
+      <CODE>-PC497402700122979</CODE>
+      <CODE>-PC497402700122978</CODE>
+      <CODE>-PC497402700122973</CODE>
+      <CODE>-PC497402700122968</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC497402700123831</CODE>
+      <CODE>-PC497402700122565</CODE>
+      <CODE>-PC497402700122996</CODE>
+      <CODE>-PC497402700122997</CODE>
+      <CODE>-PC497402700123824</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>5.81</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>4</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -42225,18 +41826,18 @@ Kozmetické farbivo</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Garnier CN farba na vlasy - 8.1 svetlá blond popolavá, 1 ks</NAME>
-    <DESCRIPTION>Trvalá vyživujúca farba na vlasy s unikátnou starostlivosťou obsahujúcou tri prírodné oleje - olivový, avokádový a karité. Zaručuje 100 % prekrytie šedín, vrátane tých najodolnejších. Výsledkom sú sýte a žiarivé odtiene. Vlasy sú vyživené a lesklé až po dobu 8 týždňov.</DESCRIPTION>
+    <NAME>Garnier CN permanentná farba na vlasy 5.15 Sýta čokoládová</NAME>
+    <DESCRIPTION>Garnier CN je vyživujúca permanentná farba na vlasy od Garnier. Obsahuje 5 olejov - olivový, avokádový, karité, kokosový a arganový, ktoré zanechávajú vlasy lesklé a hebké. Intenzívne vyživuje a chráni vlasy, zaisťuje sýtu a dlhotrvajúcu farbu. Poskytuje 100 % krytie šedín a chráni vlasy pred vysušovaním až 8 týždňov. Studené pigmenty eliminujú nežiaduce odlesky.</DESCRIPTION>
     <MANUFACTURER>Garnier</MANUFACTURER>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
-    <CODE>-PC497402700123918</CODE>
-    <EAN>3600540632920</EAN>
+    <CODE>-PC497402700123900</CODE>
+    <EAN>3600542601559</EAN>
     <CATEGORIES>
       <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o vlasy</CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/k/k6a269ff08d02f-g6920b500c5d5d-254210003601-0.jpeg</IMAGE>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/i/i6a269fefaf474-06920b4ff6cccf-254240004397-0.jpeg</IMAGE>
     </IMAGES>
     <RELATED_PRODUCTS>
       <CODE>-PC497402700123916</CODE>
@@ -42265,7 +41866,250 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2</VALUE>
+          <VALUE>3</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Garnier vyživujúci zosvetľovač na vlasy - E0 super blond, 1 ks</NAME>
+    <SHORT_DESCRIPTION>Farba na vlasy Garnier CN v odtieni super blond. Poskytuje dlhodobú farbu a starostlivosť o vlasy.</SHORT_DESCRIPTION>
+    <DESCRIPTION>farba na vlasy Garnier CN Crème je prvá vyživujúca permanentná farba od Garnier s dvojitou ochranou. Obohatená o olivový, avokádový a karité olej, vyživuje a chráni vlasy, zanecháva ich lesklé a hebké. Intenzívna farba s 100 % krytím šedín vydrží až 8 týždňov a zosvetľuje až o 5 odtieňov.</DESCRIPTION>
+    <MANUFACTURER>Garnier</MANUFACTURER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC497402700123923</CODE>
+    <EAN>3600540387516</EAN>
+    <CATEGORIES>
+      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o vlasy</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/b/b6a269ff0d48e6-06920b500eb616-254220004776-0.jpeg</IMAGE>
+    </IMAGES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC497402700123951</CODE>
+      <CODE>-PC497402700123952</CODE>
+      <CODE>-PC497402700123925</CODE>
+      <CODE>-PC497402700123899</CODE>
+      <CODE>-PC497402700123875</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC497402700126099</CODE>
+      <CODE>-PC497402700126090</CODE>
+      <CODE>-PC497402700126061</CODE>
+      <CODE>-PC497402700110290</CODE>
+      <CODE>-PC497402700123951</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>4.51</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>1</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Garnier deo FM sprej Clinical 150ml</NAME>
+    <SHORT_DESCRIPTION>Pánsky antiperspirant sprej Garnier Men Mineral Action Control+ 150 ml poskytuje spoľahlivú ochranu pred potením a nežiaducim zápachom až 96 h, nezanecháva stopy na oblečení a je vhodný aj pre citlivú pokožku.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong data-start="1250" data-end="1317"&gt;Garnier Men Mineral Action Control+ antiperspirant sprej 150 ml&lt;/strong&gt; je navrhnutý pre mužov, ktorí potrebujú dlhodobú ochranu proti poteniu a zápachu v náročných situáciách. Jeho formula obsahuje ultra absorbujúci vulkanický minerál &lt;em data-start="1482" data-end="1496"&gt;(mineralite)&lt;/em&gt; a extrakt zo zeleného čaju, ktorý neutralizuje pach a zanecháva sviežu, mužskú vôňu. Tento antiperspirant ponúka &lt;strong data-start="1610" data-end="1653"&gt;až 96 hodín klinicky testovanej ochrany&lt;/strong&gt;, nezanecháva biele či žlté stopy na oblečení a je vhodný aj pre osoby s citlivejšou pokožkou. Ide o ideálny sprej pre každodenné použitie počas práce, športu alebo dlhých dní mimo domova.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Garnier</MANUFACTURER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC497402700123956</CODE>
+    <EAN>3600542216654</EAN>
+    <CATEGORIES>
+      <CATEGORY>Osobná hygiena a kozmetika &gt; Dezodoranty</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/0/06a269ff29bf22-d694874e46cc8f-garnier-men-action-control-96h-antitranspirant-spray-150ml.jpeg</IMAGE>
+    </IMAGES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC497402700123959</CODE>
+      <CODE>-PC497402700123955</CODE>
+      <CODE>-PC497402700123957</CODE>
+      <CODE>-PC497402700124001</CODE>
+      <CODE>-PC497402700124005</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC497402700123959</CODE>
+      <CODE>-PC497402700122653</CODE>
+      <CODE>-PC497402700122654</CODE>
+      <CODE>-PC497402700123957</CODE>
+      <CODE>-PC497402700110363</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>3.78</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>1</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Garnier Men antiperspirant Mineral Extreme Sport Stress 150 ml</NAME>
+    <SHORT_DESCRIPTION>Dezodorant v spreji s extrémnou ochranou. Poskytuje dlhotrvajúcu sviežosť a komfort.</SHORT_DESCRIPTION>
+    <DESCRIPTION>Sprejový antiperspirant pre mužov, ktorý zabezpečuje suchosť v podpazuší až na 72 hodín a zabraňuje vzniku mokrých škvŕn na oblečení. Obsahuje Mineralite, prírodnú látku s ultra-absorpčnými schopnosťami, ktorá rýchlo zasychá a poskytuje pocit sviežosti aj v náročných situáciách.</DESCRIPTION>
+    <MANUFACTURER>Garnier</MANUFACTURER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC497402700123957</CODE>
+    <EAN>3600540889515</EAN>
+    <CATEGORIES>
+      <CATEGORY>Osobná hygiena a kozmetika &gt; Dezodoranty</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/q/q6a269ff2a74e7-d6920b501a5cb7-254210003608-0.jpeg</IMAGE>
+    </IMAGES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC497402700123959</CODE>
+      <CODE>-PC497402700123955</CODE>
+      <CODE>-PC497402700123956</CODE>
+      <CODE>-PC497402700124001</CODE>
+      <CODE>-PC497402700124005</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC497402700123959</CODE>
+      <CODE>-PC497402700122653</CODE>
+      <CODE>-PC497402700122654</CODE>
+      <CODE>-PC497402700123956</CODE>
+      <CODE>-PC497402700110363</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>3.86</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>54</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Garnier hydratačná regeneračná nočná textilná maska Moisture Bomb Night-time 28 g</NAME>
+    <SHORT_DESCRIPTION>Maska dodáva pleti krásny look plný výživy a hydratácie.</SHORT_DESCRIPTION>
+    <DESCRIPTION>Hydratačné zloženie obohatené o kyselinu hyalurónovú, vodu z morských hlbín a chrpu na obnovu a revitalizáciu kožnej bariéry už za 15 minút! Účinok
+Pre hydratáciu, Regeneračný Zloženie 967456 03 - INGREDIENTS: AQUA WATER, PROPYLENE GLYCOL, GLYCERIN, ARGININE, CENTAUREA CYANUS FLOWER WATER, CITRIC ACID, COCO-BETAINE, DIPOTASSIUM GLYCYRRHIZATE, GLYCERYL ACRYLATE ACRYLIC ACID COPOLYMER, HYDROGENATED STARCH HYDROLYSATE, HYDROXYACETOPHENONE, HYDROXYETHYLCELLULOSE, LAVANDULA HYBRIDA OIL, LIMONENE, MANNOSE, MARIS AQUA SEA WATER, P-ANISIC ACID, PEG-40 HYDROGENATED CASTOR OIL, PHENOXYETHANOL, POTASSIUM HYDROXIDE, PROPANEDIOL, PVM MA COPOLYMER, SODIUM HYALURONATE, XANTHAN GUM, PARFUM FRAGRANCE (F.I.L C235660 1). Druh produktu
+Masky Čas použitia
+Nočná</DESCRIPTION>
+    <MANUFACTURER>Garnier</MANUFACTURER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC497402700124002</CODE>
+    <EAN>3600542385657</EAN>
+    <CATEGORIES>
+      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o vlasy</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/5/56a269ff3b5ffa-66920b51558a36-ahr0chm6ly9wawx1bgthlnmzlwnlbnryywwudnnob3n0aw5nlmnsb3vkl3bpbhvsa2ety3ovzmlszxmvaw1hz2vzlziwmjmtmtevbwrfzmmzmtgzmtrimwmwztrlndrkzdhjndrimmvhm2y1yweuanbn.jpeg</IMAGE>
+    </IMAGES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC497402700123986</CODE>
+      <CODE>-PC497402700123984</CODE>
+      <CODE>-PC497402700123992</CODE>
+      <CODE>-PC497402700123993</CODE>
+      <CODE>-PC497402700123994</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC497402700124003</CODE>
+      <CODE>-PC497402700120527</CODE>
+      <CODE>-PC497402700120554</CODE>
+      <CODE>-PC497402700120556</CODE>
+      <CODE>-PC497402700120557</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>2.80</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>0</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Garnier zjemňujúci pleťový toner Rose, 200 ml</NAME>
+    <DESCRIPTION>Jemná pleťová voda s ochranným extraktom z ruže a provitamínom B5 šetrne odstraňuje posledné zvyšky nečistôt z pokožky. Táto pleťová voda je ideálna pre každodenné použitie a zanecháva pleť osvieženú a čistú. Druh produktu
+Vody Pôvod
+Francúzsko</DESCRIPTION>
+    <MANUFACTURER>Garnier</MANUFACTURER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC497402700124021</CODE>
+    <EAN>3600010018179</EAN>
+    <CATEGORIES>
+      <CATEGORY>Osobná hygiena a kozmetika &gt; Tvár a pleť</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/e/e6a269ff3e27f3-v6920b51a65186-f6920b51a64dc2.png</IMAGE>
+    </IMAGES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC497402700123986</CODE>
+      <CODE>-PC497402700123984</CODE>
+      <CODE>-PC497402700123992</CODE>
+      <CODE>-PC497402700123993</CODE>
+      <CODE>-PC497402700123994</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC497402700123992</CODE>
+      <CODE>-PC497402700123994</CODE>
+      <CODE>-PC497402700124003</CODE>
+      <CODE>-PC497402700110584</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>5.16</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>3</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -42898,11 +42742,11 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2</VALUE>
+          <VALUE>0</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Glade Reed Diffuser Vanilla Cream Cookie – vonný difuzér</NAME>
@@ -43247,7 +43091,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>32</VALUE>
+          <VALUE>30</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -44397,7 +44241,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>21</VALUE>
+          <VALUE>15</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -44493,7 +44337,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>23</VALUE>
+          <VALUE>14</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -44789,34 +44633,6 @@ Kozmetické farbivo</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Iberia protect color utierka 15ks</NAME>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700124874</CODE>
-    <EAN>8411660218018</EAN>
-    <CATEGORIES>
-      <CATEGORY>Upratovacie pomôcky &gt; Utierky, handry a mikrovlákno</CATEGORY>
-    </CATEGORIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>4.53</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>15</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Igélitová PE taška motív MIX 1 ks</NAME>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
@@ -44865,7 +44681,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>254</VALUE>
+          <VALUE>229</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -45124,7 +44940,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>119</VALUE>
+          <VALUE>109</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -45425,7 +45241,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>52</VALUE>
+          <VALUE>46</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -45533,7 +45349,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>55</VALUE>
+          <VALUE>49</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -45573,47 +45389,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>101</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Lactovit regeneračný sprchový gél Lactourea 500 ml</NAME>
-    <SHORT_DESCRIPTION>Lactovit sprchový gél s Lactourea 9 je hydratačný a vyživujúci produkt. Obsahuje zložky, ktoré pomáhajú udržiavať pokožku jemnú a hladkú.</SHORT_DESCRIPTION>
-    <DESCRIPTION>Regeneračný sprchový gél Lactovit Lactourea je obohatený o kyselinu mliečnu a čistú Ureu, čo mu dodáva výnimočné hydratačné schopnosti. Tentogél intenzívne zvlhčuje pokožku, pričom vytvára ochrannú bariéru, ktorá zabraňuje strate vlhkosti. Ideálny pre veľmi suchú pokožku. 9 z 10 dermatológov odporúča používať produkty s ureou a kyselinou mliečnou.</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700125703</CODE>
-    <EAN>8595059740301</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o telo</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/66a26a01294769-c6920b56d776c7-254210009363-0.jpeg</IMAGE>
-    </IMAGES>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700122746</CODE>
-      <CODE>-PC497402700122747</CODE>
-      <CODE>-PC497402700122748</CODE>
-      <CODE>-PC497402700125700</CODE>
-      <CODE>-PC497402700125701</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>3.75</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>3</VALUE>
+          <VALUE>95</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -45653,7 +45429,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>106</VALUE>
+          <VALUE>100</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -45693,11 +45469,11 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3</VALUE>
+          <VALUE>0</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>LED lampáš okrúhly s dvierkami čierny – dekoračné svetlo</NAME>
@@ -45993,7 +45769,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>70</VALUE>
+          <VALUE>58</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -46234,7 +46010,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>343</VALUE>
+          <VALUE>333</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -46293,7 +46069,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>141</VALUE>
+          <VALUE>135</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -46372,7 +46148,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>159</VALUE>
+          <VALUE>153</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -46484,11 +46260,11 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>8</VALUE>
+          <VALUE>0</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Lilien krémové tekuté mydlo Med, 1 l</NAME>
@@ -46517,7 +46293,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>66</VALUE>
+          <VALUE>60</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -46549,40 +46325,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>20</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Lilien krémové tekuté mydlo Oliva, 1 l</NAME>
-    <SHORT_DESCRIPTION>Olive Milk je hydratačné mlieko s olivovým olejom. Poskytuje pokožke potrebnú výživu a jemnosť.</SHORT_DESCRIPTION>
-    <DESCRIPTION>Jemné tekuté mydlo s extraktom z olív v litrovej fľaši. Objem: 1 l</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700125940</CODE>
-    <EAN>8596048004602</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Mydlá</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/p/p6a26a013e90d2-k6920b571b81c8-lilien-kremove-tekute-mydlo-oliva-1000-ml-1770.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>2.64</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>1</VALUE>
+          <VALUE>14</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -46956,7 +46699,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4701</VALUE>
+          <VALUE>4626</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -47018,38 +46761,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3034</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Indulona Atopiredu ošetrujúce telové mlieko 400 ml</NAME>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700124917</CODE>
-    <EAN>8592297012290</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o telo</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/a/a6a58e52b51b07-u6920b54bccb8a-254250003409-0.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>7.68</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>4</VALUE>
+          <VALUE>3014</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -47289,7 +47001,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>32</VALUE>
+          <VALUE>12</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -47872,7 +47584,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>20</VALUE>
+          <VALUE>23</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -48293,7 +48005,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>30</VALUE>
+          <VALUE>27</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -48578,7 +48290,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>56</VALUE>
+          <VALUE>50</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -48610,7 +48322,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>43</VALUE>
+          <VALUE>37</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -48898,7 +48610,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>12</VALUE>
+          <VALUE>9</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -48930,7 +48642,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>31</VALUE>
+          <VALUE>28</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -49193,38 +48905,6 @@ Kozmetické farbivo</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Nivea Soft hydratačný krém tuba 75 ml</NAME>
-    <MANUFACTURER>Nivea</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700127078</CODE>
-    <EAN>4005808751457</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o telo</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/e/e6a58e5339fdbc-f6920b59c6d564-254210004828-0.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>2.86</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>1</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Nivea univerzálny krém tuba 100 ml</NAME>
     <MANUFACTURER>Nivea</MANUFACTURER>
     <ITEM_TYPE>product</ITEM_TYPE>
@@ -49446,38 +49126,6 @@ Kozmetické farbivo</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Nivea pleťová čistiaca voda pre suchú a citlivú pleť 200 ml</NAME>
-    <MANUFACTURER>Nivea</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700127103</CODE>
-    <EAN>9005800227054,9005800393704</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Tvár a pleť</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/a/a6a58e53441e80-v6920b59ef06af-2542100011032-0.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>4.47</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>1</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Nivea pleťové čistiace mlieko Aqua Effect pre zmiešanú pleť 200 ml</NAME>
     <MANUFACTURER>Nivea</MANUFACTURER>
     <ITEM_TYPE>product</ITEM_TYPE>
@@ -49535,7 +49183,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>137</VALUE>
+          <VALUE>131</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -49567,7 +49215,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>57</VALUE>
+          <VALUE>51</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -49596,7 +49244,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>66</VALUE>
+          <VALUE>60</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -49628,7 +49276,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>60</VALUE>
+          <VALUE>54</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -49661,38 +49309,6 @@ Kozmetické farbivo</DESCRIPTION>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>7</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Nivea sprchový gél Rose &amp; Almond Oil 500 ml</NAME>
-    <MANUFACTURER>Nivea</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700127180</CODE>
-    <EAN>9005800263601</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o telo</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/b/b6a58e53530b61-16920b5a19df60-2542100011061-0.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>3.70</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>2</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -50009,7 +49625,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>109</VALUE>
+          <VALUE>105</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -50270,7 +49886,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>33</VALUE>
+          <VALUE>21</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -52033,7 +51649,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>28</VALUE>
+          <VALUE>25</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -52065,7 +51681,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>26</VALUE>
+          <VALUE>23</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -52257,39 +51873,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>223</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Perwoll prací gél Renew Blossom 20 PD</NAME>
-    <MANUFACTURER>Perwoll</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700128241</CODE>
-    <EAN>9000101810356</EAN>
-    <CATEGORIES>
-      <CATEGORY>Pracie prostriedky &gt; Pracie prášky a gély</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/s/s6a58e53fc9c3d-76920b5ee577b0-2542300013267-0.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>3.75</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>2</VALUE>
+          <VALUE>215</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -53432,7 +53016,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>28</VALUE>
+          <VALUE>24</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -54568,34 +54152,6 @@ Kozmetické farbivo</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Carlson rozmrazovač skiel 500 ml</NAME>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700128975</CODE>
-    <EAN>8591522333476</EAN>
-    <CATEGORIES>
-      <CATEGORY>Ostatné</CATEGORY>
-    </CATEGORIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>2.56</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>3</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Nitril. rukavice Nitrylex Basic MERCATOR tmavo modré M 100ks</NAME>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
@@ -54704,7 +54260,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>30</VALUE>
+          <VALUE>20</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -55059,7 +54615,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>41</VALUE>
+          <VALUE>5</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -55091,11 +54647,11 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>44</VALUE>
+          <VALUE>0</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Sanytol dezinfekčný univerzálny čistiaci prostriedok 4v1 Pure 500 ml</NAME>
@@ -55403,34 +54959,6 @@ Kozmetické farbivo</DESCRIPTION>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>24</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Servítky 33 × 33 cm 1-vrstvové</NAME>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700129393</CODE>
-    <EAN>8591199703374</EAN>
-    <CATEGORIES>
-      <CATEGORY>Ostatné</CATEGORY>
-    </CATEGORIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>0.70</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>16</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -56390,7 +55918,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>31</VALUE>
+          <VALUE>25</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -56452,7 +55980,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>22</VALUE>
+          <VALUE>23</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -56515,37 +56043,6 @@ Kozmetické farbivo</DESCRIPTION>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>509</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Tesori d'Oriente aviváž Hammam 760 ml 38 PD</NAME>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700130244</CODE>
-    <EAN>8008970055213</EAN>
-    <CATEGORIES>
-      <CATEGORY>Pracie prostriedky &gt; Doplnky do prania</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/q/q6a58e54c94c45-a69483358030f0-500bf649ef7ca134e8bdc08c0366-png.webp</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>2.80</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>3</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -56638,7 +56135,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>694</VALUE>
+          <VALUE>682</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -57228,7 +56725,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4</VALUE>
+          <VALUE>1</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -58621,7 +58118,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>27</VALUE>
+          <VALUE>18</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -58776,7 +58273,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>63</VALUE>
+          <VALUE>60</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -58993,7 +58490,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>64</VALUE>
+          <VALUE>58</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -59024,7 +58521,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>54</VALUE>
+          <VALUE>48</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -59148,7 +58645,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>219</VALUE>
+          <VALUE>195</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -59273,7 +58770,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>116</VALUE>
+          <VALUE>104</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -59304,7 +58801,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>164</VALUE>
+          <VALUE>158</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -59335,7 +58832,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>94</VALUE>
+          <VALUE>88</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -59397,7 +58894,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>163</VALUE>
+          <VALUE>157</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -59459,7 +58956,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>63</VALUE>
+          <VALUE>60</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -59490,7 +58987,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>72</VALUE>
+          <VALUE>69</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -59759,7 +59256,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>66</VALUE>
+          <VALUE>60</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -60388,7 +59885,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>105</VALUE>
+          <VALUE>102</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -60419,7 +59916,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>108</VALUE>
+          <VALUE>105</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -60451,7 +59948,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>11</VALUE>
+          <VALUE>7</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -60602,7 +60099,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>59</VALUE>
+          <VALUE>53</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -60782,7 +60279,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>87</VALUE>
+          <VALUE>81</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -60814,7 +60311,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>99</VALUE>
+          <VALUE>93</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -61341,38 +60838,6 @@ Kozmetické farbivo</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Tesori d'Oriente sprchový gél Thalasso 250ml</NAME>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700132894</CODE>
-    <EAN>8008970050386</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o telo</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/5/56a58e55e2bd04-v6932f378dbe41-71jxj3jrhxl-ac-uf894-1000-ql80.jpeg</IMAGE>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/w/w6a58e55e37442-r6932f378e6de5-tesori-doriente-thalasso-therapy-duschcreme-250-ml.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>2.26</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>1</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>AZURIT 74 PD/ 1628ml  MagnoliaFanta</NAME>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
@@ -61398,38 +60863,6 @@ Kozmetické farbivo</DESCRIPTION>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>24</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Dove darčekové balenie Sprchový gél 250ml + Original deodorant 150ml</NAME>
-    <MANUFACTURER>Dove</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700132904</CODE>
-    <EAN>8721201971228</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o telo</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/2/26a58e55e9cdb7-g692e2c38066fe-dove-vb.png</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>3.26</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>58</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -61719,66 +61152,6 @@ Kozmetické farbivo</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Destilovana voda 1l Carline</NAME>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700132989</CODE>
-    <EAN>8594071383329</EAN>
-    <CATEGORIES>
-      <CATEGORY>Ostatné</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/n/n6a58e5609c4fb-u69e61c687118f-364606.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>0.52</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>12</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Nivea Baby obrúsky Toddies 57ks</NAME>
-    <MANUFACTURER>Nivea</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700133004</CODE>
-    <EAN>9005800369235</EAN>
-    <CATEGORIES>
-      <CATEGORY>Papierový program &gt; Papierové utierky a obrúsky</CATEGORY>
-    </CATEGORIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>2.07</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>2</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Ria Ultra DUO Normal plus Deo 18ks</NAME>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
@@ -61860,7 +61233,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>43</VALUE>
+          <VALUE>31</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -61891,7 +61264,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>54</VALUE>
+          <VALUE>42</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -62198,7 +61571,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>8</VALUE>
+          <VALUE>5</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -62443,7 +61816,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>134</VALUE>
+          <VALUE>126</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -62937,7 +62310,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>25</VALUE>
+          <VALUE>19</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -63877,11 +63250,11 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>25</VALUE>
+          <VALUE>0</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>HP Vir tekutý prací prostriedok Color Perfume, 40 PD, 2000 ml</NAME>
@@ -63940,11 +63313,11 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>19</VALUE>
+          <VALUE>0</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>HP Vir tekutý prací prostriedok White &amp; Color, 40 PD, 2000 ml</NAME>
@@ -64003,7 +63376,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>21</VALUE>
+          <VALUE>18</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -64253,7 +63626,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>108</VALUE>
+          <VALUE>106</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -64886,7 +64259,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>11313</VALUE>
+          <VALUE>11295</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -67853,7 +67226,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>107</VALUE>
+          <VALUE>106</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -67916,7 +67289,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>374</VALUE>
+          <VALUE>370</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -67979,7 +67352,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1213</VALUE>
+          <VALUE>1204</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -68042,7 +67415,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1707</VALUE>
+          <VALUE>1580</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -68106,7 +67479,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>682</VALUE>
+          <VALUE>679</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -68354,7 +67727,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>517</VALUE>
+          <VALUE>504</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -68418,7 +67791,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>190</VALUE>
+          <VALUE>187</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -68667,7 +68040,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>258</VALUE>
+          <VALUE>256</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -68920,7 +68293,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>471</VALUE>
+          <VALUE>470</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -69048,11 +68421,11 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>16</VALUE>
+          <VALUE>0</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>HP NOLVIX saponát na riad Pomegranate 1 l (NOL0521)</NAME>
@@ -69111,7 +68484,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>461</VALUE>
+          <VALUE>460</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -69174,7 +68547,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>457</VALUE>
+          <VALUE>456</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -69265,7 +68638,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>186</VALUE>
+          <VALUE>66</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -69361,7 +68734,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>617</VALUE>
+          <VALUE>607</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -69681,7 +69054,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>415</VALUE>
+          <VALUE>409</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -69714,7 +69087,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>571</VALUE>
+          <VALUE>565</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -69746,7 +69119,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>701</VALUE>
+          <VALUE>689</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -69778,7 +69151,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>118</VALUE>
+          <VALUE>115</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -69993,7 +69366,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3224</VALUE>
+          <VALUE>3154</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -70057,7 +69430,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2206</VALUE>
+          <VALUE>2084</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -70121,7 +69494,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>10549</VALUE>
+          <VALUE>10548</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -70185,7 +69558,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5193</VALUE>
+          <VALUE>5167</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -70249,7 +69622,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>6288</VALUE>
+          <VALUE>6235</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -70377,7 +69750,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5106</VALUE>
+          <VALUE>5086</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -70761,7 +70134,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>3071</VALUE>
+          <VALUE>3069</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -70953,7 +70326,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>24</VALUE>
+          <VALUE>12</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -71791,7 +71164,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>319</VALUE>
+          <VALUE>313</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -72040,7 +71413,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>659</VALUE>
+          <VALUE>619</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -72098,7 +71471,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>364</VALUE>
+          <VALUE>340</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -72161,7 +71534,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>18676</VALUE>
+          <VALUE>18556</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -72224,7 +71597,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>8184</VALUE>
+          <VALUE>8183</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -72287,7 +71660,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>12262</VALUE>
+          <VALUE>12242</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -72350,7 +71723,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>15329</VALUE>
+          <VALUE>15278</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -72413,7 +71786,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2015</VALUE>
+          <VALUE>1965</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -72650,7 +72023,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>100</VALUE>
+          <VALUE>90</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -72773,37 +72146,6 @@ Kozmetické farbivo</DESCRIPTION>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>43</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Toaletný Papier Harmasan 1 vr 50 m, 1ks</NAME>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49740280023132336</CODE>
-    <EAN>8584014010306</EAN>
-    <CATEGORIES>
-      <CATEGORY>Papierový program &gt; Toaletný papier</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/w/w6a58e54d92639-e6974eb5f98f25-254120003985-0.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>0.58</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>114</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -73003,7 +72345,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>231</VALUE>
+          <VALUE>221</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -73051,7 +72393,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>312</VALUE>
+          <VALUE>307</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -74107,7 +73449,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>520</VALUE>
+          <VALUE>518</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -74482,7 +73824,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>87</VALUE>
+          <VALUE>85</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -74620,7 +73962,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>133</VALUE>
+          <VALUE>123</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -74865,7 +74207,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>67</VALUE>
+          <VALUE>63</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -75103,7 +74445,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>28</VALUE>
+          <VALUE>220</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -75249,7 +74591,7 @@ Kozmetické farbivo</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>372</VALUE>
+          <VALUE>367</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
