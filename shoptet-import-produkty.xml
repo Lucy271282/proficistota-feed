@@ -127,65 +127,6 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP Hydroxid sodný mikrogranule 1 kg</NAME>
-    <SHORT_DESCRIPTION>Hydroxid sodný v mikrogranulách, balenie 1 kg. Silne zásaditá látka na rozpúšťanie tukov a organických usadenín, najmä v odpadoch.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Hydroxid sodný mikrogranule 1 kg je hydroxid sodný v mikrogranulách v balení 1 kg. Silne zásaditá látka na rozpúšťanie tukov a organických usadenín, najmä v odpadoch.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Použitie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Pozor — silne leptavá látka. Používajte ochranné rukavice a ochranu očí, nikdy nepridávajte vodu do látky.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Balenie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Balenie je určené na bežnú spotrebu v domácnosti aj v menšej prevádzke.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Balenie 1 kg&lt;/li&gt;
-&lt;li&gt;Hydroxid sodný v mikrogranulách&lt;/li&gt;
-&lt;li&gt;Pre domácnosti aj prevádzky&lt;/li&gt;
-&lt;li&gt;Pred použitím si prečítajte etiketu a informácie o výrobku&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Hmotnosť:&lt;/strong&gt; 1 kg&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC495508080</CODE>
-    <EAN>8586001111225,8594069813166</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Technická chémia</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/m/m6957b73e4fdc1-7688-800x800.jpg</IMAGE>
-    </IMAGES>
-    <TEXT_PROPERTIES>
-      <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>1</VALUE>
-      </TEXT_PROPERTY>
-    </TEXT_PROPERTIES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023141883</CODE>
-      <CODE>-PC49540280023132058</CODE>
-      <CODE>-PC49540280023131749</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49540280023131851</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>2.60</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>HP Savo sprej proti plesniam, 500 ml</NAME>
     <SHORT_DESCRIPTION>Prípravok proti plesniam, balenie 500 ml. Likviduje plesne na stenách, v škárach a na silikóne a zosvetľuje čierne škvrny.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Savo sprej proti plesniam, 500 ml je prípravok proti plesniam v balení 500 ml. Likviduje plesne na stenách, v škárach a na silikóne a zosvetľuje čierne škvrny.&lt;/p&gt;
@@ -1598,64 +1539,6 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP Špongia na riad 8x5x2,5cm 10ks</NAME>
-    <SHORT_DESCRIPTION>Tvarovaná špongia na riad, rozmer 8 × 5 × 2,5 cm, balenie 10 ks. Mäkká strana na umývanie, drsná na pripečené zvyšky.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Špongia na riad s rozmerom 8 × 5 × 2,5 cm v balení 10 kusov. Kombinuje mäkkú penovú časť s drsnou vrstvou na odolnejšie nečistoty.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dve strany, dve použitia&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Mäkká strana napení saponát a umyje bežný riad, drsná strana zvládne pripečené zvyšky z hrncov a plechov bez poškriabania väčšiny povrchov.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Praktické balenie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Desaťkusové balenie vystačí na dlhšie obdobie. Špongiu pravidelne vymieňajte — drží v sebe vlhkosť a nečistoty.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Rozmer 8 × 5 × 2,5 cm&lt;/li&gt;
-&lt;li&gt;Balenie 10 ks&lt;/li&gt;
-&lt;li&gt;Mäkká aj drsná strana&lt;/li&gt;
-&lt;li&gt;Na riad, drezy aj pracovné dosky&lt;/li&gt;
-&lt;li&gt;Pre domácnosti aj gastro prevádzky&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Rozmer:&lt;/strong&gt; 8 × 5 × 2,5 cm&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 10 ks&lt;br&gt;&lt;strong&gt;Typ:&lt;/strong&gt; špongia na riad&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49540280023131652</CODE>
-    <EAN>8588008433324,8586023753496</EAN>
-    <CATEGORIES>
-      <CATEGORY>Upratovacie pomôcky &gt; Hubky, drôtenky a špongie</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/2/26ac49b8af3c0f-3219-hubka-tvarovana-10ks.jpg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023131512</CODE>
-      <CODE>-PC49540280023141883</CODE>
-      <CODE>-PC49540280023132058</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49540280023131615</CODE>
-      <CODE>-PC49540280023131625</CODE>
-      <CODE>-PC49540280023131627</CODE>
-      <CODE>-PC49540280023131653</CODE>
-      <CODE>-PC49540280023131757</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>0.54</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>HP Utierka univerzálna 38 x 32 cm, 90 g/m2, zelená</NAME>
     <SHORT_DESCRIPTION>Univerzálna utierka na utieranie a čistenie povrchov, rozmer 38 × 32 cm, 90 g/m², zelená. Dobre saje a hodí sa na mokré aj suché utieranie.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Utierka univerzálna 38 x 32 cm, 90 g/m2, zelená je univerzálna utierka na čistenie a utieranie povrchov s rozmerom 38 × 32 cm.&lt;/p&gt;
@@ -2653,67 +2536,6 @@
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>HP Zmetáková súprava plastová sklopná na tyči Set Delux</NAME>
-    <SHORT_DESCRIPTION>Zmetáková súprava s lopatkou na tyči — na zametanie bez zohýbania. Lopatka aj zmeták sú na dlhej tyči, takže pozametáte a pozbierate smeti postojačky.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Zmetáková súprava plastová sklopná na tyči Set Delux je zmetáková súprava s lopatkou na tyči — na zametanie bez zohýbania.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Čím pomôže&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Lopatka aj zmeták sú na dlhej tyči, takže pozametáte a pozbierate smeti postojačky.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kde sa hodí&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;V domácnosti, kancelárii aj v prevádzke. Náradie po použití opláchnite a nechajte vyschnúť, vydrží tak podstatne dlhšie.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Zmetáková súprava s lopatkou na tyči&lt;/li&gt;
-&lt;li&gt;Pre domácnosti aj prevádzky&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49540280023131712</CODE>
-    <EAN>8586028380499</EAN>
-    <CATEGORIES>
-      <CATEGORY>Upratovacie pomôcky &gt; Metly, kefy a lopatky</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/m/m6a675643b8fb3-hf-20260726-094534-a7a7522b-ff92-4933-af28-a2c93da2c134.png</IMAGE>
-    </IMAGES>
-    <TEXT_PROPERTIES>
-      <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>12</VALUE>
-      </TEXT_PROPERTY>
-    </TEXT_PROPERTIES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023133281</CODE>
-      <CODE>-PC49540280023141883</CODE>
-      <CODE>-PC49540280023132175</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49540280023131641</CODE>
-      <CODE>-PC49540280023131642</CODE>
-      <CODE>-PC49540280023131665</CODE>
-      <CODE>-PC49540280023131666</CODE>
-      <CODE>-PC49540280023131668</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>4.69</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>HP Držiak mopu mechanický fliprový, 50 cm</NAME>
@@ -6184,134 +6006,6 @@
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>HP Utierky CF Midi 2vr, Ø 14 cm, výška 19 cm, 50 m, 12 ks</NAME>
-    <SHORT_DESCRIPTION>Papierová utierka v role, dvojvrstvový, návin 50 m, Ø 14 cm, balenie 12 ks. Savé a pevné — poradia si s rozliatymi tekutinami aj mastnotou.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Utierky CF MIDI Ø14cm 2vr 50m 12ks je papierová utierka v role s návinom 50 m, v balení 12 ks. Dvojvrstvový papier dobre saje a nerozpadne sa hneď po navlhčení.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Na čo ich využijete&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Na utretie rozliatych tekutín, mastnoty z pracovnej dosky, osušenie rúk aj umytého riadu. Väčší priemer rolky znamená menej častú výmenu, čo ocenia prevádzky s vysokou spotrebou.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Balenie a spotreba&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Návin 50 m vystačí na dlhšie obdobie a znižuje cenu za jedno použitie. Rolka sa dá vložiť do zásobníka alebo použiť voľne.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;2-vrstvové&lt;/li&gt;
-&lt;li&gt;Návin 50 m&lt;/li&gt;
-&lt;li&gt;Priemer Ø 14 cm&lt;/li&gt;
-&lt;li&gt;Balenie 12 ks&lt;/li&gt;
-&lt;li&gt;Savé a pevné aj po navlhčení&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Vrstvy:&lt;/strong&gt; 2-vrstvový&lt;br&gt;&lt;strong&gt;Návin:&lt;/strong&gt; 50 m&lt;br&gt;&lt;strong&gt;Priemer:&lt;/strong&gt; Ø 14 cm&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 12 ks&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49640280023131801</CODE>
-    <EAN>8586028380673,8586025680202,858602838067</EAN>
-    <CATEGORIES>
-      <CATEGORY>Papierový program &gt; Papierové utierky a obrúsky</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/r/r6a23ea792da99-hf-20260606-093640-f10c8205-d5f8-4c82-9b65-a90b9ead5ebd.png</IMAGE>
-    </IMAGES>
-    <TEXT_PROPERTIES>
-      <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>1</VALUE>
-      </TEXT_PROPERTY>
-    </TEXT_PROPERTIES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023131716</CODE>
-      <CODE>-PC49540280023131655</CODE>
-      <CODE>-PC49540280023141883</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49540280023132046</CODE>
-      <CODE>-PC49540280023132058</CODE>
-      <CODE>-PC49540280023132106</CODE>
-      <CODE>-PC49540280023132108</CODE>
-      <CODE>-PC49540280023132164</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>13.11</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>HP Papierové utierky ZZ 1vr zelené recyklované, 25 x 23 cm, 5000 ks</NAME>
-    <SHORT_DESCRIPTION>Skladané papierové utierky ZZ, jednovrstvové, balenie 5000 ks. Do zásobníka — odoberajú sa po jednej, takže sa nedotýkate zvyšku zásoby.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Papierové utierky ZZ zelené 25x23 1vr recykl. 5000ks sú jednovrstvové skladané papierové utierky, v balení 5000 ks. Sklad ZZ zaisťuje, že sa z každej utierky vysunie okraj nasledujúcej.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Hygienické odoberanie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Utierky sa vyťahujú po jednej, takže sa nedotýkate zvyšku zásoby. To je dôvod, prečo sa ZZ utierky používajú na verejných toaletách, v gastro prevádzkach a v zdravotníctve.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Materiál a spotreba&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Recyklovaný papier je ekologickejšia a cenovo výhodnejšia voľba — vhodná tam, kde je spotreba vysoká. Balenie 5000 ks vystačí na dlhšie obdobie a znižuje cenu za kus.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;1-vrstvové&lt;/li&gt;
-&lt;li&gt;Balenie 5000 ks&lt;/li&gt;
-&lt;li&gt;Materiál: recyklovaný papier&lt;/li&gt;
-&lt;li&gt;Sklad ZZ — odoberanie po jednej&lt;/li&gt;
-&lt;li&gt;Farba zelená&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Vrstvy:&lt;/strong&gt; 1-vrstvový&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 5000 ks&lt;br&gt;&lt;strong&gt;Materiál:&lt;/strong&gt; recyklovaný papier&lt;br&gt;&lt;strong&gt;Farba:&lt;/strong&gt; zelená&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49640280023131802</CODE>
-    <EAN>8586025680363</EAN>
-    <CATEGORIES>
-      <CATEGORY>Papierový program &gt; Papierové utierky a obrúsky</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/y/y6a2076750e283-hf-20260603-184038-4978f85d-aa50-43c5-847f-1a7b6a869c0d-1.png</IMAGE>
-    </IMAGES>
-    <TEXT_PROPERTIES>
-      <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>1</VALUE>
-      </TEXT_PROPERTY>
-    </TEXT_PROPERTIES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49640280023131731</CODE>
-      <CODE>-PC49540280023132046</CODE>
-      <CODE>-PC49540280023141883</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49640280023131815</CODE>
-      <CODE>-PC49640280023131816</CODE>
-      <CODE>-PC49640280023131817</CODE>
-      <CODE>-PC49640280023131734</CODE>
-      <CODE>-PC49640280023131814</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>18.77</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>HP Papierové utierky ZZ 2vr celulóza, 21 x 20 cm, 3000 ks</NAME>
@@ -9910,69 +9604,6 @@
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>HP Latexové rukavice Mercator bez púdru S, 100 ks</NAME>
-    <SHORT_DESCRIPTION>Upratovacie rukavice, veľkosť S, balenie 100 ks. Opakovane použiteľné, chránia ruky pred vodou a čistiacimi prostriedkami.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Latexové rukavice Mercator bez púdru S, 100 ks sú opakovane použiteľné upratovacie rukavice v balení 100 ks, veľkosť S. Chránia pokožku pred vodou, saponátmi a agresívnejšou chémiou pri upratovaní.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Odolnosť&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Latex je pružný, dobre kopíruje ruku a zachováva cit v prstoch.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kde ich využijete&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Pri umývaní riadu, upratovaní kúpeľne a WC, práci so silnejšou chémiou aj v záhrade. Po použití ich opláchnite a nechajte vyschnúť.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Veľkosť S&lt;/li&gt;
-&lt;li&gt;Balenie 100 ks&lt;/li&gt;
-&lt;li&gt;Opakovane použiteľné&lt;/li&gt;
-&lt;li&gt;Na bežné upratovanie&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Veľkosť:&lt;/strong&gt; S&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 100 ks&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49540280023132133</CODE>
-    <EAN>5906615032663,5906615032717</EAN>
-    <CATEGORIES>
-      <CATEGORY>Upratovacie pomôcky &gt; Rukavice</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/1/16a48ddea49128-hf-20260704-101256-855fd114-dd11-477f-9d65-06522e9f109b.png</IMAGE>
-    </IMAGES>
-    <TEXT_PROPERTIES>
-      <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>10</VALUE>
-      </TEXT_PROPERTY>
-    </TEXT_PROPERTIES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023132225</CODE>
-      <CODE>-PC49540280023132058</CODE>
-      <CODE>-PC495402800231111</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49540280023132134</CODE>
-      <CODE>-PC49540280023132135</CODE>
-      <CODE>-PC49540280023132136</CODE>
-      <CODE>-PC49540280023131842</CODE>
-      <CODE>-PC49540280023131844</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>7.75</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>HP Mercator upratovacie rukavice žlté XL, 1 pár</NAME>
@@ -13879,70 +13510,6 @@
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>HP Fre-Pro BOWL CLIP vonná záveska Cucumber Melon, 1 ks</NAME>
-    <SHORT_DESCRIPTION>Vonný klip FRE-PRO Bowl Clip Cucumber Melon na WC misu. Uchytáva sa na vonkajšiu stranu okraja misy, takže neprichádza do kontaktu s vodou a neprekáža pri čistení. Uvoľňuje chladivú vôňu uhorky a melónu.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;FRE-PRO Bowl Clip Cucumber Melon je vonný klip určený na uchytenie na vonkajšiu stranu okraja toaletnej misy. Na rozdiel od klasických závesných blokov neprichádza do kontaktu so splachovanou vodou.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Hygienickejšie riešenie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Keďže klip nevisí vo vnútri misy, nevymýva sa vodou a nezavadzia pri čistení. Miska sa tak dá umyť celá, bez obchádzania bloku.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vôňa a výdrž&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Klip postupne uvoľňuje chladivú vôňu uhorky a melónu do priestoru. Vôňa pôsobí plynulo počas celej životnosti klipu, nie nárazovo pri spláchnutí.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Uchytenie na vonkajšiu stranu okraja misy&lt;/li&gt;
-&lt;li&gt;Neprichádza do kontaktu s vodou&lt;/li&gt;
-&lt;li&gt;Neprekáža pri čistení toalety&lt;/li&gt;
-&lt;li&gt;Vôňa Cucumber Melon&lt;/li&gt;
-&lt;li&gt;Balenie 1 ks&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 1 ks&lt;br&gt;&lt;strong&gt;Vôňa:&lt;/strong&gt; Cucumber Melon&lt;br&gt;&lt;strong&gt;Typ:&lt;/strong&gt; vonný klip na WC misu&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49540280023132234</CODE>
-    <EAN>8594194890469</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; WC, kúpeľňa a sanita</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/t/t698dd45727905-fre-pro-bowl-clip-cucumber-melon-new.webp</IMAGE>
-    </IMAGES>
-    <TEXT_PROPERTIES>
-      <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>12</VALUE>
-      </TEXT_PROPERTY>
-    </TEXT_PROPERTIES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023131649</CODE>
-      <CODE>-PC49540280023141883</CODE>
-      <CODE>-PC49540280023131850</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49540280023132190</CODE>
-      <CODE>-PC49540280023132235</CODE>
-      <CODE>-PC49540280023132366</CODE>
-      <CODE>-PC49540280023141890</CODE>
-      <CODE>-PC49540280023131976</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>4.45</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>HP Fre-Pro BOWL CLIP vonná záveska Spiced Apple, 1 ks</NAME>
@@ -18465,70 +18032,6 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP Toaletný papier Craft Mini Jumbo 2vr, Ø 19 cm/170 m, perforovaný, 12 ks</NAME>
-    <SHORT_DESCRIPTION>Toaletný papier Mini Jumbo Craft mini Jumbo, dvojvrstvový, návin 170 m, balenie 12 ks. Veľkokapacitná rola pre vyťažené prevádzky.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Toaletný papier Craft mini Jumbo 2vr 170m Ø19cm perforovaný 12ks je dvojvrstvový toaletný papier Mini Jumbo s návinom 170 m, v balení 12 ks. Jedna rola nahradí až desať bežných roliek, takže obsluha dopĺňa zásobník podstatne menej často. Formát Mini Jumbo je určený do menších zásobníkov a šetrí miesto.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vrstvy a komfort&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Dvojvrstvové prevedenie je overeným štandardom, ktorý spája dostatočnú pevnosť s priaznivou cenou.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Praktické informácie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Pred kúpou si overte priemer rolky, ktorý váš zásobník pojme — táto rola má Ø 19 cm.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;2-vrstvový&lt;/li&gt;
-&lt;li&gt;Návin 170 m&lt;/li&gt;
-&lt;li&gt;Priemer Ø 19 cm&lt;/li&gt;
-&lt;li&gt;Balenie 12 ks&lt;/li&gt;
-&lt;li&gt;Veľkokapacitná rola Jumbo&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Vrstvy:&lt;/strong&gt; 2-vrstvový&lt;br&gt;&lt;strong&gt;Návin:&lt;/strong&gt; 170 m&lt;br&gt;&lt;strong&gt;Priemer:&lt;/strong&gt; Ø 19 cm&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 12 ks&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49640280023131865</CODE>
-    <EAN>8586028383049</EAN>
-    <CATEGORIES>
-      <CATEGORY>Papierový program &gt; Toaletný papier</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/h/h6a233c36d5db1-hf-20260605-211326-c0feade7-c45a-43d7-8db0-a73777aeb279.png</IMAGE>
-    </IMAGES>
-    <TEXT_PROPERTIES>
-      <TEXT_PROPERTY>
-        <NAME>Počet kusov na palete</NAME>
-        <VALUE>48</VALUE>
-      </TEXT_PROPERTY>
-    </TEXT_PROPERTIES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023131716</CODE>
-      <CODE>-PC49540280023131649</CODE>
-      <CODE>-PC49540280023131850</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49640280023131866</CODE>
-      <CODE>-PC49640280023131731</CODE>
-      <CODE>-PC49640280023131732</CODE>
-      <CODE>-PC49640280023131747</CODE>
-      <CODE>-PC49640280023131803</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>24.27</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>HP Toaletný papier Craft Flex T 13,4 2vr, Ø 19,5 cm/207 m, perforovaný, 6 ks</NAME>
     <SHORT_DESCRIPTION>Toaletný papier Craft flex T, dvojvrstvový, návin 207 m, balenie 6 ks. Na každodenné použitie.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Toaletný papier Craft flex T 13.4 2vr 207m Ø19,5cm perforovaný 6ks je dvojvrstvový toaletný papier s návinom 207 m, v balení 6 ks. Klasické rolky do domácnosti aj do menších prevádzok. Balenie 6 ks vystačí na dlhšie obdobie.&lt;/p&gt;
@@ -19149,67 +18652,6 @@
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>HP Fixinela Antikalk comfort 500 ml MR</NAME>
-    <SHORT_DESCRIPTION>Fixinela Antikalk comfort 500 ml — čistiaci prostriedok na vodný kameň, balenie 500 ml s rozprašovačom. Rozpúšťa vodný kameň a usadeniny z batérií, sprchových kútov, obkladov a sanity.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Fixinela Antikalk comfort 500 ml je čistiaci prostriedok na vodný kameň v balení 500 ml s rozprašovačom. Patrí do radu Fixinela, ktorý sa dlhodobo osvedčil pri odolných nečistotách v domácnosti aj v prevádzke.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Účinok&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Rozpúšťa vodný kameň a usadeniny z batérií, sprchových kútov, obkladov a sanity.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Použitie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Mechanický rozprašovač umožňuje naniesť prípravok presne a bez rozstreku. Nechajte pôsobiť a opláchnite vodou.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Balenie 500 ml s rozprašovačom&lt;/li&gt;
-&lt;li&gt;Čistiaci prostriedok na vodný kameň&lt;/li&gt;
-&lt;li&gt;Na odolné nečistoty&lt;/li&gt;
-&lt;li&gt;Pre domácnosti aj prevádzky&lt;/li&gt;
-&lt;li&gt;Rad Fixinela&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 500 ml s rozprašovačom&lt;br&gt;&lt;strong&gt;Rad:&lt;/strong&gt; Fixinela&lt;br&gt;&lt;strong&gt;Určenie:&lt;/strong&gt; čistiaci prostriedok na vodný kameň&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49540280023131946</CODE>
-    <EAN>18585003912349,8585003912342</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; WC, kúpeľňa a sanita</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/d/d6a69ff047975d-cis2348.jpg</IMAGE>
-    </IMAGES>
-    <TEXT_PROPERTIES>
-      <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>10</VALUE>
-      </TEXT_PROPERTY>
-    </TEXT_PROPERTIES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023141883</CODE>
-      <CODE>-PC49540280023132058</CODE>
-      <CODE>-PC49540280023131749</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49540280023131765</CODE>
-      <CODE>-PC49540280023141822</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>4.03</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>HP Diava octový čistič 990 ml</NAME>
@@ -30822,35 +30264,6 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Duck Fresh Discs Duo WC krúžky Marine náplň 2x36 ml</NAME>
-    <MANUFACTURER>Duck</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700109011</CODE>
-    <EAN>5000204338959,5000204608588</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; WC, kúpeľňa a sanita</CATEGORY>
-    </CATEGORIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>6.96</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>ELMEX zubná pasta 75ml Sensitive Zelená</NAME>
     <MANUFACTURER>Elmex</MANUFACTURER>
     <ITEM_TYPE>product</ITEM_TYPE>
@@ -31406,6 +30819,81 @@
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Bref tuhý WC blok Power Aktiv Lemon 3 x 50 g</NAME>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC497402700110065</CODE>
+    <CATEGORIES>
+      <CATEGORY>Čistiace prostriedky &gt; WC, kúpeľňa a sanita</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/k/k6a58e51726748-d6920b3758536b-2542100010492-0.jpeg</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>9</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>3.11</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>0</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Bref tuhý WC blok PowerAktiv 3x50g Pine</NAME>
+    <SHORT_DESCRIPTION>Bref WC PowerAktiv je účinný čistič toalety. Obsahuje 3 kusy s osviežujúcim vôňou borovice.</SHORT_DESCRIPTION>
+    <DESCRIPTION>Power Aktiv s efektom osviežovača vzduchu. 4 funkcie: čistiaca pena, ochrana pred vodným kameňom, ochrana pred nečistotami, extra sviežosť. Bref WC blok je jednoduchý a pohodlný spôsob, ako udržať vašu toaletu čistú a sviežu. Má zloženie so 4 funkciami: čistiaca pena, ochrana pred vodným kameňom, ochrana pred nečistotami a extra sviežosť. S technológiou osviežovača vzduchu zanecháva sviežu vôňu v kúpeľni. Zaveste pod okraj toalety a nasmerujte do prúdu vody. Pre recykláciu oddeľte kartón od plastového obalu.</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC497402700110066</CODE>
+    <EAN>9000101546231</EAN>
+    <CATEGORIES>
+      <CATEGORY>Čistiace prostriedky &gt; WC, kúpeľňa a sanita</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/w/w6a269f9b23538-w6920b3759bc69-2542100010491-0.jpeg</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>9</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>3.11</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>0</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Bros Microbec tablety do žúmp a septikov</NAME>
@@ -32107,35 +31595,6 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Glade Electric Warm Apple Pie náplň do elektrického osvěžovače 20 ml</NAME>
-    <MANUFACTURER>Glade</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700110239</CODE>
-    <EAN>5000204362398,5000204226461</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Osviežovače vzduchu</CATEGORY>
-    </CATEGORIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>4.04</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Glade gél Marine 150 g</NAME>
     <MANUFACTURER>Glade</MANUFACTURER>
     <ITEM_TYPE>product</ITEM_TYPE>
@@ -32327,48 +31786,6 @@
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Listerine ústna voda Cool Mint, 1000 ml</NAME>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700110324</CODE>
-    <EAN>3574661731049,3574660520132,3574661648958,3574660676273</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Ústna hygiena</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/o/o6a58e51c4f124-86920b5760d766-254210003046-0.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700125997</CODE>
-      <CODE>-PC497402700125998</CODE>
-      <CODE>-PC497402700110327</CODE>
-      <CODE>-PC497402700110328</CODE>
-      <CODE>-PC497402700126006</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700110505</CODE>
-      <CODE>-PC497402700121881</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>5.19</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Listerine ústna voda Fresh Burst, 500 ml</NAME>
@@ -33412,47 +32829,6 @@ Technológia DynamicFit™ zabezpečuje prirodzené prispôsobenie sa tvaru tela
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Odol zubná pasta Whitening 75 ml</NAME>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700110468</CODE>
-    <EAN>5054563152329,8590335011090</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Ústna hygiena</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/m/m6a58e51e043bd-86920b5af8b9a5-254210008374-0.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700110463</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700121895</CODE>
-      <CODE>-PC497402700121909</CODE>
-      <CODE>-PC497402700121914</CODE>
-      <CODE>-PC497402700121918</CODE>
-      <CODE>-PC497402700122023</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>1.62</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>OFF sprej Protect proti komárom a kliešťom 100 ml</NAME>
@@ -35178,53 +34554,6 @@ Varianta - S citrónovou vôňou extra starostlivosť</DESCRIPTION>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Astrid Bioretinol  pokročilé sérum proti vráskam + vyplnenie pleti 30 ml</NAME>
-    <SHORT_DESCRIPTION>Krém s obsahem bioretinolu, ktorý pomáha zlepšiť vzhľad pleti. Vhodný na každodenné použitie.</SHORT_DESCRIPTION>
-    <DESCRIPTION>Využite všetky výhody retinolu bez jeho nežiaducich účinkov! Astrid Bioretinol je pokročilá starostlivosť proti vráskam s inovatívnym Bakuchiolom, prírodnou alternatívou k retinolu, ktorá ponúka silný účinok proti starnutiu a revitalizuje pleť bez podráždenia. Toto ultra koncentrované sérum okamžite hydratuje, spevňuje a vyhladzuje zrelú pleť. Zlepšuje pružnosť pokožky a viditeľne redukuje vrásky. Obohatené o vitamíny B5, B3, C a E, pomáha posilniť pleť a zlepšiť jej prirodzený jas. Pleť je hladšia, jemnejšia a zdravo žiarivá. Výnimočné výsledky*&lt;BR&gt;&lt;BR&gt;- Redukcia vrások: 90% **.&lt;BR&gt;- Obnovenie hutnosti pleti: 84%.&lt;BR&gt;- Zlepšenie pevnosti pleti: 84%.&lt;BR&gt;- Vyhladenie povrchu pleti: 80%.&lt;BR&gt;- Zlepšenie tónu pleti a zosvetlenie pigmentových škvŕn.&lt;BR&gt;&lt;BR&gt;* % žien súhlasí; sebahodnotenie pod dermatologickou kontrolou, 25 žien, 45-55 rokov.&lt;BR&gt; ** % pozitívnych výsledkov klinickej štúdie, 10 žien, 45-55 rokov.</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700120534</CODE>
-    <EAN>8592297008163</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Tvár a pleť</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/5/56a269fab4b6f3-b6920b35dd73d1-2542100022610-0.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700120536</CODE>
-      <CODE>-PC497402700120537</CODE>
-      <CODE>-PC497402700120554</CODE>
-      <CODE>-PC497402700120541</CODE>
-      <CODE>-PC497402700120531</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700120545</CODE>
-      <CODE>-PC497402700120553</CODE>
-      <CODE>-PC497402700120526</CODE>
-      <CODE>-PC497402700120530</CODE>
-      <CODE>-PC497402700120535</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>10.15</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Astrid Hyaluronic Gold pleťové sérum proti vráskam, 30 ml</NAME>
@@ -37425,67 +36754,6 @@ Varianta - Prsné</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>KOH-I-NOOR ceruzka čierna</NAME>
-    <SHORT_DESCRIPTION>Čierna farebná ceruzka KOH-I-NOOR vhodná na kreslenie, skicovanie aj vyfarbovanie. Predaj na kusy – cena za 1 ks.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p data-start="341" data-end="565"&gt;Farebná ceruzka KOH-I-NOOR v čiernej farbe je určená na každodenné kreslenie, skicovanie aj školské a výtvarné práce. Vyznačuje sa rovnomerným ťahom a dobrým krytím, vďaka čomu je ideálna na kontúry, tiene aj detailnú prácu.&lt;/p&gt;
-&lt;p data-start="567" data-end="751"&gt;Kvalitné spracovanie zaručuje pohodlné držanie a jednoduchú manipuláciu pri kreslení. Ceruzka je vhodná pre deti, študentov aj hobby kresličov a dobre sa kombinuje s ostatnými farbami.&lt;/p&gt;
-&lt;p data-start="753" data-end="816"&gt;Produkt je predávaný &lt;strong data-start="774" data-end="815"&gt;samostatne – cena je uvedená za 1 kus&lt;/strong&gt;.&lt;/p&gt;
-&lt;p data-start="818" data-end="842"&gt;&lt;strong data-start="818" data-end="842"&gt;Vlastnosti produktu:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul data-start="843" data-end="953"&gt;
-&lt;li data-start="843" data-end="860"&gt;
-&lt;p data-start="845" data-end="860"&gt;farba: čierna&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="861" data-end="885"&gt;
-&lt;p data-start="863" data-end="885"&gt;typ: farebná ceruzka&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="886" data-end="935"&gt;
-&lt;p data-start="888" data-end="935"&gt;použitie: kreslenie, skicovanie, vyfarbovanie&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="936" data-end="953"&gt;
-&lt;p data-start="938" data-end="953"&gt;balenie: 1 ks&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700121709</CODE>
-    <EAN>8593539004301</EAN>
-    <CATEGORIES>
-      <CATEGORY>Ostatné</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/2/26a269fc2e199f-t6968f472d970f-34646-2-3221850002ks.webp</IMAGE>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/5/56a269fc2e4ece-f6920b41c224e9-254210008607-0.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700110098</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700124809</CODE>
-      <CODE>-PC497402700120722</CODE>
-      <CODE>-PC497402700124825</CODE>
-      <CODE>-PC497402700124807</CODE>
-      <CODE>-PC497402700123074</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>0.51</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Cif čistiaci sprej na vodný kameň Perfekt Finish, 435 ml</NAME>
     <SHORT_DESCRIPTION>Cif MR Perf.Finish je čistiaci prostriedok určený na odstránenie vodného kameňa. Efektívne čistí a zanecháva lesk.</SHORT_DESCRIPTION>
     <DESCRIPTION>Čistiaci sprej Cif Perfect Finish na vodný kameň je navrhnutý na odstránenie 100% odolného vodného kameňa zo spŕch, batérií a kachličiek, pričom zanecháva povrchy žiarivé. Cif, s viac ako 50-ročnou tradíciou, kombinuje skúsenosti s prírodnými ingredienciami ako citrón pre výnimočnú účinnosť.</DESCRIPTION>
@@ -39138,50 +38406,6 @@ Ideálny na každodenné sprchovanie, vhodný pre všetky typy pokožky, najmä 
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>DIXI Booster na vlasy Kofein žihľava, 200 ml</NAME>
-    <SHORT_DESCRIPTION>Dixi BOOSTER je produkt s extraktem z žihľavy a kofeínom. Pomáha revitalizovať vlasy a podporuje jejich zdravý vzhled.</SHORT_DESCRIPTION>
-    <DESCRIPTION>Kofeínový booster pre intenzívnu starostlivosť o vlasy a pokožku hlavy. Obsahuje žihľavu, kofeín a panthenol, ktoré posilňujú vlasové folikuly a vyživujú pokožku. 97% prírodných zložiek.</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700122488</CODE>
-    <EAN>8586000088269</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o vlasy</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/2/26a269fcfea24c-h6920b44716f57-254240009888-0.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700122476</CODE>
-      <CODE>-PC497402700122477</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700121277</CODE>
-      <CODE>-PC497402700121279</CODE>
-      <CODE>-PC497402700122994</CODE>
-      <CODE>-PC497402700122984</CODE>
-      <CODE>-PC497402700122963</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>6.90</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>DIXI Svište sprchový gél Šťavnatosť jahôdok a malín 400 ml</NAME>
     <SHORT_DESCRIPTION>Čistiaci prostriedok 2v1, ktorý zabezpečuje sviežosť a šťavnatosť. Ideálny na údržbu čistoty v domácnosti.</SHORT_DESCRIPTION>
     <DESCRIPTION>Jemná a starostlivá receptúra bola vytvorená špeciálne pre deti, aby poskytovala šetrnú starostlivosť o ich pokožku.</DESCRIPTION>
@@ -40703,40 +39927,6 @@ Parfémy</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Duck Fresh Discs WC krúžky Mango-verse 36 ml</NAME>
-    <SHORT_DESCRIPTION>Duck Fresh Discs Mango Verse sú čistiace disky s príjemnou vôňou manga. Sú určené na efektívne čistenie toalety.</SHORT_DESCRIPTION>
-    <DESCRIPTION>čistič WC Mango-Verse 1+36 ml</DESCRIPTION>
-    <MANUFACTURER>Duck</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700122848</CODE>
-    <EAN>5000204369731</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; WC, kúpeľňa a sanita</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/v/v6a269fd714f38-06920b46c476ca-254250001683-0.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>3.92</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Duck Fresh Discs Duo WC krúžky Virtual Violet náplň 2x36 ml</NAME>
     <SHORT_DESCRIPTION>Čistič toalety s osviežovačom vzduchu. Efektívne čistí a zanecháva príjemnú vôňu.</SHORT_DESCRIPTION>
     <DESCRIPTION>duo náplň Virtual Violet 2x36 ml</DESCRIPTION>
@@ -42209,57 +41399,6 @@ Kozmetické farbivo</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Garnier hydratačná regeneračná nočná textilná maska Moisture Bomb Night-time 28 g</NAME>
-    <SHORT_DESCRIPTION>Maska dodáva pleti krásny look plný výživy a hydratácie.</SHORT_DESCRIPTION>
-    <DESCRIPTION>Hydratačné zloženie obohatené o kyselinu hyalurónovú, vodu z morských hlbín a chrpu na obnovu a revitalizáciu kožnej bariéry už za 15 minút! Účinok
-Pre hydratáciu, Regeneračný Zloženie 967456 03 - INGREDIENTS: AQUA WATER, PROPYLENE GLYCOL, GLYCERIN, ARGININE, CENTAUREA CYANUS FLOWER WATER, CITRIC ACID, COCO-BETAINE, DIPOTASSIUM GLYCYRRHIZATE, GLYCERYL ACRYLATE ACRYLIC ACID COPOLYMER, HYDROGENATED STARCH HYDROLYSATE, HYDROXYACETOPHENONE, HYDROXYETHYLCELLULOSE, LAVANDULA HYBRIDA OIL, LIMONENE, MANNOSE, MARIS AQUA SEA WATER, P-ANISIC ACID, PEG-40 HYDROGENATED CASTOR OIL, PHENOXYETHANOL, POTASSIUM HYDROXIDE, PROPANEDIOL, PVM MA COPOLYMER, SODIUM HYALURONATE, XANTHAN GUM, PARFUM FRAGRANCE (F.I.L C235660 1). Druh produktu
-Masky Čas použitia
-Nočná</DESCRIPTION>
-    <MANUFACTURER>Garnier</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700124002</CODE>
-    <EAN>3600542385657</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o vlasy</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/5/56a269ff3b5ffa-66920b51558a36-ahr0chm6ly9wawx1bgthlnmzlwnlbnryywwudnnob3n0aw5nlmnsb3vkl3bpbhvsa2ety3ovzmlszxmvaw1hz2vzlziwmjmtmtevbwrfzmmzmtgzmtrimwmwztrlndrkzdhjndrimmvhm2y1yweuanbn.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700123986</CODE>
-      <CODE>-PC497402700123984</CODE>
-      <CODE>-PC497402700123992</CODE>
-      <CODE>-PC497402700123993</CODE>
-      <CODE>-PC497402700123994</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700124003</CODE>
-      <CODE>-PC497402700120527</CODE>
-      <CODE>-PC497402700120554</CODE>
-      <CODE>-PC497402700120556</CODE>
-      <CODE>-PC497402700120557</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>2.80</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Garnier zjemňujúci pleťový toner Rose, 200 ml</NAME>
     <DESCRIPTION>Jemná pleťová voda s ochranným extraktom z ruže a provitamínom B5 šetrne odstraňuje posledné zvyšky nečistôt z pokožky. Táto pleťová voda je ideálna pre každodenné použitie a zanecháva pleť osvieženú a čistú. Druh produktu
 Vody Pôvod
@@ -42781,35 +41920,6 @@ Francúzsko</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Glade Touch &amp; Fresh náplň Ocean Adventure 10 ml</NAME>
-    <MANUFACTURER>Glade</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700124268</CODE>
-    <EAN>5000204077124</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Osviežovače vzduchu</CATEGORY>
-    </CATEGORIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>3.55</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Glade Touch &amp; Fresh náplň Relaxing Zen 10 ml</NAME>
     <MANUFACTURER>Glade</MANUFACTURER>
     <ITEM_TYPE>product</ITEM_TYPE>
@@ -42905,40 +42015,6 @@ Francúzsko</DESCRIPTION>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Glade Reed Diffuser Romantic Vanilla Blossom 50 ml</NAME>
-    <SHORT_DESCRIPTION>Vonné tyčinky Glade s vôňou vanilky sú ideálne na osvieženie každej miestnosti. Dlhodobo trvajúca vôňa až 5 týždňov.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Vonné tyčinky Glade s vôňou vanilky sú skvelým spôsobom, ako vytvoriť príjemnú atmosféru vo vašej domácnosti. S dlhodobo trvajúcou vôňou, ktorá vydrží minimálne 5 týždňov, sú vhodné do každej miestnosti.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Dlhodobo trvajúca vôňa až 5 týždňov.&lt;/li&gt;&lt;li&gt;Vhodné do každej miestnosti v domácnosti.&lt;/li&gt;&lt;li&gt;Obsahujú esenciálne oleje z ich prirodzeného výskytu.&lt;/li&gt;&lt;li&gt;Neobsahujú parabény, ftaláty ani pridané farbivá.&lt;/li&gt;&lt;li&gt;Jednoduché použitie s jasným návodom.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Použitie:&lt;/strong&gt; Stačí vložiť tyčinky do fľaštičky a rozprestrieť ich.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; Udržujte fľaštičku vo zvislej polohe na rovnom povrchu.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Glade</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700124285</CODE>
-    <EAN>5000204395280,5000204395273</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Osviežovače vzduchu</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/0/06a269ffb5e2a3-c69738bcdf16d2-254250007291-0.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>7.01</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Glade Reed Diffuser Vanilla Cream Cookie – vonný difuzér</NAME>
@@ -44440,54 +43516,6 @@ Francúzsko</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Head &amp; Shoulders šampón Classic Clean 400 ml</NAME>
-    <SHORT_DESCRIPTION>Šampón H&amp;S Classic Clean je určený na každodenné čistenie vlasov. Pomáha odstraňovať nečistoty a zanecháva vlasy svieže.</SHORT_DESCRIPTION>
-    <DESCRIPTION>Šampón H&amp;S Classic Clean je ideálny na každodennú starostlivosť o vlasy. Efektívne odstraňuje nečistoty a zanecháva vlasy svieže a čisté.</DESCRIPTION>
-    <MANUFACTURER>Head</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700124539</CODE>
-    <EAN>8006540810538</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o vlasy</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/a/a6a269ffc50bc7-t692db5ae35561-vls965-jpg.webp</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700124525</CODE>
-      <CODE>-PC497402700124538</CODE>
-      <CODE>-PC497402700110259</CODE>
-      <CODE>-PC497402700124540</CODE>
-      <CODE>-PC497402700124543</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700121286</CODE>
-      <CODE>-PC497402700121276</CODE>
-      <CODE>-PC497402700122478</CODE>
-      <CODE>-PC497402700122570</CODE>
-      <CODE>-PC497402700123838</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>10.71</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Head &amp; Shoulders šampón Menthol Fresh 400 ml</NAME>
     <SHORT_DESCRIPTION>Šampón H&amp;S s mentolom poskytuje osvieženie a čistí vlasy. Je určený na každodenné použitie.</SHORT_DESCRIPTION>
     <DESCRIPTION>Šampón H&amp;S s mentolom prináša osvieženie a čistí vlasy. Vhodný na každodenné použitie.</DESCRIPTION>
@@ -45628,46 +44656,6 @@ Francúzsko</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Lactovit vyživujúce telové mlieko Original 400 ml</NAME>
-    <SHORT_DESCRIPTION>Telové mlieko Lactovit je určené na hydratáciu a výživu pokožky. Obsahuje zložky, ktoré pomáhajú udržiavať jej prirodzenú rovnováhu.</SHORT_DESCRIPTION>
-    <DESCRIPTION>Telové mlieko Lactovit s bambuckým maslom a mliečnymi aktívnymi zložkami intenzívne vyživuje pokožku. Podporuje tvorbu kolagénu a elastínu, čím pomáha udržať mladistvý vzhľad pokožky.</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700125708</CODE>
-    <EAN>8411660650023</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o telo</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/o/o6a26a012a441f-m6920b56d98b5e-254210007460-0.jpeg</IMAGE>
-    </IMAGES>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700121291</CODE>
-      <CODE>-PC497402700122771</CODE>
-      <CODE>-PC497402700123984</CODE>
-      <CODE>-PC497402700125705</CODE>
-      <CODE>-PC497402700125706</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>6.12</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>LED lampáš okrúhly s dvierkami čierny – dekoračné svetlo</NAME>
     <SHORT_DESCRIPTION>Elegantná dekoratívna lucerna v čiernom prevedení s ozdobným vzorom vytvára príjemnú atmosféru pri svetle sviečky. Vhodná na použitie v interiéri aj exteriéri, so závesným úchytom.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p data-start="137" data-end="458"&gt;Štýlová dekoratívna lucerna v elegantnej čiernej farbe je ideálnym doplnkom do interiéru aj exteriéru. Okrúhly tvar s ozdobným vyrezávaným vzorom vytvára po zapálení sviečky príjemnú atmosféru a zaujímavé svetelné efekty. Vďaka praktickému úchytu je vhodná na zavesenie aj voľné postavenie na stôl, terasu či parapet. 🕯️&lt;/p&gt;
@@ -45840,53 +44828,6 @@ Francúzsko</DESCRIPTION>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Lenor vôňa do sušičky April Fresh 34 ks</NAME>
-    <SHORT_DESCRIPTION>Vonné perličky do sušičky s modrou vôňou. Poskytujú dlhodobú sviežosť a príjemnú arómu.</SHORT_DESCRIPTION>
-    <DESCRIPTION>Vonné perličky do sušičky s osviežujúcou modrou vôňou. Zaručujú dlhotrvajúcu sviežosť a príjemnú arómu.</DESCRIPTION>
-    <MANUFACTURER>Lenor</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700125824</CODE>
-    <EAN>8001090747723</EAN>
-    <CATEGORIES>
-      <CATEGORY>Pracie prostriedky &gt; Doplnky do prania</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/i/i6a26a0133cd5e-16920b56fd4d0f-74697-lenor-vonne-obrusky-do-susicky-aprilfrisch-34ks.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700125760</CODE>
-      <CODE>-PC497402700125761</CODE>
-      <CODE>-PC497402700125765</CODE>
-      <CODE>-PC497402700125766</CODE>
-      <CODE>-PC497402700125769</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700121846</CODE>
-      <CODE>-PC497402700121849</CODE>
-      <CODE>-PC497402700121848</CODE>
-      <CODE>-PC497402700121847</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>3.98</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>AiT sekundové lepidlo, 2 g</NAME>
@@ -46387,78 +45328,6 @@ Francúzsko</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Libresse Extra Long intímky, 24 ks</NAME>
-    <DESCRIPTION>Slipové vložky Libresse s pevným povrchom poskytujú spoľahlivú ochranu vašej spodnej bielizne.</DESCRIPTION>
-    <MANUFACTURER>Libresse</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700125861</CODE>
-    <EAN>7322540062656</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Dámska hygiena</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/k/k6a26a0138c58f-16920b5705fb59-254210006814-0.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700125857</CODE>
-      <CODE>-PC497402700125849</CODE>
-      <CODE>-PC497402700125850</CODE>
-      <CODE>-PC497402700125851</CODE>
-      <CODE>-PC497402700125852</CODE>
-    </RELATED_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>1.77</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Lidie hygienické vložky Normal, 16 ks</NAME>
-    <DESCRIPTION>Menštruačné vložky s jemným povrchom, ktoré vďaka anatomickému tvaru spoľahlivo držia na mieste. Balenie obsahuje 16 kusov.</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700125864</CODE>
-    <EAN>5029053533148</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Dámska hygiena</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/p/p6a26a0138fc99-n6920b57066dc3-254210005673-0.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>1.56</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Lilien krémové tekuté mydlo Med, 1 l</NAME>
     <SHORT_DESCRIPTION>Lilien Honey je produkt s medom, ideálny na hydratáciu pleti. Vhodný na každodenné použitie.</SHORT_DESCRIPTION>
     <DESCRIPTION>Jemné tekuté mydlo s medovým extraktom v litrovej fľaši. Objem: 1 l</DESCRIPTION>
@@ -46724,56 +45593,6 @@ Francúzsko</DESCRIPTION>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Listerine ústna voda Cool Mint Mild 1000 ml</NAME>
-    <SHORT_DESCRIPTION>Listerine Cool Mint Mild osviežuje dych a bojuje proti povlaku.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Antiseptická ústna voda s mild mätou.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti / výhody: &lt;/strong&gt;Redukuje povlak, antibakteriálny účinok, svieži dych.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Použitie:&lt;/strong&gt; Vyplachovať 30 sekúnd.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Obsah:&lt;/strong&gt; 1000 ml&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700125996</CODE>
-    <EAN>3574661744858</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Ústna hygiena</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/h/h6a26a014520a8-h69335f4537c5a-zub1723.jpeg</IMAGE>
-    </IMAGES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC497402700125997</CODE>
-      <CODE>-PC497402700110324</CODE>
-      <CODE>-PC497402700125998</CODE>
-      <CODE>-PC497402700110327</CODE>
-      <CODE>-PC497402700110328</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC497402700110460</CODE>
-      <CODE>-PC497402700110505</CODE>
-      <CODE>-PC497402700110324</CODE>
-      <CODE>-PC497402700125998</CODE>
-      <CODE>-PC497402700110327</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>8.10</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Listerine ústna voda Total Care Teeth Protection, 1000 ml</NAME>
@@ -48076,37 +46895,6 @@ Francúzsko</DESCRIPTION>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Bupi Baby mydlo s nechtíkom 100 g</NAME>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700126630</CODE>
-    <EAN>8585000750596</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Mydlá</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/s/s6a58e52ebf7a7-46920b587dc186-s6920b587db217.png</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>0.55</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Voux toaletné mydlo Green Tea &amp; Lemon 100 g</NAME>
@@ -49973,34 +48761,6 @@ Francúzsko</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Odol ústna voda Stoma 500 ml</NAME>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700127368</CODE>
-    <EAN>5054563107787,5054563259066</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Ústna hygiena</CATEGORY>
-    </CATEGORIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>3.57</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Odol zubná kefka Classic Duo 2 ks</NAME>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
@@ -50477,37 +49237,6 @@ Francúzsko</DESCRIPTION>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Old Spice sprchový gél Captain 3v1 1 000 ml</NAME>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700127446</CODE>
-    <EAN>8006540818824</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Starostlivosť o telo</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/1/16a58e5385fd66-i6920b5b4aaa90-254230003978-0.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>6.55</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Old Spice sprchový gél a šampón Night Panther 1 l</NAME>
@@ -54547,38 +53276,6 @@ Francúzsko</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>FINO Zeus FLEX LD vrecia na odpad so zaťahovacou páskou 70 l, 8 ks</NAME>
-    <MANUFACTURER>Fino</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700129134</CODE>
-    <EAN>5201314160786</EAN>
-    <CATEGORIES>
-      <CATEGORY>Obalový materiál a vrecia &gt; Vrecia a sáčky</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/7/76a58e54247a98-n6920b6182bbdc-254220001173-0.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>1.64</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Sáčky do koša HDPE 55x65cm 15ks Leva</NAME>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
@@ -54782,70 +53479,6 @@ Francúzsko</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Sanytol dezinfekčný univerzálny čistiaci prostriedok Grapefruit 500 ml</NAME>
-    <MANUFACTURER>Sanytol</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700129187</CODE>
-    <EAN>3045206312066</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Dezinfekcia a bielidlá</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/f/f6a58e5426b162-j6920b61c576c7-254210002932-0.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>4.06</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Sanytol dezinfekčný čistiaci prostriedok na kuchyne 500 ml</NAME>
-    <MANUFACTURER>Sanytol</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700129189</CODE>
-    <EAN>3045206392006</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Dezinfekcia a bielidlá</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/5/56a58e5426caa3-b6920b61c639b0-254210002943-0.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>4.28</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Sanytol dezinfekčný univerzálny čistiaci prostriedok 4v1 Pure 500 ml</NAME>
     <MANUFACTURER>Sanytol</MANUFACTURER>
     <ITEM_TYPE>product</ITEM_TYPE>
@@ -54940,38 +53573,6 @@ Francúzsko</DESCRIPTION>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Sanytol dezinfekčný prací gél Sviežosť 1700 ml 34 PD</NAME>
-    <MANUFACTURER>Sanytol</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700129194</CODE>
-    <EAN>3045206381321</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Dezinfekcia a bielidlá</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a58e544a79f8-s6920b61cdc2d4-v6920b61cdbd8c.png</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>17.33</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Sanytol dezinfekčný gél na ruky 500 ml</NAME>
@@ -56427,37 +55028,6 @@ Francúzsko</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Tesori d'Oriente osviežovač vzduchu Ayurveda 250 ml</NAME>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700130262</CODE>
-    <EAN>8008970050423</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Osviežovače vzduchu</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/z/z6a58e54cd97c8-k6920b65658f0d-254250001983-0.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>6.05</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Tesori d'Oriente osviežovač vzduchu Hammam 250 ml</NAME>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
@@ -56487,37 +55057,6 @@ Francúzsko</DESCRIPTION>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Tesori d'Oriente osviežovač vzduchu White Musk 250 ml</NAME>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700130264</CODE>
-    <EAN>8008970050409</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Osviežovače vzduchu</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/r/r6a58e54cdf625-n6920b6566ae27-254250001981-0.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>5.32</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Tesori d'Oriente parfémovaná voda Forest Ritual 100 ml</NAME>
@@ -57722,34 +56261,6 @@ Francúzsko</DESCRIPTION>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Vademecum zubná pasta Natural Anti-Cavity, 75 ml</NAME>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700131427</CODE>
-    <EAN>3838824029191</EAN>
-    <CATEGORIES>
-      <CATEGORY>Osobná hygiena a kozmetika &gt; Ústna hygiena</CATEGORY>
-    </CATEGORIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>1.88</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Vanish gélový odstraňovač škvŕn Oxi Action Pink, 500 ml</NAME>
@@ -59612,38 +58123,6 @@ Francúzsko</DESCRIPTION>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Sensodyne ZP 75ml Clinical RAW White</NAME>
-    <MANUFACTURER>Sensodyne</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700132369</CODE>
-    <EAN>5054563236722</EAN>
-    <CATEGORIES>
-      <CATEGORY>Ostatné</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/j/j6a58e5558aad8-p6974eb605c644-254250001508-0.jpeg</IMAGE>
-    </IMAGES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>5.21</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>STR8 deo sprej 150ml Red Code</NAME>
@@ -61924,35 +60403,6 @@ Francúzsko</DESCRIPTION>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Glade Automatic NN 269ml MandarinkaDream</NAME>
-    <MANUFACTURER>Glade</MANUFACTURER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC497402700133217</CODE>
-    <EAN>5000204420647,5000204420630</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Osviežovače vzduchu</CATEGORY>
-    </CATEGORIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>4.75</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>Nivea Men antiperspirant sprej Deep Darkwood 150 ml</NAME>
@@ -68556,70 +67006,6 @@ Francúzsko</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP NOLVIX saponát na riad Lemon 5 L (NOL0522)</NAME>
-    <SHORT_DESCRIPTION>Saponát na umývanie riadu, balenie 5 l. Rozpúšťa mastnotu a zvyšky jedla, dobre pení a z riadu sa ľahko vypláchne.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;NOLVIX saponát na riad Lemon 5 l je saponát na umývanie riadu v balení 5 l. Rozpúšťa mastnotu a zvyšky jedla, dobre pení a z riadu sa ľahko vypláchne.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Použitie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Dávkujte podľa množstva riadu a stupňa znečistenia. Vhodný na ručné umývanie.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Balenie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Veľké zásobové balenie je určené pre prevádzky s vysokou spotrebou — cena za liter je nižšia než pri malých baleniach.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Balenie 5 l&lt;/li&gt;
-&lt;li&gt;Saponát na umývanie riadu&lt;/li&gt;
-&lt;li&gt;Veľké zásobové balenie&lt;/li&gt;
-&lt;li&gt;Pre domácnosti aj prevádzky&lt;/li&gt;
-&lt;li&gt;Pred použitím si prečítajte etiketu a informácie o výrobku&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Objem:&lt;/strong&gt; 5 l&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49540280023141870</CODE>
-    <EAN>8586028383704</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Kuchynská chémia a odpady</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/d/d6a3e992a7c418-nolvix-5-l-canister-dishwashing-liquid-lemon.jpg</IMAGE>
-    </IMAGES>
-    <TEXT_PROPERTIES>
-      <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>1</VALUE>
-      </TEXT_PROPERTY>
-    </TEXT_PROPERTIES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023132225</CODE>
-      <CODE>-PC49540280023141883</CODE>
-      <CODE>-PC49540280023132058</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49540280023141872</CODE>
-      <CODE>-PC49540280023141865</CODE>
-      <CODE>-PC49540280023141866</CODE>
-      <CODE>-PC49540280023141867</CODE>
-      <CODE>-PC49540280023141868</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>4.99</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>HP NOLVIX saponát na riad Pomegranate 1 l (NOL0521)</NAME>
     <SHORT_DESCRIPTION>Saponát na umývanie riadu, balenie 1 l. Rozpúšťa mastnotu a zvyšky jedla, dobre pení a z riadu sa ľahko vypláchne.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;NOLVIX saponát na riad Pomegranate 1 l je saponát na umývanie riadu v balení 1 l. Rozpúšťa mastnotu a zvyšky jedla, dobre pení a z riadu sa ľahko vypláchne.&lt;/p&gt;
@@ -73685,54 +72071,6 @@ Francúzsko</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP Optimax Detergent 20 L</NAME>
-    <SHORT_DESCRIPTION>Koncentrovaný alkalický prostriedok na strojové umývanie riadu, balenie 20 l. Odstraňuje mastnotu a zaschnuté zvyšky jedla, riad zanecháva čistý a bez škvŕn.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p dir="ltr"&gt;Optimax Detergent umývací prostriedok do profesionálnych umývačiek riadu, 20 l je koncentrovaný kvapalný prostriedok na strojové umývanie riadu, skla a príborov v balení 20 l. Obsahuje sekvestranty, preto je účinný aj v tvrdej vode. Spoľahlivo odstraňuje silné znečistenie a mastnotu, ľahko sa oplachuje a nezanecháva povlaky ani škvrny.&lt;br&gt;Použitie&lt;br&gt;Dávkujte 1–3 g/l podľa tvrdosti vody a stupňa znečistenia pomocou dávkovacieho zariadenia umývačky. Len na profesionálne použitie.&lt;br&gt;Balenie&lt;br&gt;Veľké zásobové balenie pre prevádzky s vysokou spotrebou a automatickým dávkovaním — cena za liter je nižšia než pri 5 l balení.&lt;br&gt;Vlastnosti:&lt;/p&gt;
-&lt;ul dir="ltr"&gt;
-&lt;li&gt;Balenie 20 l&lt;/li&gt;
-&lt;li&gt;Prostriedok na strojové umývanie riadu&lt;/li&gt;
-&lt;li&gt;Účinný aj v tvrdej vode&lt;/li&gt;
-&lt;li&gt;Veľké zásobové balenie&lt;/li&gt;
-&lt;li&gt;Pre prevádzky&lt;/li&gt;
-&lt;li&gt;Obsahuje hydroxid sodný — pred použitím si prečítajte etiketu a kartu bezpečnostných údajov&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p dir="ltr"&gt;Objem: 20 l&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49540280023231765</CODE>
-    <EAN>7615400168200</EAN>
-    <CATEGORIES>
-      <CATEGORY>Čistiace prostriedky &gt; Kuchynská chémia a odpady</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/o/o6aa50a8a513c7-div-100842643-pc-1d3034db.jpg</IMAGE>
-    </IMAGES>
-    <TEXT_PROPERTIES>
-      <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>1</VALUE>
-      </TEXT_PROPERTY>
-    </TEXT_PROPERTIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>71.34</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>HP Optimax Detergent 5 L</NAME>
     <SHORT_DESCRIPTION>Koncentrovaný alkalický prostriedok na strojové umývanie riadu, balenie 5 l. Odstraňuje mastnotu a zaschnuté zvyšky jedla, riad zanecháva čistý a bez škvŕn.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p dir="ltr"&gt;Optimax Detergent umývací prostriedok do profesionálnych umývačiek riadu, 5 l je koncentrovaný kvapalný prostriedok na strojové umývanie riadu, skla a príborov v balení 5 l. Obsahuje sekvestranty, preto je účinný aj v tvrdej vode. Spoľahlivo odstraňuje silné znečistenie a mastnotu, ľahko sa oplachuje a nezanecháva povlaky ani škvrny.&lt;br&gt;Použitie&lt;br&gt;Dávkujte 1–3 g/l podľa tvrdosti vody a stupňa znečistenia pomocou dávkovacieho zariadenia umývačky. Len na profesionálne použitie.&lt;br&gt;Balenie&lt;br&gt;Zásobové balenie pre reštaurácie, hotely, jedálne a školské kuchyne s profesionálnou umývačkou riadu.&lt;br&gt;Vlastnosti:&lt;/p&gt;
@@ -74488,53 +72826,6 @@ Francúzsko</DESCRIPTION>
       </WAREHOUSES>
     </STOCK>
     <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>HP Toaletný papier Ooops Star Trio 3vr, 10 ks</NAME>
-    <SHORT_DESCRIPTION>Trojvrstvový biely toaletný papier zo 100 % celulózy, bez vône, balenie 10 roliek. Jemný, pevný a savý, na každodenné použitie v domácnosti aj prevádzke.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p dir="ltr"&gt;Toaletný papier Ooops Star Trio 3vr, 10 ks je trojvrstvový toaletný papier vysokej kvality v balení 10 roliek. Vyrobený zo 100 % celulózy, bielený ekologickým spôsobom bez chlóru, neparfumovaný – vhodný aj pre citlivú pokožku. Každá rolka má 85 útržkov a návin 9,6 m. Papier je jemný na dotyk a zároveň pevný, dobre sa rozkladá vo vode.&lt;br&gt;Vrstvy a komfort&lt;br&gt;Trojvrstvové prevedenie prináša vyššiu savosť a mäkkosť než bežný dvojvrstvový papier a znižuje spotrebu. Čisto biela farba bez vône a potlače vyhovuje domácnostiam aj zariadeniam, kde sa parfumované papiere nehodia.&lt;br&gt;Praktické informácie&lt;br&gt;Štandardná rolka do bežných domácich aj hotelových držiakov. Balenie 10 roliek je vhodné pre domácnosti, kancelárie, penzióny a menšie prevádzky.&lt;br&gt;Vlastnosti:&lt;/p&gt;
-&lt;ul dir="ltr"&gt;
-&lt;li&gt;3-vrstvový&lt;/li&gt;
-&lt;li&gt;Balenie 10 roliek&lt;/li&gt;
-&lt;li&gt;85 útržkov, návin 9,6 m na rolku&lt;/li&gt;
-&lt;li&gt;Materiál: 100 % celulóza, bez chlóru&lt;/li&gt;
-&lt;li&gt;Bez vône, biely&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p dir="ltr"&gt;Vrstvy: 3-vrstvový&lt;br&gt;Balenie: 10 ks&lt;br&gt;Útržky: 85 na rolku&lt;br&gt;Návin: 9,6 m&lt;br&gt;Materiál: celulóza&lt;br&gt;Farba: biela&lt;br&gt;Vôňa: bez vône&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49640280023232382</CODE>
-    <EAN>5998648703597</EAN>
-    <CATEGORIES>
-      <CATEGORY>Papierový program &gt; Toaletný papier</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/y/y6abd1dc8b4b79-97940-752-1200x630w.jpg</IMAGE>
-    </IMAGES>
-    <TEXT_PROPERTIES>
-      <TEXT_PROPERTY>
-        <NAME>Počet kusov na palete</NAME>
-        <VALUE>192</VALUE>
-      </TEXT_PROPERTY>
-    </TEXT_PROPERTIES>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>1.88</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>0</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Nie je na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
     <NAME>HP Jar Professional ultra silný odmasťovač 750 ml</NAME>
