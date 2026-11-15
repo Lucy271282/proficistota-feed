@@ -250,7 +250,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5829</VALUE>
+          <VALUE>5799</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -699,7 +699,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>13863</VALUE>
+          <VALUE>13879</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2538,6 +2538,67 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>HP Zmetáková súprava plastová sklopná na tyči Set Delux</NAME>
+    <SHORT_DESCRIPTION>Zmetáková súprava s lopatkou na tyči — na zametanie bez zohýbania. Lopatka aj zmeták sú na dlhej tyči, takže pozametáte a pozbierate smeti postojačky.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Zmetáková súprava plastová sklopná na tyči Set Delux je zmetáková súprava s lopatkou na tyči — na zametanie bez zohýbania.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Čím pomôže&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lopatka aj zmeták sú na dlhej tyči, takže pozametáte a pozbierate smeti postojačky.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kde sa hodí&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;V domácnosti, kancelárii aj v prevádzke. Náradie po použití opláchnite a nechajte vyschnúť, vydrží tak podstatne dlhšie.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zmetáková súprava s lopatkou na tyči&lt;/li&gt;
+&lt;li&gt;Pre domácnosti aj prevádzky&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023131712</CODE>
+    <EAN>8586028380499</EAN>
+    <CATEGORIES>
+      <CATEGORY>Upratovacie pomôcky &gt; Metly, kefy a lopatky</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/m/m6a675643b8fb3-hf-20260726-094534-a7a7522b-ff92-4933-af28-a2c93da2c134.png</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC49540280023133281</CODE>
+      <CODE>-PC49540280023141883</CODE>
+      <CODE>-PC49540280023132175</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC49540280023131641</CODE>
+      <CODE>-PC49540280023131642</CODE>
+      <CODE>-PC49540280023131665</CODE>
+      <CODE>-PC49540280023131666</CODE>
+      <CODE>-PC49540280023131668</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>4.69</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>40</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>HP Držiak mopu mechanický fliprový, 50 cm</NAME>
     <SHORT_DESCRIPTION>Držiak mopu MAGNET FLIPPER so šírkou 50 cm na mokré stieranie podláh. Kombinuje magnetickú fixáciu s klapkovým systémom FLIPPER — mop nasadíte aj zložíte bez dotyku rukami. Nasadzuje sa na násadu so závitom.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Držiak mopu MAGNET FLIPPER so šírkou 50 cm je určený na mokré stieranie podláh s plochými mopmi. Nasadzuje sa na násadu so závitom a tvorí základ profesionálnej upratovacej zostavy.&lt;/p&gt;
@@ -3104,6 +3165,69 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>HP Krezosan Fresh Plus dezinfekčný čistiaci prostriedok 950 ml</NAME>
+    <SHORT_DESCRIPTION>Dezinfekčný čistiaci prostriedok, balenie 950 ml. Čistí a zároveň znižuje počet mikroorganizmov na ošetrenom povrchu.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Krezosan Fresh Plus dezinfekčný čistiaci prostriedok 950 ml je dezinfekčný čistiaci prostriedok v balení 950 ml. Čistí a zároveň znižuje počet mikroorganizmov na ošetrenom povrchu.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Použitie&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Riaďte sa dávkovaním a dobou pôsobenia uvedenou na obale.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Balenie&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Balenie je určené na bežnú spotrebu v domácnosti aj v menšej prevádzke.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Balenie 950 ml&lt;/li&gt;
+&lt;li&gt;Dezinfekčný čistiaci prostriedok&lt;/li&gt;
+&lt;li&gt;Pre domácnosti aj prevádzky&lt;/li&gt;
+&lt;li&gt;Pred použitím si prečítajte etiketu a informácie o výrobku&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Objem:&lt;/strong&gt; 950 ml&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023131805</CODE>
+    <EAN>8585003910157</EAN>
+    <CATEGORIES>
+      <CATEGORY>Čistiace prostriedky &gt; Dezinfekcia a bielidlá</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/66928490d2cd51-2542100016612-0.jpeg</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC49540280023141883</CODE>
+      <CODE>-PC49540280023132058</CODE>
+      <CODE>-PC49540280023132046</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC495402800231111</CODE>
+      <CODE>-PC49540280023131578</CODE>
+      <CODE>-PC49540280023131623</CODE>
+      <CODE>-PC49540280023131800</CODE>
+      <CODE>-PC49540280023131916</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>3.19</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>5</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>HP Clin čistiaci prostriedok na okná All in 1 Lemon 500 ml MR</NAME>
     <SHORT_DESCRIPTION>Clin All in 1 Lemon, 500 ml s rozprašovačom. Na okná, zrkadlá a hladké povrchy — nastrieka sa a utrie, bez šmúh a bez leštenia. Vôňa citróna.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Tekutý čistič okien a hladkých povrchov Clin All in 1 Lemon vo fľaši 500 ml s mechanickým rozprašovačom. Odstraňuje prach, mastné stopy a odtlačky prstov a zanecháva sklo číre bez šmúh.&lt;/p&gt;
@@ -3162,6 +3286,72 @@
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>89055</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>HP Ajax univerzálny čistič na podlahy a povrchy Floral Fiesta Lagoon Flowers, 1 l</NAME>
+    <SHORT_DESCRIPTION>Univerzálny čistiaci prostriedok Ajax Floral Fiesta Lagoon Flowers na podlahy a umývateľné povrchy. Odstraňuje nečistoty aj mastnotu, nezanecháva šmuhy a netreba ho oplachovať. Vôňa morských kvetov. Objem 1 l.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Univerzálny čistiaci prostriedok Ajax Floral Fiesta Lagoon Flowers na podlahy a všetky umývateľné povrchy. Účinne odstraňuje bežné nečistoty aj mastnotu a zanecháva povrchy čisté, bez šmúh a s vôňou morských kvetov.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vôňa a účinok&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Svieža vôňa morských kvetov s ľahkým vodným tónom, ktorá pôsobí čisto a nevtieravo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Použitie a dávkovanie&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Na bežné upratovanie stačí pridať približne jeden uzáver do 5 litrov vody. Na odolnejšie nečistoty naneste prostriedok neriedený na navlhčenú handru alebo špongiu a povrch utrite. Povrchy nie je potrebné oplachovať.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Univerzálny — podlahy, obklady, dvere aj umývateľný nábytok&lt;/li&gt;
+&lt;li&gt;Čistí bez šmúh a nevyžaduje oplachovanie&lt;/li&gt;
+&lt;li&gt;Koncentrovaný — na vedro vody stačí malé množstvo&lt;/li&gt;
+&lt;li&gt;Vôňa morských kvetov, ktorá v miestnosti vydrží aj po upratovaní&lt;/li&gt;
+&lt;li&gt;Vhodný do domácnosti, kancelárie aj do prevádzky&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Objem:&lt;/strong&gt; 1 l&lt;br&gt;&lt;strong&gt;Typ:&lt;/strong&gt; univerzálny čistiaci prostriedok&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 1 ks&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Ajax</MANUFACTURER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023131825</CODE>
+    <EAN>5900273472908,08718951665033,8714789507729</EAN>
+    <CATEGORIES>
+      <CATEGORY>Čistiace prostriedky &gt; Univerzálne čističe</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/i/i6928490b07f4f-254210005858-0.jpeg</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>600</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC49540280023132058</CODE>
+      <CODE>-PC49540280023141883</CODE>
+      <CODE>-PC49540280023132225</CODE>
+      <CODE>-PC49540280023132175</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC49540280023131824</CODE>
+      <CODE>-PC49540280023131826</CODE>
+      <CODE>-PC49540280023131827</CODE>
+      <CODE>-PC49540280023132102</CODE>
+      <CODE>-PC49540280023132104</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>2.09</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>96</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -4376,6 +4566,70 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>HP Nitrilové jednorazové rukavice Mercator Nitrylex čierne S, 100 ks</NAME>
+    <SHORT_DESCRIPTION>Nitrilové jednorazové rukavice čierna, veľkosť S, balenie 100 ks. Chránia pokožku pri práci s chémiou, potravinami aj pri upratovaní. Na jedno použitie — po ukončení práce sa vyhodia.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Nitrilové jednorazové rukavice Mercator Nitrylex čierne S, 100 ks sú jednorazové rukavice v balení 100 ks, veľkosť S. Chránia pokožku rúk pred chémiou, nečistotami a mikroorganizmami.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti materiálu&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nitril je odolný voči olejom, tukom a mnohým chemikáliám a na rozdiel od latexu nespôsobuje alergiu na latexové proteíny.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kde ich využijete&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vhodné do gastro prevádzok, pri upratovaní, v zdravotníctve, kozmetike aj v domácnosti.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Materiál: nitrilové&lt;/li&gt;
+&lt;li&gt;Veľkosť S&lt;/li&gt;
+&lt;li&gt;Farba čierna&lt;/li&gt;
+&lt;li&gt;Balenie 100 ks&lt;/li&gt;
+&lt;li&gt;Na jedno použitie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Veľkosť:&lt;/strong&gt; S&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 100 ks&lt;br&gt;&lt;strong&gt;Farba:&lt;/strong&gt; čierna&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023131936</CODE>
+    <EAN>5906615035022,5906615035077</EAN>
+    <CATEGORIES>
+      <CATEGORY>Upratovacie pomôcky &gt; Rukavice</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/s/s6a48f0ee6f97d-hf-20260704-112544-212533ff-a440-4a62-a547-a4dbd91f44b6.png</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC49540280023132225</CODE>
+      <CODE>-PC49540280023132058</CODE>
+      <CODE>-PC495402800231111</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC49540280023131875</CODE>
+      <CODE>-PC49540280023131937</CODE>
+      <CODE>-PC49540280023131938</CODE>
+      <CODE>-PC49540280023132206</CODE>
+      <CODE>-PC49540280023131842</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>8.00</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>53</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>HP Savo BotaniTech univerzálny sprej Eukalyptus, 700 ml</NAME>
     <SHORT_DESCRIPTION>Univerzálny čistiaci prostriedok, balenie 700 ml. Odstraňuje bežné nečistoty zo všetkých umývateľných povrchov.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Savo BotaniTech univerzálny sprej Eukalyptus, 700 ml je univerzálny čistiaci prostriedok v balení 700 ml. Odstraňuje bežné nečistoty zo všetkých umývateľných povrchov.&lt;/p&gt;
@@ -4689,7 +4943,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>768</VALUE>
+          <VALUE>780</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -4942,7 +5196,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4</VALUE>
+          <VALUE>9</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -5631,6 +5885,71 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>HP Toaletný papier Jumbo celulóza 2vr, Ø 19 cm/100 m, 12 ks</NAME>
+    <SHORT_DESCRIPTION>Toaletný papier Jumbo Jumbo celulóza, dvojvrstvový, návin 100 m, balenie 12 ks. Veľkokapacitná rola pre vyťažené prevádzky.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Toaletný papier Jumbo celulóza 2vr 19cm/100m 12ks je dvojvrstvový toaletný papier Jumbo s návinom 100 m, v balení 12 ks. Jedna rola nahradí až desať bežných roliek, takže obsluha dopĺňa zásobník podstatne menej často. Formát Jumbo je štandardom pre vyťažené verejné toalety.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vrstvy a komfort&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dvojvrstvové prevedenie je overeným štandardom, ktorý spája dostatočnú pevnosť s priaznivou cenou. Materiál celulóza zaisťuje jemnosť k pokožke.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Praktické informácie&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pred kúpou si overte priemer rolky, ktorý váš zásobník pojme — táto rola má Ø 19 cm.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2-vrstvový&lt;/li&gt;
+&lt;li&gt;Návin 100 m&lt;/li&gt;
+&lt;li&gt;Priemer Ø 19 cm&lt;/li&gt;
+&lt;li&gt;Balenie 12 ks&lt;/li&gt;
+&lt;li&gt;Materiál: celulóza&lt;/li&gt;
+&lt;li&gt;Veľkokapacitná rola Jumbo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Vrstvy:&lt;/strong&gt; 2-vrstvový&lt;br&gt;&lt;strong&gt;Návin:&lt;/strong&gt; 100 m&lt;br&gt;&lt;strong&gt;Priemer:&lt;/strong&gt; Ø 19 cm&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 12 ks&lt;br&gt;&lt;strong&gt;Materiál:&lt;/strong&gt; celulóza&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49640280023131731</CODE>
+    <EAN>8586028380604,8586025680059</EAN>
+    <CATEGORIES>
+      <CATEGORY>Papierový program &gt; Toaletný papier</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/b/b6a23fb2f2b48c-hf-20260606-104546-3b67618a-5ffb-4db1-97e6-15d1842b66b2.png</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>48</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC49540280023131716</CODE>
+      <CODE>-PC49540280023131649</CODE>
+      <CODE>-PC49540280023131850</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC49640280023131836</CODE>
+      <CODE>-PC49640280023131837</CODE>
+      <CODE>-PC49640280023131847</CODE>
+      <CODE>-PC49640280023131848</CODE>
+      <CODE>-PC49640280023131732</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>11.23</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>317</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>HP Toaletný papier Jumbo Soft 2vr, Ø 26 cm/220 m, 6 ks</NAME>
     <SHORT_DESCRIPTION>Toaletný papier Jumbo JUMBO Ø, dvojvrstvový, návin 220 m, balenie 6 ks. Veľkokapacitná rola pre vyťažené prevádzky.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Toaletný papier JUMBO Ø26cm 2vr 220m SOFT 6ks je dvojvrstvový toaletný papier Jumbo s návinom 220 m, v balení 6 ks. Jedna rola nahradí až desať bežných roliek, takže obsluha dopĺňa zásobník podstatne menej často. Formát Jumbo je štandardom pre vyťažené verejné toalety.&lt;/p&gt;
@@ -5811,6 +6130,69 @@
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>1008</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>HP Papierové utierky Autocut celulóza 2vr, Ø 19 cm, 150 m, 38 mm, šírka 21 cm, 6 ks</NAME>
+    <SHORT_DESCRIPTION>Papierová utierka v role, dvojvrstvový, návin 150 m, balenie 6 ks. Savé a pevné — poradia si s rozliatymi tekutinami aj mastnotou.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Utierky Autocut 20cm 2vr 150m 38mm 6ks je papierová utierka v role s návinom 150 m, v balení 6 ks. Dvojvrstvový papier dobre saje a nerozpadne sa hneď po navlhčení.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Na čo ich využijete&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Na utretie rozliatych tekutín, mastnoty z pracovnej dosky, osušenie rúk aj umytého riadu. Väčší priemer rolky znamená menej častú výmenu, čo ocenia prevádzky s vysokou spotrebou.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Balenie a spotreba&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Návin 150 m vystačí na dlhšie obdobie a znižuje cenu za jedno použitie. Rolka sa dá vložiť do zásobníka alebo použiť voľne.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2-vrstvové&lt;/li&gt;
+&lt;li&gt;Návin 150 m&lt;/li&gt;
+&lt;li&gt;Balenie 6 ks&lt;/li&gt;
+&lt;li&gt;Savé a pevné aj po navlhčení&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Vrstvy:&lt;/strong&gt; 2-vrstvový&lt;br&gt;&lt;strong&gt;Návin:&lt;/strong&gt; 150 m&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 6 ks&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49640280023131736</CODE>
+    <EAN>8586023754172,8586028380666</EAN>
+    <CATEGORIES>
+      <CATEGORY>Papierový program &gt; Papierové utierky a obrúsky</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/g/g6a2330b547e80-hf-20260605-202032-2d10b7d7-1d54-4a19-a4f5-71899ebdff8b.png</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>44</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC49540280023131716</CODE>
+      <CODE>-PC49540280023131655</CODE>
+      <CODE>-PC49540280023141883</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC49540280023132046</CODE>
+      <CODE>-PC49540280023132058</CODE>
+      <CODE>-PC49540280023132106</CODE>
+      <CODE>-PC49540280023132108</CODE>
+      <CODE>-PC49540280023132164</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>27.16</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>25</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7277,7 +7659,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>652</VALUE>
+          <VALUE>632</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7515,7 +7897,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>368</VALUE>
+          <VALUE>360</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -8528,7 +8910,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>218</VALUE>
+          <VALUE>217</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9540,6 +9922,132 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>HP Latexové rukavice Mercator bez púdru S, 100 ks</NAME>
+    <SHORT_DESCRIPTION>Upratovacie rukavice, veľkosť S, balenie 100 ks. Opakovane použiteľné, chránia ruky pred vodou a čistiacimi prostriedkami.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Latexové rukavice Mercator bez púdru S, 100 ks sú opakovane použiteľné upratovacie rukavice v balení 100 ks, veľkosť S. Chránia pokožku pred vodou, saponátmi a agresívnejšou chémiou pri upratovaní.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Odolnosť&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Latex je pružný, dobre kopíruje ruku a zachováva cit v prstoch.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kde ich využijete&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pri umývaní riadu, upratovaní kúpeľne a WC, práci so silnejšou chémiou aj v záhrade. Po použití ich opláchnite a nechajte vyschnúť.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Veľkosť S&lt;/li&gt;
+&lt;li&gt;Balenie 100 ks&lt;/li&gt;
+&lt;li&gt;Opakovane použiteľné&lt;/li&gt;
+&lt;li&gt;Na bežné upratovanie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Veľkosť:&lt;/strong&gt; S&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 100 ks&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023132133</CODE>
+    <EAN>5906615032663,5906615032717</EAN>
+    <CATEGORIES>
+      <CATEGORY>Upratovacie pomôcky &gt; Rukavice</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/1/16a48ddea49128-hf-20260704-101256-855fd114-dd11-477f-9d65-06522e9f109b.png</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC49540280023132225</CODE>
+      <CODE>-PC49540280023132058</CODE>
+      <CODE>-PC495402800231111</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC49540280023132134</CODE>
+      <CODE>-PC49540280023132135</CODE>
+      <CODE>-PC49540280023132136</CODE>
+      <CODE>-PC49540280023131842</CODE>
+      <CODE>-PC49540280023131844</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>7.75</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>30</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>HP Latexové rukavice Mercator bez púdru L, 100 ks</NAME>
+    <SHORT_DESCRIPTION>Upratovacie rukavice, veľkosť L, balenie 100 ks. Opakovane použiteľné, chránia ruky pred vodou a čistiacimi prostriedkami.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Latexové rukavice Mercator bez púdru L, 100 ks sú opakovane použiteľné upratovacie rukavice v balení 100 ks, veľkosť L. Chránia pokožku pred vodou, saponátmi a agresívnejšou chémiou pri upratovaní.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Odolnosť&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Latex je pružný, dobre kopíruje ruku a zachováva cit v prstoch.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kde ich využijete&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pri umývaní riadu, upratovaní kúpeľne a WC, práci so silnejšou chémiou aj v záhrade. Po použití ich opláchnite a nechajte vyschnúť.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Veľkosť L&lt;/li&gt;
+&lt;li&gt;Balenie 100 ks&lt;/li&gt;
+&lt;li&gt;Opakovane použiteľné&lt;/li&gt;
+&lt;li&gt;Na bežné upratovanie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Veľkosť:&lt;/strong&gt; L&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 100 ks&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023132135</CODE>
+    <EAN>5906615032687</EAN>
+    <CATEGORIES>
+      <CATEGORY>Upratovacie pomôcky &gt; Rukavice</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/7/76a48ddcd927f5-hf-20260704-101607-4a4d68fb-aeeb-43e3-94df-b0b509d10695.png</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC49540280023132225</CODE>
+      <CODE>-PC49540280023132058</CODE>
+      <CODE>-PC495402800231111</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC49540280023132133</CODE>
+      <CODE>-PC49540280023132134</CODE>
+      <CODE>-PC49540280023132136</CODE>
+      <CODE>-PC49540280023131842</CODE>
+      <CODE>-PC49540280023131844</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>7.75</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>10</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>HP Mercator upratovacie rukavice žlté XL, 1 pár</NAME>
     <SHORT_DESCRIPTION>Upratovacie rukavice žltá, veľkosť XL, balenie 1 pár. Opakovane použiteľné, chránia ruky pred vodou a čistiacimi prostriedkami.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Mercator upratovacie rukavice žlté XL, 1 pár sú opakovane použiteľné upratovacie rukavice v balení 1 pár, veľkosť XL. Chránia pokožku pred vodou, saponátmi a agresívnejšou chémiou pri upratovaní.&lt;/p&gt;
@@ -9662,7 +10170,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>378</VALUE>
+          <VALUE>398</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -12095,7 +12603,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>323</VALUE>
+          <VALUE>329</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13438,6 +13946,70 @@
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>21</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>HP Fre-Pro BOWL CLIP vonná záveska Spiced Apple, 1 ks</NAME>
+    <SHORT_DESCRIPTION>Vonný klip FRE-PRO Bowl Clip Spiced Apple na WC misu. Uchytáva sa na vonkajšiu stranu okraja misy, takže neprichádza do kontaktu s vodou a neprekáža pri čistení. Uvoľňuje hrejivú vôňu jablka a korenia.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;FRE-PRO Bowl Clip Spiced Apple je vonný klip určený na uchytenie na vonkajšiu stranu okraja toaletnej misy. Na rozdiel od klasických závesných blokov neprichádza do kontaktu so splachovanou vodou.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hygienickejšie riešenie&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Keďže klip nevisí vo vnútri misy, nevymýva sa vodou a nezavadzia pri čistení. Miska sa tak dá umyť celá, bez obchádzania bloku.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vôňa a výdrž&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Klip postupne uvoľňuje hrejivú vôňu jablka a korenia do priestoru. Vôňa pôsobí plynulo počas celej životnosti klipu, nie nárazovo pri spláchnutí.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Uchytenie na vonkajšiu stranu okraja misy&lt;/li&gt;
+&lt;li&gt;Neprichádza do kontaktu s vodou&lt;/li&gt;
+&lt;li&gt;Neprekáža pri čistení toalety&lt;/li&gt;
+&lt;li&gt;Vôňa Spiced Apple&lt;/li&gt;
+&lt;li&gt;Balenie 1 ks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 1 ks&lt;br&gt;&lt;strong&gt;Vôňa:&lt;/strong&gt; Spiced Apple&lt;br&gt;&lt;strong&gt;Typ:&lt;/strong&gt; vonný klip na WC misu&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023132235</CODE>
+    <EAN>8594194890483</EAN>
+    <CATEGORIES>
+      <CATEGORY>Čistiace prostriedky &gt; WC, kúpeľňa a sanita</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/l/l698dd4e1cde1f-1046-800x800-1.jpg</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC49540280023131649</CODE>
+      <CODE>-PC49540280023141883</CODE>
+      <CODE>-PC49540280023131850</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC49540280023132190</CODE>
+      <CODE>-PC49540280023132234</CODE>
+      <CODE>-PC49540280023132366</CODE>
+      <CODE>-PC49540280023141890</CODE>
+      <CODE>-PC49540280023131976</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>4.45</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>5</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -17963,6 +18535,68 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>HP Toaletný papier BigSoft Clean 3vr, 150 útržkov, 24 ks</NAME>
+    <SHORT_DESCRIPTION>Toaletný papier BigSoft Clean, trojvrstvový, 150 útržkov, balenie 24 ks. Mimoriadne jemný k pokožke.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Toaletný papier BigSoft Clean 3vr 150 útržkov 24ks je trojvrstvový toaletný papier, v balení 24 ks. Klasické rolky do domácnosti aj do menších prevádzok. Balenie 24 ks vystačí na dlhšie obdobie.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vrstvy a komfort&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trojvrstvové prevedenie zaisťuje mäkkosť aj pevnosť — papier sa pri použití neroztrhne.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Praktické informácie&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Balenie 24 ks znižuje cenu za rolku a vystačí na dlhšie obdobie, takže nemusíte nakupovať tak často. Každá rolka má 150 útržkov.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3-vrstvový&lt;/li&gt;
+&lt;li&gt;150 útržkov&lt;/li&gt;
+&lt;li&gt;Balenie 24 ks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Vrstvy:&lt;/strong&gt; 3-vrstvový&lt;br&gt;&lt;strong&gt;Útržky:&lt;/strong&gt; 150 útržkov&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 24 ks&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49640280023131869</CODE>
+    <EAN>8594042234230</EAN>
+    <CATEGORIES>
+      <CATEGORY>Papierový program &gt; Toaletný papier</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/e/e699ed4bb0b68d-big-soft-clean-toaletny-papier.jpg</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>3</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC49540280023131716</CODE>
+      <CODE>-PC49540280023131649</CODE>
+      <CODE>-PC49540280023131850</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC49640280023131827</CODE>
+      <CODE>-PC49640280023131825</CODE>
+      <CODE>-PC49640280023131826</CODE>
+      <CODE>-PC49640280023131731</CODE>
+      <CODE>-PC49640280023131732</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>7.02</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>12</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>HP Toaletný papier Velvet jemne biely 3vr, 150 útržkov, 24 ks</NAME>
     <SHORT_DESCRIPTION>Toaletný papier Velvet jemne biely, trojvrstvový, 150 útržkov, balenie 24 ks. Mimoriadne jemný k pokožke.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Toaletný papier Velvet jemne biely 3vr 150 útržkov 24ks je trojvrstvový toaletný papier, v balení 24 ks. Klasické rolky do domácnosti aj do menších prevádzok. Balenie 24 ks vystačí na dlhšie obdobie.&lt;/p&gt;
@@ -18585,7 +19219,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>48</VALUE>
+          <VALUE>38</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -18714,6 +19348,70 @@
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>285</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>HP Latexové rukavice ARMOUR bez púdru biele XL, 100 ks</NAME>
+    <SHORT_DESCRIPTION>Upratovacie rukavice biela, veľkosť XL, balenie 100 ks. Opakovane použiteľné, chránia ruky pred vodou a čistiacimi prostriedkami.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Latexové rukavice ARMOUR bez púdru biele XL, 100 ks sú opakovane použiteľné upratovacie rukavice v balení 100 ks, veľkosť XL. Chránia pokožku pred vodou, saponátmi a agresívnejšou chémiou pri upratovaní.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Odolnosť&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Latex je pružný, dobre kopíruje ruku a zachováva cit v prstoch.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kde ich využijete&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pri umývaní riadu, upratovaní kúpeľne a WC, práci so silnejšou chémiou aj v záhrade. Po použití ich opláchnite a nechajte vyschnúť.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Veľkosť XL&lt;/li&gt;
+&lt;li&gt;Farba biela&lt;/li&gt;
+&lt;li&gt;Balenie 100 ks&lt;/li&gt;
+&lt;li&gt;Opakovane použiteľné&lt;/li&gt;
+&lt;li&gt;Na bežné upratovanie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Veľkosť:&lt;/strong&gt; XL&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 100 ks&lt;br&gt;&lt;strong&gt;Farba:&lt;/strong&gt; biela&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023132321</CODE>
+    <EAN>8904435200207</EAN>
+    <CATEGORIES>
+      <CATEGORY>Upratovacie pomôcky &gt; Rukavice</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6a48e1759d831-hf-20260704-102713-17760fef-a3b5-4536-9fc9-fce347397e7b.png</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC49540280023132225</CODE>
+      <CODE>-PC49540280023132058</CODE>
+      <CODE>-PC495402800231111</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC49540280023132319</CODE>
+      <CODE>-PC49540280023132320</CODE>
+      <CODE>-PC49540280023132322</CODE>
+      <CODE>-PC49540280023131749</CODE>
+      <CODE>-PC49540280023131752</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>7.75</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>31</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -24043,6 +24741,70 @@
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>454</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>HP Nitrilové jednorazové rukavice Softclinic čierne S, 100 ks</NAME>
+    <SHORT_DESCRIPTION>Nitrilové jednorazové rukavice čierna, veľkosť S, balenie 100 ks. Chránia pokožku pri práci s chémiou, potravinami aj pri upratovaní. Na jedno použitie — po ukončení práce sa vyhodia.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Nitrilové jednorazové rukavice Softclinic čierne S, 100 ks sú jednorazové rukavice v balení 100 ks, veľkosť S. Chránia pokožku rúk pred chémiou, nečistotami a mikroorganizmami.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti materiálu&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nitril je odolný voči olejom, tukom a mnohým chemikáliám a na rozdiel od latexu nespôsobuje alergiu na latexové proteíny.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kde ich využijete&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vhodné do gastro prevádzok, pri upratovaní, v zdravotníctve, kozmetike aj v domácnosti.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Materiál: nitrilové&lt;/li&gt;
+&lt;li&gt;Veľkosť S&lt;/li&gt;
+&lt;li&gt;Farba čierna&lt;/li&gt;
+&lt;li&gt;Balenie 100 ks&lt;/li&gt;
+&lt;li&gt;Na jedno použitie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Veľkosť:&lt;/strong&gt; S&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 100 ks&lt;br&gt;&lt;strong&gt;Farba:&lt;/strong&gt; čierna&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023132377</CODE>
+    <EAN>8592991444922,8592991454921</EAN>
+    <CATEGORIES>
+      <CATEGORY>Upratovacie pomôcky &gt; Rukavice</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/d/d6a4939d579f29-hf-20260704-163729-6be88f64-e586-410d-a49d-d978b7426350.png</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>10</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC49540280023132225</CODE>
+      <CODE>-PC49540280023132058</CODE>
+      <CODE>-PC495402800231111</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC49540280023131752</CODE>
+      <CODE>-PC49540280023131767</CODE>
+      <CODE>-PC49540280023131794</CODE>
+      <CODE>-PC49540280023131796</CODE>
+      <CODE>-PC49540280023131797</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>8.00</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>137</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -66708,7 +67470,7 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5873</VALUE>
+          <VALUE>5863</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -66772,7 +67534,7 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4909</VALUE>
+          <VALUE>4899</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -67559,6 +68321,70 @@ Francúzsko</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>HP Fre-Pro WAVE 3D pisoárove sitko Cotton Blossom, 1 ks</NAME>
+    <SHORT_DESCRIPTION>Vonné pisoárové sitko FRE-PRO Wave 3D Cotton Blossom, balenie 1 ks. Obmedzuje rozstrek moču, chráni odtok pred upchatím a uvoľňuje jemnú kvetinovú vôňu kvetu bavlny.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;FRE-PRO Wave 3D Cotton Blossom je vonné pisoárové sitko v balení 1 ks. Tvarovaný povrch tlmí dopad prúdu a obmedzuje rozstrek mimo pisoár, takže podlaha okolo zostáva čistejšia.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ochrana odtoku&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sitko zachytáva nedopalky, papier a hrubé nečistoty, ktoré by inak upchali odtok. Údržba pisoára je vďaka tomu jednoduchšia a menej častá.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vôňa a výdrž&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sitko uvoľňuje jemnú kvetinovú vôňu kvetu bavlny a potláča pachy priamo pri zdroji. Vhodné do prevádzok s vysokou návštevnosťou.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Balenie 1 ks&lt;/li&gt;
+&lt;li&gt;Rad Wave 3D&lt;/li&gt;
+&lt;li&gt;Obmedzuje rozstrek moču&lt;/li&gt;
+&lt;li&gt;Chráni odtok pred upchatím&lt;/li&gt;
+&lt;li&gt;Vôňa Cotton Blossom&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 1 ks&lt;br&gt;&lt;strong&gt;Vôňa:&lt;/strong&gt; Cotton Blossom&lt;br&gt;&lt;strong&gt;Rad:&lt;/strong&gt; FRE-PRO Wave 3D&lt;br&gt;&lt;strong&gt;Určenie:&lt;/strong&gt; pisoáre&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023141893</CODE>
+    <EAN>8594194892173</EAN>
+    <CATEGORIES>
+      <CATEGORY>Čistiace prostriedky &gt; WC, kúpeľňa a sanita</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/b/b6a5895737d334-fre-pro-wave-3d-vonne-sitko-do-pisoara-cotton-blossom-1-ks-1.png</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>100</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC49540280023131649</CODE>
+      <CODE>-PC49540280023141883</CODE>
+      <CODE>-PC49540280023131850</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC49540280023132238</CODE>
+      <CODE>-PC49540280023132239</CODE>
+      <CODE>-PC49540280023132240</CODE>
+      <CODE>-PC49540280023141856</CODE>
+      <CODE>-PC49540280023141894</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>4.45</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>100</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>HP Fre-Pro WAVE 3D pisoárove sitko Cucumber Melon, 1 ks</NAME>
     <SHORT_DESCRIPTION>Vonné pisoárové sitko FRE-PRO Wave 3D Cucumber Melon, balenie 1 ks. Obmedzuje rozstrek moču, chráni odtok pred upchatím a uvoľňuje čistú vôňu uhorky a melónu.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;FRE-PRO Wave 3D Cucumber Melon je vonné pisoárové sitko v balení 1 ks. Tvarovaný povrch tlmí dopad prúdu a obmedzuje rozstrek mimo pisoár, takže podlaha okolo zostáva čistejšia.&lt;/p&gt;
@@ -67617,6 +68443,70 @@ Francúzsko</DESCRIPTION>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>106</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>HP Fre-Pro WAVE 3D pisoárove sitko Mango, 1 ks</NAME>
+    <SHORT_DESCRIPTION>Vonné pisoárové sitko FRE-PRO Wave 3D Mango, balenie 1 ks. Obmedzuje rozstrek moču, chráni odtok pred upchatím a uvoľňuje podmanivú ovocnú vôňu manga.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;FRE-PRO Wave 3D Mango je vonné pisoárové sitko v balení 1 ks. Tvarovaný povrch tlmí dopad prúdu a obmedzuje rozstrek mimo pisoár, takže podlaha okolo zostáva čistejšia.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ochrana odtoku&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sitko zachytáva nedopalky, papier a hrubé nečistoty, ktoré by inak upchali odtok. Údržba pisoára je vďaka tomu jednoduchšia a menej častá.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vôňa a výdrž&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sitko uvoľňuje podmanivú ovocnú vôňu manga a potláča pachy priamo pri zdroji. Vhodné do prevádzok s vysokou návštevnosťou.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Balenie 1 ks&lt;/li&gt;
+&lt;li&gt;Rad Wave 3D&lt;/li&gt;
+&lt;li&gt;Obmedzuje rozstrek moču&lt;/li&gt;
+&lt;li&gt;Chráni odtok pred upchatím&lt;/li&gt;
+&lt;li&gt;Vôňa Mango&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 1 ks&lt;br&gt;&lt;strong&gt;Vôňa:&lt;/strong&gt; Mango&lt;br&gt;&lt;strong&gt;Rad:&lt;/strong&gt; FRE-PRO Wave 3D&lt;br&gt;&lt;strong&gt;Určenie:&lt;/strong&gt; pisoáre&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023141895</CODE>
+    <EAN>8594194892197</EAN>
+    <CATEGORIES>
+      <CATEGORY>Čistiace prostriedky &gt; WC, kúpeľňa a sanita</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/l/l6a5897ba5a30b-fre-pro-wave-3d-vonne-sitko-do-pisoara-mango-1ks.png</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>100</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC49540280023131649</CODE>
+      <CODE>-PC49540280023141883</CODE>
+      <CODE>-PC49540280023131850</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC49540280023132238</CODE>
+      <CODE>-PC49540280023132239</CODE>
+      <CODE>-PC49540280023132240</CODE>
+      <CODE>-PC49540280023141856</CODE>
+      <CODE>-PC49540280023141893</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>4.45</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>100</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -68069,6 +68959,70 @@ Francúzsko</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>HP Fre-Pro WAVE 3D pisoárove sitko Fabulous Lavender, 1 ks</NAME>
+    <SHORT_DESCRIPTION>Vonné pisoárové sitko FRE-PRO Wave 3D Fabulous Lavender, balenie 1 ks. Obmedzuje rozstrek moču, chráni odtok pred upchatím a uvoľňuje intenzívnu vôňu levandule.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;FRE-PRO Wave 3D Fabulous Lavender je vonné pisoárové sitko v balení 1 ks. Tvarovaný povrch tlmí dopad prúdu a obmedzuje rozstrek mimo pisoár, takže podlaha okolo zostáva čistejšia.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ochrana odtoku&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sitko zachytáva nedopalky, papier a hrubé nečistoty, ktoré by inak upchali odtok. Údržba pisoára je vďaka tomu jednoduchšia a menej častá.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vôňa a výdrž&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sitko uvoľňuje intenzívnu vôňu levandule a potláča pachy priamo pri zdroji. Vhodné do prevádzok s vysokou návštevnosťou.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Balenie 1 ks&lt;/li&gt;
+&lt;li&gt;Rad Wave 3D&lt;/li&gt;
+&lt;li&gt;Obmedzuje rozstrek moču&lt;/li&gt;
+&lt;li&gt;Chráni odtok pred upchatím&lt;/li&gt;
+&lt;li&gt;Vôňa Fabulous Lavender&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 1 ks&lt;br&gt;&lt;strong&gt;Vôňa:&lt;/strong&gt; Fabulous Lavender&lt;br&gt;&lt;strong&gt;Rad:&lt;/strong&gt; FRE-PRO Wave 3D&lt;br&gt;&lt;strong&gt;Určenie:&lt;/strong&gt; pisoáre&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023141905</CODE>
+    <EAN>8594194892227</EAN>
+    <CATEGORIES>
+      <CATEGORY>Čistiace prostriedky &gt; WC, kúpeľňa a sanita</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/e/e6a58970009f9f-fre-pro-wave-3d-vonne-sitko-do-pisoara-fabulous-1ks.png</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>100</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <RELATED_PRODUCTS>
+      <CODE>-PC49540280023131649</CODE>
+      <CODE>-PC49540280023141883</CODE>
+      <CODE>-PC49540280023131850</CODE>
+    </RELATED_PRODUCTS>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>-PC49540280023131976</CODE>
+      <CODE>-PC49540280023132190</CODE>
+      <CODE>-PC49540280023132234</CODE>
+      <CODE>-PC49540280023132235</CODE>
+      <CODE>-PC49540280023132236</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>4.45</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>100</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>HP Mop Chenille kapsový modrý 40 cm</NAME>
     <SHORT_DESCRIPTION>Mop z bavlny, šírka 40 cm, uchytenie kapsový. Bavlna dobre naberie a udrží vodu, takže mop pokryje väčšiu plochu na jedno namočenie.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Mop Chenille kapsový modrý 40 cm je mop na mokré stieranie podláh so šírkou 40 cm. Bavlna dobre naberie a udrží vodu, takže mop pokryje väčšiu plochu na jedno namočenie.&lt;/p&gt;
@@ -68249,7 +69203,7 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>2</VALUE>
+          <VALUE>4</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -70288,7 +71242,7 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>71</VALUE>
+          <VALUE>73</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -70947,7 +71901,7 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>967</VALUE>
+          <VALUE>966</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -71796,6 +72750,39 @@ Francúzsko</DESCRIPTION>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>89</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>HP FELCE AZZURRA Prací gél WHITE MUSK 40 praní 1 595 ml</NAME>
+    <SHORT_DESCRIPTION>Prací gél Felce Azzurra White Musk s eleganтnou vôňou bieleho mušku, až 40 praní. Čistí a jemne parfumuje bielizeň.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Prací gél Felce Azzurra White Musk účinne perie bielu aj farebnú bielizeň a zanecháva na nej elegantnú vôňu bieleho mušku. Koncentrovaná receptúra odstraňuje bežné nečistoty už pri nižších teplotách a je vhodná na ručné aj strojové pranie. Balenie 1595 ml vystačí až na 40 pracích dávok. Dávkujte podľa pokynov na obale.&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49540280023232390</CODE>
+    <EAN>8001280409585</EAN>
+    <CATEGORIES>
+      <CATEGORY>Pracie prostriedky &gt; Pracie prášky a gély</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/f/f6aecdcf1cec16-d1dc1383-bc58-4b13-9a1f-d74a9514f44c-1818345621.jpeg</IMAGE>
+    </IMAGES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>5.17</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>43</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
