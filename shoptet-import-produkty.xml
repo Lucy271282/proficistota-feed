@@ -250,7 +250,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5799</VALUE>
+          <VALUE>5829</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -1270,7 +1270,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>55</VALUE>
+          <VALUE>105</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -2787,7 +2787,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1682</VALUE>
+          <VALUE>1672</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6070,7 +6070,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>553</VALUE>
+          <VALUE>421</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6702,7 +6702,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4342</VALUE>
+          <VALUE>4300</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -6766,7 +6766,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4510</VALUE>
+          <VALUE>4478</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7659,7 +7659,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>632</VALUE>
+          <VALUE>652</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -7897,7 +7897,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>360</VALUE>
+          <VALUE>368</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -8910,7 +8910,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>217</VALUE>
+          <VALUE>218</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -9985,69 +9985,6 @@
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP Latexové rukavice Mercator bez púdru L, 100 ks</NAME>
-    <SHORT_DESCRIPTION>Upratovacie rukavice, veľkosť L, balenie 100 ks. Opakovane použiteľné, chránia ruky pred vodou a čistiacimi prostriedkami.</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Latexové rukavice Mercator bez púdru L, 100 ks sú opakovane použiteľné upratovacie rukavice v balení 100 ks, veľkosť L. Chránia pokožku pred vodou, saponátmi a agresívnejšou chémiou pri upratovaní.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Odolnosť&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Latex je pružný, dobre kopíruje ruku a zachováva cit v prstoch.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kde ich využijete&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Pri umývaní riadu, upratovaní kúpeľne a WC, práci so silnejšou chémiou aj v záhrade. Po použití ich opláchnite a nechajte vyschnúť.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vlastnosti:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Veľkosť L&lt;/li&gt;
-&lt;li&gt;Balenie 100 ks&lt;/li&gt;
-&lt;li&gt;Opakovane použiteľné&lt;/li&gt;
-&lt;li&gt;Na bežné upratovanie&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Veľkosť:&lt;/strong&gt; L&lt;br&gt;&lt;strong&gt;Balenie:&lt;/strong&gt; 100 ks&lt;/p&gt;</DESCRIPTION>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CODE>-PC49540280023132135</CODE>
-    <EAN>5906615032687</EAN>
-    <CATEGORIES>
-      <CATEGORY>Upratovacie pomôcky &gt; Rukavice</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/7/76a48ddcd927f5-hf-20260704-101607-4a4d68fb-aeeb-43e3-94df-b0b509d10695.png</IMAGE>
-    </IMAGES>
-    <TEXT_PROPERTIES>
-      <TEXT_PROPERTY>
-        <NAME>Počet kusov v kartóne</NAME>
-        <VALUE>10</VALUE>
-      </TEXT_PROPERTY>
-    </TEXT_PROPERTIES>
-    <RELATED_PRODUCTS>
-      <CODE>-PC49540280023132225</CODE>
-      <CODE>-PC49540280023132058</CODE>
-      <CODE>-PC495402800231111</CODE>
-    </RELATED_PRODUCTS>
-    <ALTERNATIVE_PRODUCTS>
-      <CODE>-PC49540280023132133</CODE>
-      <CODE>-PC49540280023132134</CODE>
-      <CODE>-PC49540280023132136</CODE>
-      <CODE>-PC49540280023131842</CODE>
-      <CODE>-PC49540280023131844</CODE>
-    </ALTERNATIVE_PRODUCTS>
-    <FLAGS>
-      <FLAG>
-        <CODE>new</CODE>
-        <ACTIVE>0</ACTIVE>
-      </FLAG>
-    </FLAGS>
-    <VISIBILITY>visible</VISIBILITY>
-    <CURRENCY>EUR</CURRENCY>
-    <PRICE>7.75</PRICE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-          <NAME>Predvolený sklad</NAME>
-          <VALUE>10</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
-    <AVAILABILITY>Na sklade</AVAILABILITY>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>HP Mercator upratovacie rukavice žlté XL, 1 pár</NAME>
     <SHORT_DESCRIPTION>Upratovacie rukavice žltá, veľkosť XL, balenie 1 pár. Opakovane použiteľné, chránia ruky pred vodou a čistiacimi prostriedkami.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Mercator upratovacie rukavice žlté XL, 1 pár sú opakovane použiteľné upratovacie rukavice v balení 1 pár, veľkosť XL. Chránia pokožku pred vodou, saponátmi a agresívnejšou chémiou pri upratovaní.&lt;/p&gt;
@@ -10170,7 +10107,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>398</VALUE>
+          <VALUE>362</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -11396,7 +11333,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>152</VALUE>
+          <VALUE>952</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -13691,7 +13628,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>570</VALUE>
+          <VALUE>510</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -16164,7 +16101,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>26</VALUE>
+          <VALUE>426</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -19219,7 +19156,7 @@
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>38</VALUE>
+          <VALUE>48</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -64935,7 +64872,7 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>1486</VALUE>
+          <VALUE>1406</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -66403,6 +66340,12 @@ Francúzsko</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/l/l6aed80707ff01-omekotitel-felce-azzurra-orhidea-nera-900-ml-45-praneta-6825d02189d07.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>384</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -66436,6 +66379,12 @@ Francúzsko</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/w/w6a58e5668ef9b-16a4a1825cc536-snimka-obrazovky-2026-07-05-o-10-38-33.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1140</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -66469,6 +66418,12 @@ Francúzsko</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/66a58e56697f30-66a4a200ab3f1f-snimka-obrazovky-2026-07-05-o-11-12-28.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1140</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -66502,6 +66457,12 @@ Francúzsko</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/r/r6a58e566a1437-q6a4a264cdb56f-snimka-obrazovky-2026-07-05-o-11-39-14.png</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1140</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -66535,6 +66496,12 @@ Francúzsko</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/v/v6a51fb464f66c-sapliqu1fel3ant.jpg</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1020</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -66921,6 +66888,12 @@ Francúzsko</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/o/o6aed8096cc6c1-omekotitel-felce-azzurra-pura-freschezza-900-ml-45-praneta-6825d4fd33a4f.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>384</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -66954,6 +66927,12 @@ Francúzsko</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/j/j6aecd087ac3c7-9324cb31232316f299b1ff45e6fabb5e.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1020</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -67470,7 +67449,7 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>5863</VALUE>
+          <VALUE>5873</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -67534,7 +67513,7 @@ Francúzsko</DESCRIPTION>
       <WAREHOUSES>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
-          <VALUE>4899</VALUE>
+          <VALUE>4909</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
@@ -72736,6 +72715,12 @@ Francúzsko</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/l/l6aed80ae303ea-omekotitel-felce-azzurra-fiori-di-luna-900-ml-45-praneta-6825d5f18d98b.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>384</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -72789,7 +72774,7 @@ Francúzsko</DESCRIPTION>
     <AVAILABILITY>Na sklade</AVAILABILITY>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>HP FELCE AZZURRA Prací gél ORIGINAL 40 praní 1595 ml</NAME>
+    <NAME>HP FELCE AZZURRA Prací gél ORIGINAL 40 praní 1 595 ml</NAME>
     <SHORT_DESCRIPTION>Prací gél Felce Azzurra Original s ikonickou talianskou vôňou, až 40 praní. Účinné pranie bielej aj farebnej bielizne.</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Prací gél Felce Azzurra Original účinne perie bielu aj farebnú bielizeň a zanecháva na nej nezameniteľnú pudrovo-kvetinovú vôňu značky. Koncentrovaná receptúra odstraňuje bežné nečistoty už pri nižších teplotách, vhodná na ručné aj strojové pranie. Balenie 1595 ml vystačí až na 40 pracích dávok. Dávkujte podľa pokynov na obale.&lt;/p&gt;</DESCRIPTION>
     <ITEM_TYPE>product</ITEM_TYPE>
@@ -72835,6 +72820,12 @@ Francúzsko</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/8/86aecd30154b1f-034090e5fe900868c1ed611109c6f125.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1140</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -72868,6 +72859,12 @@ Francúzsko</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/t/t6aecd8edb8da1-5ptbluuibxxictesqra4z2bn6p6jqovzi7fvlx89-1.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -72901,6 +72898,12 @@ Francúzsko</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/5/56aecd8cecc96a-tu8jvtqnzkqo20a2sbc2tx0xj741o4avtnzb8ywz.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov v kartóne</NAME>
+        <VALUE>12</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -72934,6 +72937,12 @@ Francúzsko</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/2/26aecd7cd288a1-f848fcefeb14960d443e5b22d1a8a7fd.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1020</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -72967,6 +72976,12 @@ Francúzsko</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/q/q6aecd77853a89-2efeba3d8a8eb9e539d42dddabc8cc94.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1020</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -73000,6 +73015,12 @@ Francúzsko</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/p/p6aecd351d1c0d-cf5h0l04trt5kclf8xdjjlauqmt2aluhdautjoyx-1.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1020</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -73033,6 +73054,12 @@ Francúzsko</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/4/46aecd0be4eea5-342d27328ef0bdfa27be340f775fa016.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1020</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -73066,6 +73093,12 @@ Francúzsko</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/5/56aecd042249d2-25486714b7513f1ce9fba004f0e8b213.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1020</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -73099,6 +73132,12 @@ Francúzsko</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/l/l6aecd11fb44c8-c7cfd7a85bceb5f1f06dc5d56e651941.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>720</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -73132,6 +73171,12 @@ Francúzsko</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/m/m6aecd2225fafe-fhi3eo41wlt1tg6sdefofbwobzfudcladsksveno.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1140</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -73165,6 +73210,12 @@ Francúzsko</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/l/l6aecd194f3870-d3e3d49774b181d4414d9c05e835ac58.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1140</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -73198,6 +73249,12 @@ Francúzsko</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://inmediaclean.s26.cdn-upgates.com/f/f6aecd167cb8ad-b7a85b298f384c9d351884bb42f04012.webp</IMAGE>
     </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1140</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -73344,6 +73401,166 @@ Francúzsko</DESCRIPTION>
         <WAREHOUSE>
           <NAME>Predvolený sklad</NAME>
           <VALUE>22</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>HP Toaletný papier WIN 2vr 68 m 100% recyklovaný, 1 ks</NAME>
+    <SHORT_DESCRIPTION>Dvojvrstvový toaletný papier z recyklovaného papiera, návin 68 m, biely. Ekonomická rolka s dlhým návinom pre prevádzky aj domácnosti.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p dir="ltr"&gt;Toaletný papier WIN 2vr 68 m 100 % recyklovaný je dvojvrstvový toaletný papier vyrobený zo 100 % recyklovaných vlákien, s návinom 68 m na rolke. Dlhý návin znamená menej výmen a nižšiu cenu za meter – vhodný do verejných toaliet, kancelárií, škôl a ubytovacích zariadení, kde sa papier spotrebúva vo veľkom. Papier je mäkký, dostatočne pevný a dobre sa rozkladá vo vode.&lt;br&gt;Vrstvy a komfort&lt;br&gt;Dvojvrstvové prevedenie je overeným štandardom, ktorý spája dostatočnú pevnosť s priaznivou cenou. Recyklovaný materiál šetrí prírodné zdroje a znižuje cenu bez výraznej straty komfortu.&lt;br&gt;Praktické informácie&lt;br&gt;Štandardná rolka do bežných držiakov. Vďaka návinu 68 m nahradí jedna rolka približne dve bežné rolky.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Vrstvy: 2-vrstvový&lt;br&gt;Návin: 68 m&lt;br&gt;Materiál: 100 % recyklovaný papier&lt;br&gt;Farba: biela&lt;br&gt;Určenie: domácnosti aj prevádzky&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49640280023232392</CODE>
+    <EAN>8588004168206</EAN>
+    <CATEGORIES>
+      <CATEGORY>Papierový program &gt; Toaletný papier</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/66af731b91bc67-hf-20261113-124602-7553be7d-79ad-4fd7-86f0-2355631d1a49.png</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1188</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>0.69</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>7128</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>HP Toaletný papier WIN 2vr 55 m 100% celulóza, 1 ks</NAME>
+    <SHORT_DESCRIPTION>Dvojvrstvový toaletný papier zo 100 % celulózy, návin 55 m, biely. Jemný a pevný papier pre domácnosti, hotely a kancelárie.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p dir="ltr"&gt;Toaletný papier WIN 2vr 55 m 100 % celulóza je dvojvrstvový toaletný papier vyrobený zo 100 % čistej celulózy, s návinom 55 m na rolke. Celulózový papier je výrazne jemnejší a belší než recyklovaný, preto je vhodný všade, kde záleží na komforte – domácnosti, hotely, penzióny, kancelárie, ordinácie. Dobre sa rozkladá vo vode.&lt;br&gt;Vrstvy a komfort&lt;br&gt;Dvojvrstvové prevedenie spája pevnosť so savosťou. Materiál 100 % celulóza zaisťuje jemnosť k pokožke a čisto bielu farbu bez recyklovaných prímesí.&lt;br&gt;Praktické informácie&lt;br&gt;Štandardná rolka do bežných držiakov, návin 55 m znamená menej výmen než pri bežných 30 m rolkách.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Vrstvy: 2-vrstvový&lt;br&gt;Návin: 55 m&lt;br&gt;Materiál: 100 % celulóza&lt;br&gt;Farba: biela&lt;br&gt;Určenie: domácnosti aj prevádzky&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49640280023232393</CODE>
+    <EAN>8588004168152</EAN>
+    <CATEGORIES>
+      <CATEGORY>Papierový program &gt; Toaletný papier</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/w/w6af7328037142-hf-20261113-124622-c2915e71-b6c2-4823-9730-298bb8595678.png</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>1188</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>0.66</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>2376</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>HP Toaletný papier WIN 1vr 50 m 100 % recyklovaný, 1 ks</NAME>
+    <SHORT_DESCRIPTION>Jednovrstvový toaletný papier z recyklovaného papiera, návin 50 m. Najhospodárnejšia voľba pre verejné toalety a prevádzky s vysokou spotrebou.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p dir="ltr"&gt;Toaletný papier WIN 1vr 50 m 100 % recyklovaný je jednovrstvový toaletný papier vyrobený zo 100 % recyklovaných vlákien, s návinom 50 m na rolke. Je určený tam, kde rozhoduje cena za meter – verejné toalety, dielne, sklady, stánky, sociálne zariadenia. Papier sa rýchlo rozkladá vo vode a je vhodný aj do zariadení so slabším odpadom.&lt;br&gt;Vrstvy a komfort&lt;br&gt;Jednovrstvové prevedenie je najhospodárnejšia voľba pre priestory s vysokou návštevnosťou, kde nie je potrebná vyššia savosť. Recyklovaný materiál šetrí prírodné zdroje.&lt;br&gt;Praktické informácie&lt;br&gt;Štandardná rolka do bežných držiakov, návin 50 m vydrží dlhšie než bežné 30 m rolky.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Vrstvy: 1-vrstvový&lt;br&gt;Návin: 50 m&lt;br&gt;Materiál: 100 % recyklovaný papier&lt;br&gt;Určenie: prevádzky s vysokou spotrebou&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49640280023232394</CODE>
+    <EAN>8588004168220</EAN>
+    <CATEGORIES>
+      <CATEGORY>Papierový program &gt; Toaletný papier</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/x/x6af7326940bdd-hf-20261113-124415-69127a32-192e-4cff-ad57-5d06aee863ff.png</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>2112</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>0.32</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>4192</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
+    </STOCK>
+    <AVAILABILITY>Na sklade</AVAILABILITY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>HP Toaletný papier WIN 2vr 30 m 100 % recyklovaný, 1 ks</NAME>
+    <SHORT_DESCRIPTION>Dvojvrstvový toaletný papier z recyklovaného papiera, návin 30 m, biely. Bežná rolka na každodenné použitie v domácnosti aj prevádzke.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p dir="ltr"&gt;Toaletný papier WIN 2vr 30 m 100 % recyklovaný je dvojvrstvový toaletný papier vyrobený zo 100 % recyklovaných vlákien, s návinom 30 m na rolke. Štandardný formát do bežných držiakov v domácnostiach, kanceláriách a menších prevádzkach. Papier je mäkký, dostatočne pevný a dobre sa rozkladá vo vode.&lt;br&gt;Vrstvy a komfort&lt;br&gt;Dvojvrstvové prevedenie je overeným štandardom, ktorý spája dostatočnú pevnosť s priaznivou cenou. Recyklovaný materiál šetrí prírodné zdroje a znižuje cenu bez výraznej straty komfortu.&lt;br&gt;Praktické informácie&lt;br&gt;Bežná rolka kompatibilná so všetkými štandardnými držiakmi na toaletný papier.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Vrstvy: 2-vrstvový&lt;br&gt;Návin: 30 m&lt;br&gt;Materiál: 100 % recyklovaný papier&lt;br&gt;Farba: biela&lt;br&gt;Určenie: domácnosti aj prevádzky&lt;/p&gt;</DESCRIPTION>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CODE>-PC49640280023232395</CODE>
+    <EAN>8588004168169</EAN>
+    <CATEGORIES>
+      <CATEGORY>Papierový program &gt; Toaletný papier</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://inmediaclean.s26.cdn-upgates.com/6/66af732477351b-hf-20261113-124613-802707fb-f174-48e0-ac55-38009af682ee.png</IMAGE>
+    </IMAGES>
+    <TEXT_PROPERTIES>
+      <TEXT_PROPERTY>
+        <NAME>Počet kusov na palete</NAME>
+        <VALUE>2112</VALUE>
+      </TEXT_PROPERTY>
+    </TEXT_PROPERTIES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>0</ACTIVE>
+      </FLAG>
+    </FLAGS>
+    <VISIBILITY>visible</VISIBILITY>
+    <CURRENCY>EUR</CURRENCY>
+    <PRICE>0.32</PRICE>
+    <STOCK>
+      <WAREHOUSES>
+        <WAREHOUSE>
+          <NAME>Predvolený sklad</NAME>
+          <VALUE>4224</VALUE>
         </WAREHOUSE>
       </WAREHOUSES>
     </STOCK>
